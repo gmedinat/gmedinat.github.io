@@ -7,6 +7,7 @@ Add a:
 - download CV and publications (also link to the ADS)
 - employment history
 - research highlights
+- recent publications
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. It should be filled with love!
 
