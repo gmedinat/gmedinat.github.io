@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Add a: 
+Add: 
 - contact
 - download CV and publications (also link to the ADS)
 - employment history
