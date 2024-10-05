@@ -2,13 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be **bold**, _italic_, or ~~strikethrough~~. It should be filled with love!
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+There should be whitespace between paragraphs. That's where the love lives.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Did you feel it? We recommend including a README, or a file with information about your project.
 
 # Header 1
 
