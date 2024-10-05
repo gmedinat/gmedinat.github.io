@@ -2,6 +2,12 @@
 layout: default
 ---
 
+Add a: 
+- contact
+- download CV and publications (also link to the ADS)
+- employment history
+- research highlights
+
 Text can be **bold**, _italic_, or ~~strikethrough~~. It should be filled with love!
 
 [Link to another page](./another-page.html).
