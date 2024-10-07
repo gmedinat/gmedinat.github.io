@@ -18,7 +18,7 @@ layout: default
 **Citizenship:** Chile  
 **Email:** [gustavo.medina@utoronto.ca](mailto:gustavo.medina@utoronto.ca)  
 **Telephone:** (+49) 178 5284200  
-**ORCID:** [0000-0003-0105-9576](https://orcid.org/0000-0003-0105-9576))
+**ORCID:** [0000-0003-0105-9576](https://orcid.org/0000-0003-0105-9576)
 
 
 [Download my CV](https://github.com/gmedinat/gmedinat.github.io/blob/2e22dbc00e66a6366304da0e16ec0f1f449b8480/CV_GMT_20241005.pdf)
