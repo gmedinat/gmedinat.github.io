@@ -3,8 +3,3 @@ description: A&S Postdoctoral Fellow, David A. Dunlap Department of Astronomy & 
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
-header_pages:
-  - contact.md
-  - employment-history.md
-  - research-highlights.md
-  - recent-publications.md
