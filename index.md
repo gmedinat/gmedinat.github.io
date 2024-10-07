@@ -2,11 +2,14 @@
 layout: default
 ---
 
-#Add: 
-#- contact
-#- employment history
-#- research highlights
-#- recent publications
+<!-- This is a comment in a Markdown file. -->
+
+<!--Add: 
+- contact
+- employment history
+- research highlights
+- recent publications
+ -->
 
 [Download my CV](https://github.com/gmedinat/gmedinat.github.io/blob/2e22dbc00e66a6366304da0e16ec0f1f449b8480/CV_GMT_20241005.pdf)
 
