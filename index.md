@@ -8,7 +8,9 @@ Add:
 - employment history
 - research highlights
 - recent publications
-- something else
+
+[Download my CV](https://github.com/gmedinat/gmedinat.github.io/blob/2e22dbc00e66a6366304da0e16ec0f1f449b8480/CV_GMT_20241005.pdf)
+[Download my List of Publications]()
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. It should be filled with love!
 
