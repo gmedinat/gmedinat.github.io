@@ -10,7 +10,7 @@ Add:
 - recent publications
 
 [Download my CV](https://github.com/gmedinat/gmedinat.github.io/blob/2e22dbc00e66a6366304da0e16ec0f1f449b8480/CV_GMT_20241005.pdf)
-[Download my List of Publications]()
+[Download my List of Publications](https://github.com/gmedinat/gmedinat.github.io/blob/94cc80feec013bbc4358ab5a4196f4a169079500/Publications_GMT_20241005.pdf)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. It should be filled with love!
 
