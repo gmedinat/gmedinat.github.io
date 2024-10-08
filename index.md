@@ -11,6 +11,8 @@ layout: default
 - recent publications
  -->
 
+## Finish website before Friday.
+
 ## Contact Information
 
 **Full Name:** Gustavo E. Medina Toledo  
