@@ -36,10 +36,10 @@ the main responsible for the analysis of RR Lyrae stars in DESI and S5.
 # Galactic archaeology with variable stars
 ...
 
-[Branching](https://github.com/gmedinat/gmedinat.github.io/Figures/galacticMap2_dark_bg_transp.png)
+[Branching](https://github.com/gmedinat/gmedinat.github.io/blob/master/Figures/galacticMap2_dark_bg_transp.png)
 
 
-![Branching](https://github.com/gmedinat/gmedinat.github.io/Figures/galacticMap2_dark_bg_transp.png)
+![Branching](https://github.com/gmedinat/gmedinat.github.io/blob/master/Figures/galacticMap2_dark_bg_transp.png)
 
 
 ## Employment History
