@@ -62,6 +62,10 @@ Description Project 4
 ![Branching](https://github.com/gmedinat/gmedinat.github.io/blob/master/Figures/galacticMap2_dark_bg_transp.png)
 
 
+![Branching](https://github.com/gmedinat/gmedinat.github.io/blob/master/Figures/haloprof_allsky_mod_All_AllRRL_Rel_sinCorr_Mask_dark.png)
+
+![Branching](https://github.com/gmedinat/gmedinat.github.io/blob/master/Figures/two_plots_shades_95_all_noSex_Rgc_Mask_sinCorr.png)
+
 ## Employment History
 
 [Download my CV](https://github.com/gmedinat/gmedinat.github.io/blob/2e22dbc00e66a6366304da0e16ec0f1f449b8480/CV_GMT_20241005.pdf)
