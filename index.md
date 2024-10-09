@@ -31,10 +31,27 @@ the main responsible for the analysis of RR Lyrae stars in DESI and S5.
 **Email:** [gustavo.medina@utoronto.ca](mailto:gustavo.medina@utoronto.ca)  
 **ORCID:** [0000-0003-0105-9576](https://orcid.org/0000-0003-0105-9576)
 
-## Research
+# Research
 
-# Galactic archaeology with variable stars
+## Galactic archaeology with variable stars
 ...
+
+### Project 1
+Description Project 1
+- plot project 1
+
+### Project 2 
+Description Project 2
+- plot project 2
+
+### Project 3
+Description Project 3
+- plot project 3
+
+### Project 4
+Description Project 4
+- plot project 4
+
 
 [Branching](https://github.com/gmedinat/gmedinat.github.io/blob/master/Figures/galacticMap2_dark_bg_transp.png)
 
