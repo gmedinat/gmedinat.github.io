@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research Highlights
-permalink: /Research Highlights/
+permalink: /research_highlights/
 ---
 
 # Research Highlights
