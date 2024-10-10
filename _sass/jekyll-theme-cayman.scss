@@ -110,7 +110,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: url('Figures/deep-space-hd.jpg'); /* Updated to your image path */
+  background-image: url(#{$header-bg-image});
   background-size: cover;
   background-position: center;
 
@@ -126,6 +126,7 @@ a {
     padding: 2rem 1rem;
   }
 }
+
 
 .project-name {
   margin-top: 0;
