@@ -63,7 +63,7 @@ Description Project 4
 <div style="display: flex; align-items: center;">
     <!-- Image on the left of text -->
     <img src="Figures/galacticMap2_dark_bg_transp.png" alt="Galactic Map" style="width: 400px; margin-right: 15px;">
-    <p style="text-align: justify;">>
+    <p style="text-align: justify;">
         Here is some information about the galactic map. The text here should be on the right half of the webpage, while the image is on the left. I'm hoping to make this paragraph pretty long to show how it might look if you have a lot to say about it. Of course, you don't have to be talking about the image at all here, you could talk about how cool you are and just have this image because it's pretty and is a kinda nice intro to what your work focuses on.
     </p>
 </div>
@@ -73,7 +73,7 @@ In here, I'm going to put some words so that we can see what it will look like t
 </p>
 
 <div style="display: flex; align-items: center;">
-    <p style="text-align: justify;">>
+    <p style="text-align: justify;">
         This image shows the halo profile. At least, that's what the title says. I don't really know what the rest of the words in the file name mean, but I bet you do! anyways, here's another block of text so we can see that this time, the image is on the right side and the test is on the left. I hope this all is working. using html here is bringing me back to my Neopets days, when I first figured out coding so I could customize my neopet's profiles haha. I was such a nerd.
     </p>
     <!-- Image on the right of text -->
@@ -83,7 +83,7 @@ In here, I'm going to put some words so that we can see what it will look like t
 <div style="display: flex; align-items: center;">
     <!-- Image on the left of text -->
     <img src="Figures/two_plots_shades_95_all_noSex_Rgc_Mask_sinCorr.png" alt="Data Plots" style="width: 400px; margin-right: 15px;">
-    <p style="text-align: justify;">>
+    <p style="text-align: justify;">
         The two plots here have shading? I'm trying to decipher these titles but I don't know anything haha. Anyways, you are awesome and are doing so much! I hope this website helps show people all the things you do! It would be really cool for you to have a place to talk about some of the things you've done that don't really have a place anywhere in your applications. If you talk candidly about some of your outreach things in Chile, or side stuff you've done at UT, I bet people would read it and see a bit more of your personality so they could decide if you'd be a good match for their programs or not. 
     </p>
 </div>
