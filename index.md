@@ -55,16 +55,16 @@ Description Project 3
 Description Project 4
 - plot project 4
 
-
+<!--
 [Branching](https://github.com/gmedinat/gmedinat.github.io/blob/master/Figures/galacticMap2_dark_bg_transp.png)
 
-
 ![Branching](https://github.com/gmedinat/gmedinat.github.io/blob/master/Figures/galacticMap2_dark_bg_transp.png)
-
 
 ![Branching](https://github.com/gmedinat/gmedinat.github.io/blob/master/Figures/haloprof_allsky_mod_All_AllRRL_Rel_sinCorr_Mask_dark.png)
 
 ![Branching](https://github.com/gmedinat/gmedinat.github.io/blob/master/Figures/two_plots_shades_95_all_noSex_Rgc_Mask_sinCorr.png)
+
+-->
 
 <div style="display: flex; align-items: center;">
     <!-- Image on the left of text -->
