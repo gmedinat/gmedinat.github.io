@@ -34,52 +34,6 @@ I am the Principal Investigator of the Halo Outskirts With VAriable STars (HOWVA
 **Email:** [gustavo.medina@utoronto.ca](mailto:gustavo.medina@utoronto.ca)  
 **ORCID:** [0000-0003-0105-9576](https://orcid.org/0000-0003-0105-9576)
 
-
-## Employment History
-
-[Download my CV](https://github.com/gmedinat/gmedinat.github.io/blob/2e22dbc00e66a6366304da0e16ec0f1f449b8480/CV_GMT_20241005.pdf)
-
-<!-- ## Job Title 1
-**Employer:** [Employer Name]  
-**Location:** [City, Country]  
-**Dates:** [Start Date] - [End Date]  
-
-**Roles:**
-- [Role 1]
-- [Role 2]
-- [Role 3]
-
-**Personnel Worked With:**
-- [Colleague/Team Member 1]
-- [Colleague/Team Member 2]
-- [Colleague/Team Member 3]
-
-**Description:**
-[Write a brief description of the work completed, key responsibilities, projects involved, and any notable achievements. Be specific about contributions and skills utilized.]
-
----
-
-## Job Title 2
-**Employer:** [Employer Name]  
-**Location:** [City, Country]  
-**Dates:** [Start Date] - [End Date]  
-
-**Roles:**
-- [Role 1]
-- [Role 2]
-- [Role 3]
-
-**Personnel Worked With:**
-- [Colleague/Team Member 1]
-- [Colleague/Team Member 2]
-- [Colleague/Team Member 3]
-
-**Description:**
-[Write a brief description of the work completed, key responsibilities, projects involved, and any notable achievements. Be specific about contributions and skills utilized.]
-
---- -->
-
-
 ## Recent Publications
 
 [Download my List of Publications](https://github.com/gmedinat/gmedinat.github.io/blob/94cc80feec013bbc4358ab5a4196f4a169079500/Publications_GMT_20241005.pdf)
