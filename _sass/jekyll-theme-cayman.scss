@@ -110,7 +110,9 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  background-image: url('Figures/deep-space-hd.jpg'); /* Updated to your image path */
+  background-size: cover;
+  background-position: center;
 
   @include large {
     padding: 5rem 6rem;
