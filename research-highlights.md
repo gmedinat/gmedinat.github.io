@@ -84,7 +84,7 @@ In here, I'm going to put some words so that we can see what it will look like t
     <!-- Image on the left of text -->
     <img src="Figures/two_plots_shades_95_all_noSex_Rgc_Mask_sinCorr.png" alt="Data Plots" style="width: 400px; margin-right: 15px;">
     <p style="text-align: justify;">>
-        The two plots here have shading without sex...tractor? I'm trying to decipher these titles but I don't know anything haha. Anyways, you are awesome and are doing so much! I hope this website helps show people all the things you do! It would be really cool for you to have a place to talk about some of the things you've done that don't really have a place anywhere in your applications. If you talk candidly about some of your outreach things in Chile, or side stuff you've done at UT, I bet people would read it and see a bit more of your personality so they could decide if you'd be a good match for their programs or not. I love you!
+        The two plots here have shading? I'm trying to decipher these titles but I don't know anything haha. Anyways, you are awesome and are doing so much! I hope this website helps show people all the things you do! It would be really cool for you to have a place to talk about some of the things you've done that don't really have a place anywhere in your applications. If you talk candidly about some of your outreach things in Chile, or side stuff you've done at UT, I bet people would read it and see a bit more of your personality so they could decide if you'd be a good match for their programs or not. 
     </p>
 </div>
 
