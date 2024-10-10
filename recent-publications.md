@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Recent Publications
-permalink: /recent_publications/
+permalink: /recent-publications/
 ---
 
 # Recent Publications
