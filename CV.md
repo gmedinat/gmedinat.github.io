@@ -103,5 +103,16 @@ Germany.
 ## Students Supervised
 
 ## Public Outreach
+- Talk “La Vía Láctea y las distancias a escala Galáctica” offered remotely and in person for several rural schools in Chile (2021-)
+- Talk “The Milky Way: Our Home in the Universe” offered for the Astronomy in Action Space Rangers Summer Camp (Aug/2023)
+- Talk “Astronomy in the 21st century” offered remotely for diverse schools in Canada and the US (2023-)
+- Volunteer at the “Astronomy on TAP” outreach events at the University of Toronto (2023-)
+- Volunteer at the “Universe” outreach program of the University of Toronto (2023-)
+- Panelist at the 2023 Visions of Science Empower Leadership Program career event at the University of Toronto (July/2023)
+- Guide on high-school visits to the Department of Astronomy and Astrophysics, University of Toronto, Canada (2023-)
+- Guide on the national heritage day at the National Astronomical Observatory, Chile (May/2017)
 
 ## Languages
+- Spanish (Native speaker)
+- English (Fluent)
+- German (Intermediate - Goethe-Zertifikat B1 - B2)
