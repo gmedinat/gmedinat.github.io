@@ -215,7 +215,7 @@ Germany. (Sep/2016)
 
 ## Astronomical Service
 - External panelist for the Hubble Space Telescope (HST) Time Allocation Committee (Cycles 32 and 33, Stellar Populations section)
-- Peer-reviewing referee for the Astronomy & Astrophysics (A&A) and the Monthly Notices of the Royal Astronomical Society (MNRAS) journals (1–2 papers per year)
+- Peer-reviewing referee for the Astronomy & Astrophysics (A&A) and the Monthly Notices of the Royal Astronomical Society (MNRAS) journals
 - Peer-reviewing referee for the allocation of observing time with the Gemini telescope, in conjunction with the Canadian Time Allocation Committee (CanTAC)
 
 
