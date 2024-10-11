@@ -5,9 +5,8 @@ permalink: /cv/
 ---
 
 
-## Access my Full CV:
-... LINK
-
+- [Download my full CV (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/024b38f2fd97e363a8734fe53e2e08b4018339ac/CV_GMT_20241005.pdf)
+- [Download my List of Publications (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/94cc80feec013bbc4358ab5a4196f4a169079500/Publications_GMT_20241005.pdf)
 
 ## Contact Information
 
