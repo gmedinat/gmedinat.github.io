@@ -109,10 +109,10 @@ This list includes in-person and remote observations for the following surveys: 
 - “Spectroscopy of RR Lyrae at the Outer Limits of the Milky Way”, 2020B, LCO-Clay, MIKE. PI: Muñoz, R. **(2 nights)**.
 - “Spectroscopy of RR Lyrae at the Outer Limits of the Milky Way”, 2019B, LCO-Clay, MIKE. PI: Muñoz, R. **(2 nights)**.
 - “Improving Phase Coverage of RR Lyrae at the Outer Limits of the Milky Way”, 2019B, CTIO- SOAR, Goodman HTS. PI: Muñoz, R. **(4 nights)**.
-- “Mapping the Outer Halo of the Milky Way with RR Lyrae”, 2018B, CTIO-Blanco, DECam. PI: Muñoz, R. **(2 nights).
-- “Mapping the Outer Halo of the Milky Way with RR Lyrae”, 2018A, CTIO-Blanco, DECam. PI: Carlin, J. **(2 nights).
-- “Mapping the Outer Halo of the Milky Way with RR Lyrae”, 2017B, CTIO-Blanco, DECam. PI: Muñoz, R. **(2 nights).
-- “Mapping the Outer Halo of the Milky Way with RR Lyrae”, 2017B, CTIO-Blanco, DECam. PI: Carlin, J. **(1 night).
+- “Mapping the Outer Halo of the Milky Way with RR Lyrae”, 2018B, CTIO-Blanco, DECam. PI: Muñoz, R. **(2 nights)**.
+- “Mapping the Outer Halo of the Milky Way with RR Lyrae”, 2018A, CTIO-Blanco, DECam. PI: Carlin, J. **(2 nights)**.
+- “Mapping the Outer Halo of the Milky Way with RR Lyrae”, 2017B, CTIO-Blanco, DECam. PI: Muñoz, R. **(2 nights)**.
+- “Mapping the Outer Halo of the Milky Way with RR Lyrae”, 2017B, CTIO-Blanco, DECam. PI: Carlin, J. **(1 night)**.
 
 “The High cadence Transient Survey (HiTS)”, 2015A, CTIO-Blanco, DECam. PI: Förster, F. **(9.5 nights)**.
 
@@ -245,7 +245,7 @@ Germany. (Sep/2016)
 
 
 ## Students Supervised
-- Undergraduate students
+**Undergraduate students**
   - Wesley Luo - University of Toronto (ON, Canada)
     
   “Comparing the dynamical properties of DESI stellar streams with cold and warm dark matter simulations” (May/2024–)
@@ -281,7 +281,7 @@ Germany. (Sep/2016)
     “Tracing the Milky Way Density Profile with Blue Horizontal Branch stars in the Dark Energy Survey ” (Jan/2023–Jan/2024)
     Results: Classification of BHB stars in the DES survey using a Bayesian mixture model and mapping the stellar density profile < 70 kpc. Results published in the A&A journal (link).
 
-- High school students (as part of the Visions of Science program)
+**High school students (as part of the Visions of Science program)**
 
   - Adheena Fatimah and Heruye Gared - University of Toronto (ON, Canada)
 
