@@ -25,20 +25,20 @@ This is a shortened version of my CV. Detailed versions of my CV and my publicat
     dwarf galaxies in the Local Group, photometric/spectroscopic surveys.
 
 ## Education
-**Dr.rer.nat. (PhD) in Astronomy** (2018 - 2022)
- - Heidelberg University, Heidelberg, Germany.            (_magna cum laude_)
+**Dr.rer.nat. (PhD) in Astronomy** (2018 - 2022)            (_magna cum laude_)
+ - Heidelberg University, Heidelberg, Germany.
     - Thesis: Unveiling the Milky Way’s history using young & old population variable stars
     - Supervisor: Prof. Dr. Eva K. Grebel
 
-**Master of Science in Astronomy** (2015 - 2017)
+**Master of Science in Astronomy** (2015 - 2017)            (_with highest distinction_)
 
-  - Universidad de Chile, Santiago, Chile.            (_with highest distinction_)
+  - Universidad de Chile, Santiago, Chile.
      - Thesis: Searching for distant RR Lyrae in the Galactic halo using the HITS survey
      - Supervisor: Prof. Dr. Ricardo Muñoz
 
-**Bachelor of Science in Astronomy** (2010 - 2014)
+**Bachelor of Science in Astronomy** (2010 - 2014)            (_with distinction_)
 
- - Universidad de Chile, Santiago, Chile.            (_with distinction_)
+ - Universidad de Chile, Santiago, Chile.
 
 
 ## Employment History
