@@ -20,7 +20,9 @@ This is a shortened version of my CV. Detailed versions of my CV and my publicat
 **ORCID:** [0000-0003-0105-9576](https://orcid.org/0000-0003-0105-9576)
 
 ## Research Interests
-    Galactic archaeology, variable stars, kinematics of stars and clusters, RR Lyrae stars in the distant halo, dwarf galaxies in the Local Group, photometric/spectroscopic surveys.
+    Galactic archaeology, variable stars, 
+    RR Lyrae stars in the distant halo, kinematics of stars and clusters, 
+    dwarf galaxies in the Local Group, photometric/spectroscopic surveys.
 
 ## Education
 *Dr.rer.nat. (PhD) in Astronomy* (2018 - 2022)
