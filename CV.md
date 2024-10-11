@@ -4,6 +4,12 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
+<pre>
+  This is line 1
+  This is line 2
+  This is line 3
+</pre>
+
 # Under Construction!
 
 This is a shortened version of my CV. Detailed versions of my CV and my publication records (_as of October 5, 2024_) are provided in the following links:
