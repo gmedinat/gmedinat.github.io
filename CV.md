@@ -42,31 +42,32 @@ Universidad de Chile, Santiago, Chile. (_with distinction_)
 
 
 ## Employment History
-Postdoctoral Fellow (2023 - 2026)
-David A. Dunlap Department of Astronomy & Astrophysics, University of Toronto, Canada
-(Link)
+- Postdoctoral Fellow (2023 - 2026)
+  - David A. Dunlap Department of Astronomy & Astrophysics, University of Toronto, Canada (Link)
 
-Graduate Researcher (2015 - 2022)
-Astronomisches Rechen-Institut, Heidelberg University, Germany (Link 1, Link 2)
-Departamento de Astronomía, Universidad de Chile, Chile (Link)
+- Graduate Researcher (2015 - 2022)
+  - Astronomisches Rechen-Institut, Heidelberg University, Germany (Link 1, Link 2)
+  - Departamento de Astronomía, Universidad de Chile, Chile (Link)
 
 ## Grants, Awards and Fellowships
-Arts & Science + Dunlap Postdoctoral Fellowship
-University of Toronto, 2023 - 2026, Canada.
-Gemini Science Fellowship
+- Arts & Science + Dunlap Postdoctoral Fellowship
+  - University of Toronto, 2023 - 2026, Canada.
 
-Hector Fellow Academy, 2018 - 2022, Germany.
-IMPRS-HD Doctoral Fellow (acceptance ratio: 10%)
-International Max Planck Research School for Astronomy and Cosmic Physics, 2018 - 2022,
+- Hector Fellow Academy Doctoral Fellowship
+  - Hector Fellow Academy, 2018 - 2022, Germany.
+
+- IMPRS-HD Doctoral Fellow
+  - International Max Planck Research School for Astronomy and Cosmic Physics, 2018 - 2022,
 Germany.
 
-Magíster Nacional Scholarship (acceptance ratio: 10%; 6,000,000 CLP)
-Comisión Nacional de Investigación Científica y Tecnológica, 2016, Chile.
+- Magíster Nacional Scholarship
+  - Comisión Nacional de Investigación Científica y Tecnológica, 2016, Chile.
 
-Award for Academic Excellence (award winning ratio: 5%)
-Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile, 2013 and 2014, Chile.
+- Award for Academic Excellence
+  - Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile, 2013 and 2014, Chile.
 
 **As co-I**
-Fondecyt Fellowship 2022 (PI: Muñoz, R.; grant acceptance ratio: 15%; 170,000,000 CLP)
-Provides funding to support the HOWVAST survey development.
+
+Fondecyt Fellowship 2022 (PI: Muñoz, R.)
+
 Comisión Nacional de Investigación Científica y Tecnológica, 2022 - 2025, Chile.
