@@ -18,18 +18,18 @@ This is a shortened version of my CV. Detailed versions of my CV and my publicat
 **ORCID:** [0000-0003-0105-9576](https://orcid.org/0000-0003-0105-9576)
 
 ## Research Interests
-Galactic archaeology, variable stars, kinematics of stars and clusters, RR Lyrae stars in the distant halo, dwarf galaxies in the Local Group, photometric/spectroscopic surveys.
+    Galactic archaeology, variable stars, kinematics of stars and clusters, RR Lyrae stars in the distant halo, dwarf galaxies in the Local Group, photometric/spectroscopic surveys.
 
 ## Education
-Dr.rer.nat. (PhD) in Astronomy (2018 - 2022)
+*Dr.rer.nat. (PhD) in Astronomy* (2018 - 2022)
 
-    Heidelberg University, Heidelberg, Germany.         (_magna cum laude_)
+Heidelberg University, Heidelberg, Germany.         (_magna cum laude_)
 
-    Thesis: Unveiling the Milky Way’s history using young & old population variable stars
+Thesis: Unveiling the Milky Way’s history using young & old population variable stars
 
-    Supervisor: Prof. Dr. Eva K. Grebel
+Supervisor: Prof. Dr. Eva K. Grebel
 
-Master of Science in Astronomy (2015 - 2017)
+*Master of Science in Astronomy* (2015 - 2017)
 
   Universidad de Chile, Santiago, Chile.           (_with highest distinction_)
 
@@ -37,7 +37,8 @@ Master of Science in Astronomy (2015 - 2017)
 
   Supervisor: Prof. Dr. Ricardo Muñoz
 
-Bachelor of Science in Astronomy (2010 - 2014)
+*Bachelor of Science in Astronomy* (2010 - 2014)
+
 Universidad de Chile, Santiago, Chile. (_with distinction_)
 
 
@@ -68,6 +69,5 @@ Germany.
 
 **As co-I**
 
-Fondecyt Fellowship 2022 (PI: Muñoz, R.)
-
-Comisión Nacional de Investigación Científica y Tecnológica, 2022 - 2025, Chile.
+- Fondecyt Fellowship 2022 (PI: Muñoz, R.)
+  -Comisión Nacional de Investigación Científica y Tecnológica, 2022 - 2025, Chile.
