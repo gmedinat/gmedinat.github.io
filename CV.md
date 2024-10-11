@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-This is a summarized version of my CV. Detailed versions of my CV and my publication records (as of October 5, 2024) are provided in the following links:
+This is a shortened version of my CV. Detailed versions of my CV and my publication records (as of October 5, 2024) are provided in the following links:
 
 - [Download my full CV (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/024b38f2fd97e363a8734fe53e2e08b4018339ac/CV_GMT_20241005.pdf)
 - [Download my List of Publications (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/94cc80feec013bbc4358ab5a4196f4a169079500/Publications_GMT_20241005.pdf)
@@ -23,17 +23,17 @@ Galactic archaeology, variable stars, kinematics of stars and clusters, RR Lyrae
 ## Education
 Dr.rer.nat. (PhD) in Astronomy (2018 - 2022)
 
-Heidelberg University, Heidelberg, Germany.         (magna cum laude)
+Heidelberg University, Heidelberg, Germany.         (_magna cum laude_)
 Thesis: Unveiling the Milky Way’s history using young & old population variable stars
 Supervisor: Prof. Dr. Eva K. Grebel
 
 Master of Science in Astronomy (2015 - 2017)
-Universidad de Chile, Santiago, Chile.           (with highest distinction)
+Universidad de Chile, Santiago, Chile.           (_with highest distinction_)
 Thesis: Searching for distant RR Lyrae in the Galactic halo using the HITS survey
 Supervisor: Prof. Dr. Ricardo Muñoz
 
 Bachelor of Science in Astronomy (2010 - 2014)
-Universidad de Chile, Santiago, Chile. (with distinction)
+Universidad de Chile, Santiago, Chile. (_with distinction_)
 
 
 ## Employment History
@@ -61,7 +61,7 @@ Comisión Nacional de Investigación Científica y Tecnológica, 2016, Chile.
 Award for Academic Excellence (award winning ratio: 5%)
 Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile, 2013 and 2014, Chile.
 
-As co-I
+**As co-I**
 Fondecyt Fellowship 2022 (PI: Muñoz, R.; grant acceptance ratio: 15%; 170,000,000 CLP)
 Provides funding to support the HOWVAST survey development.
 Comisión Nacional de Investigación Científica y Tecnológica, 2022 - 2025, Chile.
