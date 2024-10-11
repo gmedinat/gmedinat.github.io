@@ -4,6 +4,8 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
+# Under Construction!
+
 This is a shortened version of my CV. Detailed versions of my CV and my publication records (as of October 5, 2024) are provided in the following links:
 
 - [Download my full CV (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/024b38f2fd97e363a8734fe53e2e08b4018339ac/CV_GMT_20241005.pdf)
