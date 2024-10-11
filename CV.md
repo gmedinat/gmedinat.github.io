@@ -69,7 +69,37 @@ Germany.
 - Award for Academic Excellence
   - Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile, 2013 and 2014, Chile.
 
-**As co-I**
+   **As co-I**
 
 - Fondecyt Fellowship 2022 (PI: Muñoz, R.)
   -Comisión Nacional de Investigación Científica y Tecnológica, 2022 - 2025, Chile.
+
+
+## Technical Skills
+
+## Observing Experience
+
+## Successful Observing Proposals
+
+## Selected Invited Talks and Seminars (recent only!)
+
+## Participation in Scientific Events 
+
+### Conferences with contributions (recent only!) 
+([T]: Contributed Talk, [P]: Poster Presentation)
+
+### Workshops and Schools (recent only!)
+
+## Collaborations, Memberships, and Leadership Roles
+
+## Astronomical Service
+
+## Additional Training  
+
+## Teaching Experience (as teaching assistant)
+
+## Students Supervised
+
+## Public Outreach
+
+## Languages
