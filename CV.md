@@ -75,7 +75,7 @@ Germany.
    **As co-I**
 
 - Fondecyt Fellowship 2022 (PI: Muñoz, R.)
-  -Comisión Nacional de Investigación Científica y Tecnológica, 2022 - 2025, Chile.
+  - Comisión Nacional de Investigación Científica y Tecnológica, 2022 - 2025, Chile.
 
 
 ## Technical Skills
