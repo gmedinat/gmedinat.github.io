@@ -25,25 +25,20 @@ This is a shortened version of my CV. Detailed versions of my CV and my publicat
     dwarf galaxies in the Local Group, photometric/spectroscopic surveys.
 
 ## Education
-*Dr.rer.nat. (PhD) in Astronomy* (2018 - 2022)
+**Dr.rer.nat. (PhD) in Astronomy** (2018 - 2022)
+ - Heidelberg University, Heidelberg, Germany.         (_magna cum laude_)
+    - Thesis: Unveiling the Milky Way’s history using young & old population variable stars
+    - Supervisor: Prof. Dr. Eva K. Grebel
 
-Heidelberg University, Heidelberg, Germany.         (_magna cum laude_)
+**Master of Science in Astronomy** (2015 - 2017)
 
-Thesis: Unveiling the Milky Way’s history using young & old population variable stars
+  - Universidad de Chile, Santiago, Chile.           (_with highest distinction_)
+     - Thesis: Searching for distant RR Lyrae in the Galactic halo using the HITS survey
+     - Supervisor: Prof. Dr. Ricardo Muñoz
 
-Supervisor: Prof. Dr. Eva K. Grebel
+**Bachelor of Science in Astronomy** (2010 - 2014)
 
-*Master of Science in Astronomy* (2015 - 2017)
-
-  Universidad de Chile, Santiago, Chile.           (_with highest distinction_)
-
-  Thesis: Searching for distant RR Lyrae in the Galactic halo using the HITS survey
-
-  Supervisor: Prof. Dr. Ricardo Muñoz
-
-*Bachelor of Science in Astronomy* (2010 - 2014)
-
-Universidad de Chile, Santiago, Chile. (_with distinction_)
+ - Universidad de Chile, Santiago, Chile. (_with distinction_)
 
 
 ## Employment History
@@ -104,7 +99,7 @@ This list includes in-person and remote observations for the following surveys: 
 - “Spectroscopy of RR Lyrae at the outer limits of the Milky Way”, 2020A, LBTO-LBT, MODS **(5 hr)**.
 - “Spectroscopy of RR Lyrae at the outer limits of the Milky Way”, 2019B, LBTO-LBT, MODS **(5 hr)**.
 
-**As co-I**
+**As Second Author**
 - “The mass of the Milky Way with RR Lyrae at the Galactic outskirts”, 2024A, LCO-Clay, MIKE. PI: Muñoz, R. **(12 hr)**.
 - “Spectroscopy of RR Lyrae at the Outer Limits of the Milky Way”, 2020B, LCO-Clay, MIKE. PI: Muñoz, R. **(2 nights)**.
 - “Spectroscopy of RR Lyrae at the Outer Limits of the Milky Way”, 2019B, LCO-Clay, MIKE. PI: Muñoz, R. **(2 nights)**.
@@ -113,8 +108,6 @@ This list includes in-person and remote observations for the following surveys: 
 - “Mapping the Outer Halo of the Milky Way with RR Lyrae”, 2018A, CTIO-Blanco, DECam. PI: Carlin, J. **(2 nights)**.
 - “Mapping the Outer Halo of the Milky Way with RR Lyrae”, 2017B, CTIO-Blanco, DECam. PI: Muñoz, R. **(2 nights)**.
 - “Mapping the Outer Halo of the Milky Way with RR Lyrae”, 2017B, CTIO-Blanco, DECam. PI: Carlin, J. **(1 night)**.
-
-“The High cadence Transient Survey (HiTS)”, 2015A, CTIO-Blanco, DECam. PI: Förster, F. **(9.5 nights)**.
 
 
 ## Selected Invited Talks and Seminars (recent only!)
