@@ -6,7 +6,7 @@ permalink: /cv/
 
 # Under Construction!
 
-This is a shortened version of my CV. Detailed versions of my CV and my publication records (as of October 5, 2024) are provided in the following links:
+This is a shortened version of my CV. Detailed versions of my CV and my publication records (_as of October 5, 2024_) are provided in the following links:
 
 - [Download my full CV (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/024b38f2fd97e363a8734fe53e2e08b4018339ac/CV_GMT_20241005.pdf)
 - [Download my List of Publications (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/94cc80feec013bbc4358ab5a4196f4a169079500/Publications_GMT_20241005.pdf)
@@ -97,8 +97,22 @@ Germany.
 ## Astronomical Service
 
 ## Additional Training  
+- MBA Fundamentals Program for Doctoral Researchers (Karlsruhe Institute of Technology, Germany)
+  - Information and Data Analytics (Jan/2021)
+  - Project Management (Oct/2020 )
+  - Intercultural Training (Jul/2020)
+  - Human Resources Management (Jan/2019)
 
 ## Teaching Experience (as teaching assistant)
+- **Winter 2020**: Astronomical Techniques (Block), Heidelberg University
+- **Winter 2020**: Astronomy Laboratory, Heidelberg University
+- **Summer 2019**: Introduction to Astronomy and Astrophysics II, Heidelberg University
+- **Winter 2019**: Astronomical Techniques (Block), Heidelberg University
+- **Spring 2016**: Experimental Astronomy, Universidad de Chile
+- **Autumn 2016**: Experimental Astronomy, Universidad de Chile
+- **Spring 2015**: General Astronomy, Universidad de Chile
+- **Autumn 2015**: General Astronomy, Universidad de Chile
+
 
 ## Students Supervised
 - Undergraduate students
@@ -134,9 +148,8 @@ Germany.
 
   - Grace Yu (co-supervised with Prof. Ting Li) - University of Toronto (ON, Canada)
 
-“Tracing the Milky Way Density Profile with Blue Horizontal Branch stars in the Dark Energy Survey ” (Jan/2023–Jan/2024)
-Results: Classification of BHB stars in the DES survey using a Bayesian mixture model and mapping the stellar density profile < 70 kpc. Results published in the
-A&A journal (link).
+    “Tracing the Milky Way Density Profile with Blue Horizontal Branch stars in the Dark Energy Survey ” (Jan/2023–Jan/2024)
+    Results: Classification of BHB stars in the DES survey using a Bayesian mixture model and mapping the stellar density profile < 70 kpc. Results published in the A&A journal (link).
 
 - High school students (as part of the Visions of Science program)
 
