@@ -118,17 +118,113 @@ This list includes in-person and remote observations for the following surveys: 
 
 
 ## Selected Invited Talks and Seminars (recent only!)
+- “Tales from a dark matter halo: the outer Milky Way as a cosmic laboratory, Milky Way and Andromeda: the odd couple!” **invited talk** at conference, Sexten, Italy (Feb/2025) 
+- “Dynamical modeling and orbit integration of distant Milky Way stars”, **Invited lecturer** at workshop on stellar chemistry and kinematics, Goethe Universität Frankfurt, Frankfurt, Germany (July/2024)
+- “The structure and accretion history of the Milky Way using halo RR Lyrae stars in photometric and spectroscopic surveys”, AIP Colloquium, Leibniz-Instituts für Astrophysik Potsdam, Potsdam, Germany (July/2024) 
+- “The structure and accretion history of the Milky Way from the combination of photometry
+and spectroscopy of halo RR Lyrae stars”, NOIRLab Colloquium, NOIRLab, La Serena, Chile (Apr/2024)
+- “The Halo Outskirts With Variable Stars (HOWVAST) survey: exploring the outer Milky Way with RR Lyrae stars”, TASTY Seminar, University of Toronto, Toronto, Canada (Dec/2023)
+- “A census of Cepheids in open clusters in the era of Gaia”, MPIA, Heidelberg, Germany (Jun/2021)
+- “Exploring the outskirts of the Milky Way with RR Lyrae stars”, ARI, Heidelberg University, Heidelberg, Germany (Jul/2019)
+- “Searching for distant RR Lyrae in the Galactic halo using the High cadence Transient Survey”, AURA, La Serena, Chile (Aug/2018)
+
 
 ## Participation in Scientific Events 
 
 ### Conferences with contributions (recent only!) 
-([T]: Contributed Talk, [P]: Poster Presentation)
+(**[T]**: Contributed Talk, **[P]**: Poster Presentation)
+
+- DESI annual collaboration meeting, Cancún, Mexico (Dec/2024) **T**
+- The RR Lyrae and Cepheid meeting 2024 Frontiers of Classical Pulsators, Marrakesh,
+Morocco (Nov/2024) **T**
+- Resolved stellar populations from photographic plates to large surveys, Florence, Italy (Oct/2024) **T**
+- DESI Milky Way International Workshop, Toronto, Canada (Aug/2024) **T**
+- Canadian Astronomical Society (CASCA) Annual General Meeting 2024, Toronto, Canada (Jun/2024) **T**
+- Globular Clusters and Their Tidal Tails: From the Milky Way to the Local Group, Toronto, Canada (May/2024)
+- 55th Annual Meeting of the AAS Division of Dynamical Astronomy (DDA), Toronto, Canada (May/2024) **T**
+- DESI collaboration meeting, Kona, USA (Dec/2023) **T**
+- LSST@Europe5: Towards LSST science, together!, Poreč, Croatia (Sep/2023) **T**
+- Great Lakes Clusters and Streams, Ann Arbor, USA (Aug/2023) **T**
+- DESI General Meeting, Durham, UK (Jul/2023)
+- DESI Milky Way Survey Meeting, Durham, UK (Jul/2023) **T**
+- Meeting of the Young German Astronomical Society, Bamberg, Germany (Jul/2023)
+- Hector Fellow Academy Symposium 2023, Berlin, Germany (Jul/2023)
+- Canadian Astronomical Society (CASCA) Annual General Meeting 2023 - The Broad spectrum of Canadian Astronomy, Penticton, Canada (Jun/2023) **T**
+- IAU Symposium 376 - At the cross-roads of astrophysics and cosmology: Period–luminosity relations in the 2020s, Budapest, Hungary (Apr/2023) **P**
+- Wide-Field Spectroscopy vs Galaxy Formation Theory, Tucson, USA (Mar/2023)
+- RRL/Cep 2022 - Large-scale surveys as bridges between spectroscopy and photometry, La Palma, Spain (Sep/2022) **T**
+- Annual Meeting of the German Astronomical Society, Bremen, Germany (Sep/2022) **T, P**
+- Hector Fellow Academy Symposium 2022, Karlsruhe, Germany (Jul/2022) **T**
+- European Astronomical Society Annual Meeting 2022, Valencia, Germany (Jun/2022)
+- Star Clusters: the Gaia Revolution, Online (Oct/2021) **P**
+- Hector Fellow Academy Symposium 2021, Online (Jul/2021)
+- Streams 21: Constraints on Dark Matter, Online (Feb/2021)
+- Linking the Galactic and Extragalactic conference series, Online (Dec/2020)
+- Hector Fellow Academy Symposium 2020, Online (Jul/2020)
+- AAVSO 108th Annual Meeting, Las Cruces, USA (Oct/2019) **P**
+- RRL/Cep 2019 - Frontiers of Classical Pulsators, Cloudcroft, USA (Oct/2019) **T, P**
+- Hector Fellow Academy Symposium 2019, Heidelberg, Germany (Jul/2019) **P**
+- Astroinformatics 2019, Pasadena, USA (Jun/2019)
+- IV workshop Millennium Institute of Astrophysics MAS, Machalí, Chile (Jan/2017) **T**
+- The RR Lyrae 2017 conference - Revival of the Classical Pulsators, Niepolomice, Poland (Sep/2017) **T**
+- 5th CMM Pucón Symposium, Puerto Varas, Chile (Aug/2017)
+- SOCHIAS 2017 - Annual Meeting, Maitencillo, Chile (Jan/2017) **T**
+- III workshop Millennium Institute of Astrophysics MAS, Viña del Mar, Chile (Dec/2016) **T**
+- Towards Science in Chile with LSST 2016 Workshop, Viña del Mar, Chile (Dec/2016) **P**
+- 22nd Los Alamos Stellar Pulsation Conference Series Meeting, San Pedro, Chile (Nov/2016) **P**
+- SOCHIAS XIII - Annual Meeting, Antofagasta, Chile (Mar/2016) **P**
+- II workshop MAS, Olmué, Chile (Nov/2015) – Anillo Workshop Closing Meeting 2015: Testing from Chile Fundamental Theories with new Observations, Santiago, Chile (Nov/2015) **T**
+- High-precision Studies of RR Lyrae stars, Visegrad, Hungary (Oct/2015) **T**
+- Pucón Symposium 2015: Advanced Tools Applied to Frontier Astronomy, BioMedicine and Massive Data-driven Sciences, Puerto Varas, Chile (Aug/2015)
+- Astroinformatics 2014, Los Andes, Chile (Nov/2014) **P**
+- I workshop Millennium Institute of Astrophysics MAS (Aug/2014) **P**
+
+
 
 ### Workshops and Schools (recent only!)
+-  47th Heidelberg Physics Graduate Days: “Bayesian inference on Milky Way datasets”, and
+“Geometric Deep Learning”, Heidelberg, Germany. (Oct/2021)
+-  10th Modules for Experiments in Stellar Astrophysics (MESA) summer school 2021, On-
+line. (Aug/2021)
+-  Bayesian Analysis for Stellar Evolution with nine variables (BASE-9) Workshop, Online. (Jun/2021)
+-  45th Heidelberg Physics Graduate Days: “Modern Galactic dynamics in the era of plenti-
+ful data”, and “An introduction to gravitational-wave astrophysics”Heidelberg, Germany. (Oct/2020)
+-  LSST/Rubin Observatory Project & Community Workshop 2020, Online. (Aug/2020)
+-  13th IMPRS-HD Heidelberg Summer School: Gaia Data & Science, Heidelberg, Germany. (Sep/2018)
+-  Workshop on using TOPCAT, STILTS, and ADQL on Astronomical databases, Santiago,
+Chile. (Oct/2017)
+-  11th IMPRS-HD Heidelberg Summer School: Astrostatistics & Data Mining, Heidelberg,
+Germany. (Sep/2016)
+-  Scientific Writing for Young Astronomers School (SWYA), Puerto Varas, Chile. (Apr/2016)
+- “Astrophysics and R” (by Dr. Eric D. Feigelson), Santiago, Chile. (Apr/2016)
+-  3rd La Serena School for Data Science: Applied tools for astronomy, La Serena, Chile. (Aug/2015)
+
 
 ## Collaborations, Memberships, and Leadership Roles
+- Principal investigator of the Halo Outskirts with Variable STars (HOWVAST) survey (2017-)
+- Active participation in the Ultraviolet Near Infrared Northern Survey (UNIONS) collaboration (2024-)
+- Active participation in the Dark Energy Spectroscopic Instrument (DESI) Milky Way Survey collaboration (2023-)
+- Active participation in the DECam Local Volume Exploration Survey (DELVE) collaboration (2022-)
+- Active participation in the Southern Stellar Stream Spectroscopic Survey (S5 ) collaboration (2022-)
+- Participation in the Merian Survey (2022-)
+- Active participation in the High cadence Transient Survey (HiTS) collaboration (2014-2018) 
+
+- DELVE WIDE Collaboration Coordinator (2023-)
+- Chair of the Local Organizing Committee (LOC) and member of the Scientific Organizing Committee (SOC) of the DESI-Milky Way Survey workshop 2024, held in Toronto, Canada
+- Member of the organizing committee of the Summer Undergraduate Research Program (SURP), University of Toronto (2023, 2024)
+
+
+
+- Member of the Canadian Astronomical Society (CASCA) (2024-)
+- Member of the American Astronomical Society (AAS) and the Division on Dynamical Astronomy (DDA) (2024-)
+- Member of the German Astronomical Sociey (Astronomische Gesellschaft, AG) (2022-)
+
 
 ## Astronomical Service
+- External panelist for the Hubble Space Telescope (HST) Time Allocation Committee (Cycles 32 and 33, Stellar Populations section)
+- Peer-reviewing referee for the Astronomy & Astrophysics (A&A) and the Monthly Notices of the Royal Astronomical Society (MNRAS) journals (1–2 papers per year)
+- Peer-reviewing referee for the allocation of observing time with the Gemini telescope, in conjunction with the Canadian Time Allocation Committee (CanTAC)
+
 
 ## Additional Training  
 - MBA Fundamentals Program for Doctoral Researchers (Karlsruhe Institute of Technology, Germany)
