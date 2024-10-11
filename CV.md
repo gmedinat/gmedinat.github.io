@@ -78,10 +78,44 @@ Germany.
 
 
 ## Technical Skills
+**Programming Languages:** PYTHON, Stan, R, C, BASH, JAVA
+
+**Other:** High Performance Computing, SQL, LATEX, Topcat (STILTS), SExtractor, MOOG,
+DS9, IRAF, iSpec, BASE-9, MESA
 
 ## Observing Experience
+- 42.5 nights: DECam@Blanco 4 m telescope, Cerro Tololo Inter-American Observatory (2015 - 2024)
+- 6 nights: DESI@Mayall 4 meter telescope, Kitt Peak National Observatory (2024)
+- 2 nights: IMACS@Baade 6.5 m (Magellan) telescope, Las Campanas Observatory (2022)
+- 5 nights: MIKE@Clay 6.5 m (Magellan) telescope, Las Campanas Observatory (2019 - 2024)
+- 5 nights: HTS@SOAR 4.1 m telescope, Cerro Tololo Inter-American Observatory (2019)
+- 3 nights: CCD Imager@Du Pont 2.5 m telescope, Las Campanas Observatory (2017)
+- 2 nights: CCD Imager@SMARTS 0.9 m telescope, Cerro Tololo Inter-American Observatory (2013)
+
+This list includes in-person and remote observations for the following surveys: DELVE, DESI, S5 , HOWVAST, SMASH, Merian, HiTS, MADCASH, DECAT.
 
 ## Successful Observing Proposals
+
+**As PI**
+- “Improving the velocity estimation of the best distance tracers in the Milky Way outer halo observed by DESI”, 2024B, Spare fiber program for the Dark Energy Spectroscopic Instrument survey, KPNO-Mayall, DESI (**∼4000 outer halo RR Lyrae stars with DESI**).
+- “Constraining the 3-D morphology and extension of the Orphan-Chenab kink with RR Lyrae stars”, 2024B, CTIO-Blanco, DECam **(4 nights)**.
+- “Searching for evidence of the Orphan-Chenab stream progenitor with RR Lyrae stars”, 2024A, CTIO-Blanco, DECam **(4 nights)**.
+- “The mass of the Milky Way with RR Lyrae at the Galactic outskirts”, 2024A, Gemini, GMOS-S **(21 hr)**.
+- “Spectroscopy of RR Lyrae at the outer limits of the Milky Way”, 2020A, LBTO-LBT, MODS **(5 hr)**.
+- “Spectroscopy of RR Lyrae at the outer limits of the Milky Way”, 2019B, LBTO-LBT, MODS **(5 hr)**.
+
+**As co-I**
+- “The mass of the Milky Way with RR Lyrae at the Galactic outskirts”, 2024A, LCO-Clay, MIKE. PI: Muñoz, R. **(12 hr)**.
+- “Spectroscopy of RR Lyrae at the Outer Limits of the Milky Way”, 2020B, LCO-Clay, MIKE. PI: Muñoz, R. **(2 nights)**.
+- “Spectroscopy of RR Lyrae at the Outer Limits of the Milky Way”, 2019B, LCO-Clay, MIKE. PI: Muñoz, R. **(2 nights)**.
+- “Improving Phase Coverage of RR Lyrae at the Outer Limits of the Milky Way”, 2019B, CTIO- SOAR, Goodman HTS. PI: Muñoz, R. **(4 nights)**.
+- “Mapping the Outer Halo of the Milky Way with RR Lyrae”, 2018B, CTIO-Blanco, DECam. PI: Muñoz, R. **(2 nights).
+- “Mapping the Outer Halo of the Milky Way with RR Lyrae”, 2018A, CTIO-Blanco, DECam. PI: Carlin, J. **(2 nights).
+- “Mapping the Outer Halo of the Milky Way with RR Lyrae”, 2017B, CTIO-Blanco, DECam. PI: Muñoz, R. **(2 nights).
+- “Mapping the Outer Halo of the Milky Way with RR Lyrae”, 2017B, CTIO-Blanco, DECam. PI: Carlin, J. **(1 night).
+
+“The High cadence Transient Survey (HiTS)”, 2015A, CTIO-Blanco, DECam. PI: Förster, F. **(9.5 nights)**.
+
 
 ## Selected Invited Talks and Seminars (recent only!)
 
