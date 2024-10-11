@@ -23,14 +23,19 @@ Galactic archaeology, variable stars, kinematics of stars and clusters, RR Lyrae
 ## Education
 Dr.rer.nat. (PhD) in Astronomy (2018 - 2022)
 
-Heidelberg University, Heidelberg, Germany.         (_magna cum laude_)
-Thesis: Unveiling the Milky Way’s history using young & old population variable stars
-Supervisor: Prof. Dr. Eva K. Grebel
+    Heidelberg University, Heidelberg, Germany.         (_magna cum laude_)
+
+    Thesis: Unveiling the Milky Way’s history using young & old population variable stars
+
+    Supervisor: Prof. Dr. Eva K. Grebel
 
 Master of Science in Astronomy (2015 - 2017)
-Universidad de Chile, Santiago, Chile.           (_with highest distinction_)
-Thesis: Searching for distant RR Lyrae in the Galactic halo using the HITS survey
-Supervisor: Prof. Dr. Ricardo Muñoz
+
+  Universidad de Chile, Santiago, Chile.           (_with highest distinction_)
+
+  Thesis: Searching for distant RR Lyrae in the Galactic halo using the HITS survey
+
+  Supervisor: Prof. Dr. Ricardo Muñoz
 
 Bachelor of Science in Astronomy (2010 - 2014)
 Universidad de Chile, Santiago, Chile. (_with distinction_)
