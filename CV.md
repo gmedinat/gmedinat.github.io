@@ -240,16 +240,16 @@ Germany. (Sep/2016)
 ## Students Supervised
 **Undergraduate students**
   - Wesley Luo - University of Toronto (ON, Canada)
-    
-  “Comparing the dynamical properties of DESI stellar streams with cold and warm dark matter simulations” (May/2024–)
-  
-  Results: Quantification of the dependence of the velocity dispersion of streams on dark matter models.
+
+    “Comparing the dynamical properties of DESI stellar streams with cold and warm dark matter simulations” (May/2024–)
+
+    Results: Quantification of the dependence of the velocity dispersion of streams on dark matter models.
 
   - Harlin Toor - University of Toronto (ON, Canada)
     
-  “Tracing the stellar halo of the Milky Way with blue horizontal-branch stars in the deep wide-field DELVE survey” (May/2024–)
+    “Tracing the stellar halo of the Milky Way with blue horizontal-branch stars in the deep wide-field DELVE survey” (May/2024–)
 
-  Results: Catalog of BHB stars in the DELVE survey using Bayesian mixture models. Measurement of the halo shape out to ∼ 100 kpc with BHB stars.
+    Results: Catalog of BHB stars in the DELVE survey using Bayesian mixture models. Measurement of the halo shape out to ∼ 100 kpc with BHB stars.
 
   - Maia Wertheim - University of Toronto (ON, Canada)
 
@@ -259,9 +259,9 @@ Germany. (Sep/2016)
 
   - Phebe T-Giorgis - Simon Fraser University (BC, Canada)
 
-  “Searching for RR Lyrae stars in the Aquarius II ultra-faint dwarf galaxies” (May/2023–Sep/2023)
+    “Searching for RR Lyrae stars in the Aquarius II ultra-faint dwarf galaxies” (May/2023–Sep/2023)
 
-   Results: Several RR Lyrae candidates detected in Aquarius II using multi-epoch photometry.
+    Results: Several RR Lyrae candidates detected in Aquarius II using multi-epoch photometry.
 
   - Andrew Li (co-supervised with Prof. Ting Li) - University of Toronto (ON, Canada)
 
@@ -274,7 +274,7 @@ Germany. (Sep/2016)
     “Tracing the Milky Way Density Profile with Blue Horizontal Branch stars in the Dark Energy Survey ” (Jan/2023–Jan/2024)
     Results: Classification of BHB stars in the DES survey using a Bayesian mixture model and mapping the stellar density profile < 70 kpc. Results published in the A&A journal (link).
 
-**High school students (as part of the Visions of Science program)**
+**High school students** (as part of the Visions of Science program)
 
   - Adheena Fatimah and Heruye Gared - University of Toronto (ON, Canada)
 
