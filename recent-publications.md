@@ -14,8 +14,11 @@ This is a shortened version of my List of Publications. A detailed version is pr
 - [Download my List of Publications (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/94cc80feec013bbc4358ab5a4196f4a169079500/Publications_GMT_20241005.pdf)
 
 Number of publications: 23 / 5    (total / as first author), plus 3 first-author papers soon to be submitted. 
-Number of citations: 4,840 / 4,681 / 81 (total, as first author)
-h-index: 14 / 12 / 5 (total,as first author)
+
+Number of citations: 4,840 / 81 (total, as first author)
+
+h-index: 14 / 5 (total,as first author)
+
 
 **As first author** (5 papers + 3 in prep.)
 - **Medina, G. E.**, Li, T. S., Eadie, G., and the DESI collaboration, “A distribution function-based estimation of the Milky Way mass using DESI Y1 RR Lyrae and horizontal branch stars”, A&A. Estimated submission date: January 2025.
@@ -27,8 +30,9 @@ h-index: 14 / 12 / 5 (total,as first author)
 - **Medina, G. E.**, Muñoz, R. R., Vivas, A. K., Carlin, J. L., Förster, F., Martinez, J., Galbany, L., González-Gaitán, S., Hamuy, M., de Jaeger, Th., Maureira, J. C., San Martín, J., “Discovery of distant RR Lyrae stars in the Milky Way using DECam”, 2018, ApJ, 855, 43.
 - **Medina, G. E.**, Muñoz, R. R., Vivas, A. K., Förster, F., Carlin, J. L., Martinez, J., Galbany, L., González-Gaitán, S., Hamuy, M., de Jaeger, Th., Maureira, J. C., San Martín, J., “Serendipitous Discovery of RR Lyrae Stars in the Leo V Ultra-faint Galaxy”, 2017, ApJ, 845, L10.
   
-**As co-author** (23 papers + 4 in prep.)\\ 
-(Contribution - [Obs]: Observations, [DA]: Data analysis)
+**As co-author** (23 papers + 4 in prep.)
+
+//(Contribution - [Obs]: Observations, [DA]: Data analysis)
 
 - Wertheim, M., Medina, G. E., Li, T. S., et al., “Discovery of distant halo stellar streams using DELVE DR3”, Estimated submission date: 2025.
 - Li, A., Li, T., Medina, G. E., et al., “The simultaneous dwarf galaxy and globular cluster origins of the Jhelum and Indus streams”, Estimated submission date: December 2024.
