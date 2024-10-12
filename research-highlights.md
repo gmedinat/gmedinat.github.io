@@ -89,9 +89,9 @@ In here, I'm going to put some words so that we can see what it will look like t
 
 ### Studying classical Cepheids in open clusters
 
-<span style="float:right">
+<p style="float:right">
 ### Studying classical Cepheids in open clusters
-</span>
+</p>
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <!-- Image on the left of text -->
