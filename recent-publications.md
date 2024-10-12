@@ -23,9 +23,9 @@ h-index: 14 / 5 (total,as first author)
 
 
 **As first author** (5 papers) <!--  + 3 in prep.) -->
-- **Medina, G. E.**, Li, T. S., Eadie, G., and the DESI collaboration, “A distribution function-based estimation of the Milky Way mass using DESI Y1 RR Lyrae and horizontal branch stars”, A&A. Estimated submission date: January 2025.
-- **Medina, G. E.**, Li, T. S., and the DESI collaboration, “The DESI Y1 RR Lyrae catalog II: Metallicity dependencies in the Bailey diagram and the shape RR Lyrae instability strip”, A&A. Draft available. Estimated submission date: December 2024.
-- **Medina, G. E.**, Li, T. S., Koposov, S., Speagle, J. S., and the DESI collaboration, “The DESI Y1 RR Lyrae catalog I: Spectroscopic characterization of the sample and insights into the origin of the halo”, A&A. Draft available. Estimated submission date: October 2024.
+<!-- - **Medina, G. E.**, Li, T. S., Eadie, G., and the DESI collaboration, “A distribution function-based estimation of the Milky Way mass using DESI Y1 RR Lyrae and horizontal branch stars”, A&A. Estimated submission date: January 2025. -->
+<!-- - **Medina, G. E.**, Li, T. S., and the DESI collaboration, “The DESI Y1 RR Lyrae catalog II: Metallicity dependencies in the Bailey diagram and the shape RR Lyrae instability strip”, A&A. Draft available. Estimated submission date: December 2024. -->
+<!-- - **Medina, G. E.**, Li, T. S., Koposov, S., Speagle, J. S., and the DESI collaboration, “The DESI Y1 RR Lyrae catalog I: Spectroscopic characterization of the sample and insights into the origin of the halo”, A&A. Draft available. Estimated submission date: October 2024. -->
 - **Medina, G. E.**, Muñoz R. R., Carlin, J. L., Vivas, A. K., Grebel, E. K., Martínez-Vázquez, C. E., Hansen, C. J., “Taking the pulse of the outer Milky Way with HOWVAST: an RR Lyrae density profile out to >200 kpc”, 2024, MNRAS, 531, 4762.
 - **Medina, G. E**., Hansen, C. J., Muñoz, R. R., Grebel E. K., Vivas, A. K., Carlin, J. L., Martínez- Vazquez C., “RR Lyrae stars as probes of the outer Galactic halo: Chemical and kinematic analysis of a pilot sample”, 2023, MNRAS 519, 5689.
 - **Medina, G. E.**, Lemasle, B., Grebel, E. K., “A revisited study of Cepheids in open clusters in the Gaia era”, 2021, MNRAS 505, 1342.
