@@ -6,10 +6,6 @@ permalink: /recent-publications/
 
 # Under Construction!
 
-
-## Recent Publications
-
-
 This is a summarized version of my List of Publications. A detailed version is provided in the material below (_as of October 5, 2024_):
 
 - ORCID: [0000-0003-0105-9576](https://orcid.org/0000-0003-0105-9576)
@@ -25,11 +21,14 @@ This is a summarized version of my List of Publications. A detailed version is p
 
 
 
-Number of publications: 23 / 5   <!-- (total / as first author) plus 3 first-author papers soon to be submitted. --> 
+Number of publications: 23  <!-- / 5    (total / as first author) plus 3 first-author papers soon to be submitted. --> 
 
 Number of citations: 4,840 <!-- / 81 (total, as first author) -->
 
 h-index: 14 <!-- / 5 (total,as first author) -->
+
+
+## Recent Publications
 
 
 **As first author** <!-- (5 papers)   + 3 in prep.) -->
