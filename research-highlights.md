@@ -7,6 +7,8 @@ permalink: /research-highlights/
 
 ## Research Highlights
 
+ORCID: 0000-0003-0105-9576 (Refereed only; Link to full list: ADS)
+
 [NASA/ADS Page, Refereed only](https://ui.adsabs.harvard.edu/public-libraries/Wfv16gZaRPuwbDI3G4b6wA)
 
 <!-- ## Research Highlight Title 1
