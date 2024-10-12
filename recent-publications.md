@@ -4,11 +4,13 @@ title: Recent Publications
 permalink: /recent-publications/
 ---
 
-## Recent Publications
-
 # Under Construction!
 
-This is a shortened version of my List of Publications. A detailed version is probided in the following link (_as of October 5, 2024_):
+
+## Recent Publications
+
+
+This is a summarized version of my List of Publications. A detailed version is provided in the following link (_as of October 5, 2024_):
 
 - [Download my Full CV (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/024b38f2fd97e363a8734fe53e2e08b4018339ac/CV_GMT_20241005.pdf)
 - [Download my List of Publications (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/94cc80feec013bbc4358ab5a4196f4a169079500/Publications_GMT_20241005.pdf)
@@ -32,7 +34,7 @@ h-index: 14 / 5 (total,as first author)
   
 **As co-author** (23 papers + 4 in prep.)
 
-//(Contribution - [Obs]: Observations, [DA]: Data analysis)
+<!- (Contribution - [Obs]: Observations, [DA]: Data analysis) ->
 
 - Wertheim, M., Medina, G. E., Li, T. S., et al., “Discovery of distant halo stellar streams using DELVE DR3”, Estimated submission date: 2025.
 - Li, A., Li, T., Medina, G. E., et al., “The simultaneous dwarf galaxy and globular cluster origins of the Jhelum and Indus streams”, Estimated submission date: December 2024.
