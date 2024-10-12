@@ -12,7 +12,7 @@ permalink: /recent-publications/
 
 This is a summarized version of my List of Publications. A detailed version is provided in the material below (_as of October 5, 2024_):
 
-- [ORCID database](https://orcid.org/0000-0003-0105-9576) (0000-0003-0105-9576)
+- ORCID: [0000-0003-0105-9576](https://orcid.org/0000-0003-0105-9576)
 
 - List of publications in the NASA ADS system:
     - [Full list](https://ui.adsabs.harvard.edu/public-libraries/Wfv16gZaRPuwbDI3G4b6wA)
@@ -25,14 +25,14 @@ This is a summarized version of my List of Publications. A detailed version is p
 
 
 
-Number of publications: 23 / 5    (total / as first author) <!-- , plus 3 first-author papers soon to be submitted. --> 
+Number of publications: 23 / 5   <!-- (total / as first author) plus 3 first-author papers soon to be submitted. --> 
 
-Number of citations: 4,840 / 81 (total, as first author)
+Number of citations: 4,840 <!-- / 81 (total, as first author) -->
 
-h-index: 14 / 5 (total,as first author)
+h-index: 14 <!-- / 5 (total,as first author) -->
 
 
-**As first author** (5 papers) <!--  + 3 in prep.) -->
+**As first author** <!-- (5 papers)   + 3 in prep.) -->
 <!-- - **Medina, G. E.**, Li, T. S., Eadie, G., and the DESI collaboration, “A distribution function-based estimation of the Milky Way mass using DESI Y1 RR Lyrae and horizontal branch stars”, A&A. Estimated submission date: January 2025. -->
 <!-- - **Medina, G. E.**, Li, T. S., and the DESI collaboration, “The DESI Y1 RR Lyrae catalog II: Metallicity dependencies in the Bailey diagram and the shape RR Lyrae instability strip”, A&A. Draft available. Estimated submission date: December 2024. -->
 <!-- - **Medina, G. E.**, Li, T. S., Koposov, S., Speagle, J. S., and the DESI collaboration, “The DESI Y1 RR Lyrae catalog I: Spectroscopic characterization of the sample and insights into the origin of the halo”, A&A. Draft available. Estimated submission date: October 2024. -->
@@ -42,7 +42,7 @@ h-index: 14 / 5 (total,as first author)
 - **Medina, G. E.**, Muñoz, R. R., Vivas, A. K., Carlin, J. L., Förster, F., Martinez, J., Galbany, L., González-Gaitán, S., Hamuy, M., de Jaeger, Th., Maureira, J. C., San Martín, J., “Discovery of distant RR Lyrae stars in the Milky Way using DECam”, 2018, ApJ, 855, 43.
 - **Medina, G. E.**, Muñoz, R. R., Vivas, A. K., Förster, F., Carlin, J. L., Martinez, J., Galbany, L., González-Gaitán, S., Hamuy, M., de Jaeger, Th., Maureira, J. C., San Martín, J., “Serendipitous Discovery of RR Lyrae Stars in the Leo V Ultra-faint Galaxy”, 2017, ApJ, 845, L10.
   
-**As co-author** (23 papers) <!--  + 4 in prep.) -->
+**As co-author** <!-- (23 papers)   + 4 in prep.) -->
 
 <!-- (Contribution - [Obs]: Observations, [DA]: Data analysis) -->
 
