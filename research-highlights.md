@@ -80,10 +80,14 @@ Description Project 3
 </div>
 
 
-- ## Classical Cepheids
-### Project 1 NAME
-Description Project 1
-- plot project 1
+## Classical Cepheids
+
+<p style="text-align: justify;">
+In here, I'm going to put some words so that we can see what it will look like to have long paragraphs in between images! I think you should have a picture of yourself in the about me section. I know it's kinda controversial, so maybe you don't put it on the front page, but hidden in one of the other tabs if I can get those working. It would be perfect if you had a 
+</p>
+
+
+### Studying classical Cepheids in open clusters
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <!-- Image on the left of text -->
