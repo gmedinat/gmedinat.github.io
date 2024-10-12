@@ -87,12 +87,11 @@ In here, I'm going to put some words so that we can see what it will look like t
 </p>
 
 
-### Studying classical Cepheids in open clusters
-
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <!-- Image on the left of text -->
     <img src="./Figures/galacticMap2_dark_bg_transp.png" alt="Galactic Map" style="width: 400px; max-width: 100%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
+        ### Studying classical Cepheids in open clusters
         Here is some information about the galactic map. The text here should be on the right half of the webpage, while the image is on the left. I'm hoping to make this paragraph pretty long to show how it might look if you have a lot to say about it. Of course, you don't have to be talking about the image at all here, you could talk about how cool you are and just have this image because it's pretty and is a kinda nice intro to what your work focuses on.
     </p>
 </div>
