@@ -89,10 +89,6 @@ In here, I'm going to put some words so that we can see what it will look like t
 
 ### Studying classical Cepheids in open clusters
 
-<p style="float:right">
-### Studying classical Cepheids in open clusters
-</p>
-
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <!-- Image on the left of text -->
     <img src="./Figures/galacticMap2_dark_bg_transp.png" alt="Galactic Map" style="width: 400px; max-width: 100%; margin-right: 15px;">
