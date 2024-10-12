@@ -87,6 +87,7 @@ In here, I'm going to put some words so that we can see what it will look like t
 </p>
 
 
+### Studying classical Cepheids in open clusters
 
 <span style="float:right">
 ### Studying classical Cepheids in open clusters
