@@ -19,7 +19,7 @@ I am an Arts & Science Postdoctoral Fellow at the David A. Dunlap Department of 
 </p>
 
 <p style="text-align: justify;">
-My research focuses on resolved stellar populations in the Milky Way and its neighborhood, with an emphasis on the Galactic halo, dwarf galaxies, and star clusters. I possess ample experience on time-series analyses, big data, and state-of-the-art astrostatistical techniques. I have specialized on Galactic archaeology and the use of pulsating variable stars (primarily RR Lyrae stars) as tracers of the formation and evolution of the Milky Way.
+My research focuses on resolved stellar populations in the Milky Way and its neighborhood, with an emphasis on the Galactic halo, dwarf galaxies, and star clusters. With experience on time-series analysys, big data, and state-of-the-art astrostatistical techniques, I have specialized on Galactic archaeology and the use of pulsating variable stars (primarily RR Lyrae stars) as tracers of the formation and evolution of the Milky Way.
 </p>
 
 <p style="text-align: justify;">
