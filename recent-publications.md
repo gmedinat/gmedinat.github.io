@@ -10,10 +10,20 @@ permalink: /recent-publications/
 ## Recent Publications
 
 
-This is a summarized version of my List of Publications. A detailed version is provided in the following link (_as of October 5, 2024_):
+This is a summarized version of my List of Publications. A detailed version is provided in the material below (_as of October 5, 2024_):
 
+- [ORCID database](https://orcid.org/0000-0003-0105-9576)
+
+- List of publications in the NASA ADS system:
+    - [Full list](https://ui.adsabs.harvard.edu/public-libraries/Wfv16gZaRPuwbDI3G4b6wA)
+    - [First author only](https://ui.adsabs.harvard.edu/public-libraries/qb_gXE9HRw6Dpo7-M8BilQ)
+  
 - [Download my Full CV (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/024b38f2fd97e363a8734fe53e2e08b4018339ac/CV_GMT_20241005.pdf)
+  
 - [Download my List of Publications (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/94cc80feec013bbc4358ab5a4196f4a169079500/Publications_GMT_20241005.pdf)
+
+
+
 
 Number of publications: 23 / 5    (total / as first author) <!-- , plus 3 first-author papers soon to be submitted. --> 
 
