@@ -14,9 +14,9 @@ This is a summarized version of my List of Publications. A detailed version is p
     - [Full list](https://ui.adsabs.harvard.edu/public-libraries/Wfv16gZaRPuwbDI3G4b6wA)
     - [First author only](https://ui.adsabs.harvard.edu/public-libraries/qb_gXE9HRw6Dpo7-M8BilQ)
   
-- [Download my Full CV (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/024b38f2fd97e363a8734fe53e2e08b4018339ac/CV_GMT_20241005.pdf)
+- [Download my Full CV](https://github.com/gmedinat/gmedinat.github.io/blob/024b38f2fd97e363a8734fe53e2e08b4018339ac/CV_GMT_20241005.pdf) (in pdf)
   
-- [Download my List of Publications (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/94cc80feec013bbc4358ab5a4196f4a169079500/Publications_GMT_20241005.pdf)
+- [Download my List of Publications](https://github.com/gmedinat/gmedinat.github.io/blob/94cc80feec013bbc4358ab5a4196f4a169079500/Publications_GMT_20241005.pdf) (in pdf)
 
 
 
