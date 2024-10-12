@@ -6,11 +6,10 @@ permalink: /research-highlights/
 
 # In construction!
 
-## Research Highlights
+## Summary
 
 ORCID: [0000-0003-0105-9576](https://orcid.org/0000-0003-0105-9576) (Refereed only; Link to full list: ADS)
-
-[NASA/ADS Page, Refereed only](https://ui.adsabs.harvard.edu/public-libraries/Wfv16gZaRPuwbDI3G4b6wA)
+Publications in the NASA/ADS website: [Refereed only](https://ui.adsabs.harvard.edu/public-libraries/Wfv16gZaRPuwbDI3G4b6wA)
 
 <!-- ## Research Highlight Title 1
 **Description:**
@@ -42,9 +41,7 @@ ORCID: [0000-0003-0105-9576](https://orcid.org/0000-0003-0105-9576) (Refereed on
 
 --- -->
 
-# Research
-
-## Galactic archaeology with variable stars
+# Galactic archaeology with variable stars
 ...
 Puls var stars play a paramount part in gal arch, since they repr stellar popul in uniqu ident evolu phases and ... standard candles.
 
