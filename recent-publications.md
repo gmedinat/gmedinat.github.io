@@ -48,9 +48,9 @@ h-index: 14 <!-- / 5 (total,as first author) -->
 <!-- - Wertheim, M., Medina, G. E., Li, T. S., et al., “Discovery of distant halo stellar streams using DELVE DR3”, Estimated submission date: 2025. -->
 <!-- - Li, A., Li, T., Medina, G. E., et al., “The simultaneous dwarf galaxy and globular cluster origins of the Jhelum and Indus streams”, Estimated submission date: December 2024. -->
 <!-- - Byström, A., Koposov, S., Lilleengen, S., et al., “Exploring the interaction between the MW and LMC with a large sample of blue horizontal branch stars from the DESI survey”, Estimated submission date: October 2024. -->
+- Kim, B., Koposov, S., Li, Ti., et al., “Nearby stellar substructures in the Galactic halo from DESI Milky Way Survey Year 1 Data Release”, 2024, submitted to MNRAS (MN-24-2205-MJ). <!-- - [Obs], [DA]. -->
 - Danieli, S., Kado-Fong, E., Huang, S., et al., “Merian: A Wide-Field Imaging Survey of Dwarf
 Galaxies at z 0.06-0.10”, 2024, arXiv:2410.01884. <!-- - [Obs]. -->
-- Kim, B., Koposov, S., Li, Ti., et al., “Nearby stellar substructures in the Galactic halo from DESI Milky Way Survey Year 1 Data Release”, 2024, submitted to MNRAS (MN-24-2205-MJ). <!-- - [Obs], [DA]. -->
 - Cerny, W., Chiti, A., Geha, M., et al., “Discovery and Spectroscopic Confirmation of Aquarius III: A Low-Mass Milky Way Satellite Galaxy”, 2024, arXiv:2410.00981. <!-- - [Obs], [DA]. -->
 - Tan, C. Y., Cerny, W., Drlica-Wagner, A., et al., “A Pride of Satellites in the Constellation Leo? Discovery of the Leo VI Milky Way Satellite Galaxy with DELVE Early Data Release 3”, 2024, arXiv:2408.00865. <!-- - [Obs], [DA]. -->
 - Shrestha, M., Bostroem, K.A., Sand, D. J., et al., “Extended Shock Breakout and Early Circumstellar Interaction in SN 2024ggi”, 2024, ApJL, 972, L15. <!--  - [Obs]. -->
