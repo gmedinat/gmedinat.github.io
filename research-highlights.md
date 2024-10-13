@@ -94,7 +94,7 @@ In here, I'm going to put some words so that we can see what it will look like t
 <p style="text-align: justify;">
 One of the most studied types of variable stars are classical Cepheids (also known as δ
 Cepheids or type I Cepheids). These stars are young and metal-rich variables typically pulsating in the fundamental mode or in the first overtone.
-Indeed, their lifetimes are short, ranging from 10 Myr to a few 100 Myr. 
+Their lifetimes are short, ranging from 10 Myr to a few 100 Myr. 
 Thus, these stars are commonly found in regions that have undergone recent star formation episodes (e.g., in the Milky Way disk). 
 </p>
 
