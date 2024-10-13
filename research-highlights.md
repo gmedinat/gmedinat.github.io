@@ -4,7 +4,7 @@ title: Research Highlights
 permalink: /research-highlights/
 ---
 
-# Under construction!
+# Under Construction!
 
 <p>Current URL: {{ page.url }}</p>
 
