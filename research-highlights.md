@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Research Highlights
 permalink: /research-highlights/
 ---
 
