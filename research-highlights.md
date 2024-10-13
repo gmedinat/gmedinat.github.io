@@ -4,7 +4,7 @@ title: Research Highlights
 permalink: /research-highlights/
 ---
 
-# In construction!
+# Under construction!
 
 ## Summary
 
