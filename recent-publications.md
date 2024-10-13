@@ -44,7 +44,7 @@ h-index: 14 <!-- / 5 (total,as first author) -->
 - **Medina, G. E.**, Muñoz, R. R., Vivas, A. K., Carlin, J. L., Förster, F., Martinez, J., Galbany, L., González-Gaitán, S., Hamuy, M., de Jaeger, Th., Maureira, J. C., San Martín, J., “Discovery of distant RR Lyrae stars in the Milky Way using DECam”, 2018, ApJ, 855, 43.
 - **Medina, G. E.**, Muñoz, R. R., Vivas, A. K., Förster, F., Carlin, J. L., Martinez, J., Galbany, L., González-Gaitán, S., Hamuy, M., de Jaeger, Th., Maureira, J. C., San Martín, J., “Serendipitous Discovery of RR Lyrae Stars in the Leo V Ultra-faint Galaxy”, 2017, ApJ, 845, L10.
   
-**As co-author** <!-- (23 papers)   + 4 in prep.) -->
+**As co-author** (showing only recent papers) <!-- (23 papers)   + 4 in prep.) -->
 
 <!-- (Contribution - [Obs]: Observations, [DA]: Data analysis) -->
 
@@ -68,16 +68,16 @@ Galaxies at z 0.06-0.10”, 2024, arXiv:2410.01884. <!-- - [Obs]. -->
 - Luo Y., Leauthaud A., Greene J., et al., “The Merian Survey: Design, Construction, and Characterization of a Filter Set Optimized to Find Dwarf Galaxies and Measure their Dark Matter Halo Properties with Weak Lensing”, 2024, MNRAS, 530, 4988. <!--  - [Obs]. -->
 - Cerny W., Drlica-Wagner A., Li T. S., et al., “DELVE 6: An Ancient, Ultra-faint Star Cluster on the Outskirts of the Magellanic Clouds”, 2023, ApJL, 953, L21. <!--  - [Obs], [DA]. -->
 - Cerny W., Martínez-Vázquez C. E., Drlica-Wagner A., et al., “Six More Ultra-faint Milky Way Companions Discovered in the DECam Local Volume Exploration Survey”, 2023, ApJ, 953, 1. <!--  - [Obs], [DA]. -->
-- Martínez, J., Förster, F., Protopapas, P. et al. “The High Cadence Transit Survey (HiTS): Compilation and Characterization of Light-curve Catalogs”, 2018, AJ, 156, 186. <!--  - [Obs], [DA]. -->
-- Förster, F., Moriya, T. J., Maureira, J. C. et al. “The delay of shock breakout due to circumstellar material evident in most type II supernovae”, 2018, Nature Astronomy, 2, 808. <!--  - [Obs]. -->
-- Abbott, B. P., Abbott, R., Abbott, T. D. et al. “A gravitational-wave standard siren measurement of the Hubble constant”, 2017, Nature, 551, 85. <!--  - [Obs]. -->
-- Nidever, D. L., Olsen, K., Walker, A. R.et al. “SMASH - Survey of the MAgellanic Stellar History”, 2017, AJ, 154, 199. <!--  - [Obs]. -->
-- Cowperthwaite, P. S., Berger, E., Villar, V. A. et al. “The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/VIRGO GW170817. II. UV, Optical, and Near-IR Light Curves and Comparison to Kilonova Models”, 2017, ApJ, 848, L17. <!--  - [Obs]. -->
-- Soares-Santos, M., Holz, D. E., Annis, J. et al. “The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/Virgo GW170817. I. Discovery of the Optical Counterpart Using the Dark Energy Camera”, 2017, ApJ, 848, L16. <!--  - [Obs]. -->
-- Abbott, B. P., Abbott, R., Abbott, T. D. et al. “Multi-messenger Observations of a Binary Neutron Star Merger”, 2017, ApJ, 848, L12. <!--  - [Obs]. -->
-- Förster, F., Maureira, J. C., San Martín et al. “The High Cadence Transient Survey (HITS). I. Survey Design and Supernova Shock Breakout Constraints”, 2016, ApJ, 832, 155. <!--  - [Obs], [DA]. -->
+<!-- - Martínez, J., Förster, F., Protopapas, P. et al. “The High Cadence Transit Survey (HiTS): Compilation and Characterization of Light-curve Catalogs”, 2018, AJ, 156, 186. <!--  - [Obs], [DA]. -->
+<!-- - Förster, F., Moriya, T. J., Maureira, J. C. et al. “The delay of shock breakout due to circumstellar material evident in most type II supernovae”, 2018, Nature Astronomy, 2, 808. <!--  - [Obs]. -->
+<!-- - Abbott, B. P., Abbott, R., Abbott, T. D. et al. “A gravitational-wave standard siren measurement of the Hubble constant”, 2017, Nature, 551, 85. <!--  - [Obs]. -->
+<!-- - Nidever, D. L., Olsen, K., Walker, A. R.et al. “SMASH - Survey of the MAgellanic Stellar History”, 2017, AJ, 154, 199. <!--  - [Obs]. -->
+<!-- - Cowperthwaite, P. S., Berger, E., Villar, V. A. et al. “The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/VIRGO GW170817. II. UV, Optical, and Near-IR Light Curves and Comparison to Kilonova Models”, 2017, ApJ, 848, L17. <!--  - [Obs]. -->
+<!-- - Soares-Santos, M., Holz, D. E., Annis, J. et al. “The Electromagnetic Counterpart of the Binary Neutron Star Merger LIGO/Virgo GW170817. I. Discovery of the Optical Counterpart Using the Dark Energy Camera”, 2017, ApJ, 848, L16. <!--  - [Obs]. -->
+<!-- - Abbott, B. P., Abbott, R., Abbott, T. D. et al. “Multi-messenger Observations of a Binary Neutron Star Merger”, 2017, ApJ, 848, L12. <!--  - [Obs]. -->
+<!-- - Förster, F., Maureira, J. C., San Martín et al. “The High Cadence Transient Survey (HITS). I. Survey Design and Supernova Shock Breakout Constraints”, 2016, ApJ, 832, 155. <!--  - [Obs], [DA]. -->
 
-- ATels: 14 ATels of real-time supernovae detections and spectroscopy (Link) - [Obs], [DA].
+<!-- - ATels: 14 ATels of real-time supernovae detections and spectroscopy (Link) <!-- - [Obs], [DA]. -->
 
 **Conference proceedings**
 - **Medina, G. E.**, Muñoz, R. R., Carlin, J. L., Vivas, A. K., Hansen, C. J., Grebel, E. K., “A systematic DECam search for RR Lyrae in the outer halo of the Milky Way”. Proceedings of the conference “RR Lyrae/Cepheid 2019: Frontiers of Classical Pulsators” held in Cloudcroft, NM, USA, October 13-18, 2019. Eds: Kinemuchi, K., Lovekin, C., Neilson, H., Vivas, A. K., pp. 222-226. (Link)
