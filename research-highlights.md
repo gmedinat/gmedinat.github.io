@@ -105,8 +105,9 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
 <p style="text-align: justify;">
 One of the most studied types of variable stars are classical Cepheids (also known as δ
 Cepheids or type I Cepheids). These stars are young and metal-rich variables typically pulsating in the fundamental mode or in the first overtone.
-Their lifetimes are short, ranging from 10 Myr to a few 100 Myr. 
-Thus, these stars are commonly found in regions that have undergone recent star formation episodes (e.g., in the Milky Way disk). 
+Due to their intrinsic brightness, classical Cepheids are ideal distance indicators on Galactic and extragalactic scales, (covering distances from ~100 pc to ∼50 Mpc), they are a fundamental step of the cosmic distance ladder.
+In fact, they are the most precise standard candles available for calibrating extragalactic distance indicators, which is essential to measure the current expansion rate of the Universe.    
+Because their lifetimes are short (ranging from 10 Myr to a few 100 Myr), these stars are commonly found in regions that have undergone recent star formation episodes (e.g., in the Milky Way disk). 
 </p>
 
 ### Studying classical Cepheids in open clusters
