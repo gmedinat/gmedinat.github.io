@@ -13,6 +13,11 @@ layout: default
 - CV (incl mentoring)
  -->
 
+ADD:
+- contact info
+- institutional website
+- sth to make the page more easily readable
+
 ## About Me
 <p style="text-align: justify;">
 I am an Arts & Science Postdoctoral Fellow at the David A. Dunlap Department of Astronomy & Astrophysics, <a href="https://www.astro.utoronto.ca/people/post-docs/name/gustavo-medina/" target="_blank">University of Toronto</a> in Canada. I completed my doctoral studies (Dr.rer.nat) in 2022 at the Astronomisches Rechen-Institut (ARI) at the <a href="https://www.imprs-hd.mpg.de/5699/Alumni" target="_blank">University of Heidelberg</a> in Germany, working under the supervision of Prof. Eva K. Grebel (<a href="https://www.imprs-hd.mpg.de/480995/thesis_Medina2.pdf" target="_blank">PhD Thesis</a>: "Unveiling the Milky Way’s History Using Young & Old Population Variable Stars"). Before that, I obtained my Bachelor of Science (BSc) and Master of Science (MSc) degrees at <a href="http://www.das.uchile.cl/das_int_alumnosM_ex.html" target="_blank">Universidad de Chile</a> (in 2014 and 2017, respectively), the latter supervised by Prof. Ricardo Munoz (<a href="https://repositorio.uchile.cl/handle/2250/149094" target="_blank">MSc Thesis</a>: "Searching for distant RR Lyrae in the Galactic halo using the High cadence Transient Survey").
