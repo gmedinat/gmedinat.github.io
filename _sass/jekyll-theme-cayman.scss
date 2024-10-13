@@ -61,7 +61,6 @@ a {
     text-decoration: underline;
   }
 }
-
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
@@ -83,30 +82,24 @@ a {
   + .btn {
     margin-left: 1rem;
   }
-}
 
-.btn-active {
-  display: inline-block;
-  margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 1);
-  background-color: rgba(255, 255, 255, 0.2);
-  border-color: rgba(207, 172, 116, 0.2);
-  border-style: solid;
-  border-width: 3px;
-  border-radius: 0.3rem;
-  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+  &.btn-active {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(255, 255, 255, 0.2);
+    border-color: rgba(207, 172, 116, 0.2);
+    border-width: 3px;
 
-  &:hover {
-    color: rgba(255, 255, 255, 0.8);
-    text-decoration: none;
-    background-color: rgba(255, 255, 255, 0.3);
-    border-color: rgba(207, 172, 116, 0.3);
+    &:hover {
+      color: rgba(255, 255, 255, 0.8);
+      text-decoration: none;
+      background-color: rgba(255, 255, 255, 0.3);
+      border-color: rgba(207, 172, 116, 0.3);
+    }
+
+    + .btn {
+      margin-left: 1rem;
+    }
   }
-
-  + .btn {
-    margin-left: 1rem;
-  }
-}
 
   @include large {
     padding: 0.75rem 1rem;
