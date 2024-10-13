@@ -4,18 +4,8 @@ layout: default
 
 <!-- This is a comment in a Markdown file. -->
 
-<!--Add: 
-- contact
-- employment history
-- research highlights
-- recent publications
-- outreach
-- CV (incl mentoring)
- -->
 
 ADD:
-- contact info
-- institutional website
 - sth to make the page more easily readable
 
 ## Contact Information
