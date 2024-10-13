@@ -27,10 +27,10 @@
    {% endif %} -->  
    <nav>
       <ul>
-         <a href="{{ '/' | relative_url }}" class="btn">About Me</a> 
-         <a href="{{ '/research-highlights/' | relative_url }}" class="btn">Research Highlights</a>
-         <a href="{{ '/recent-publications/' | relative_url }}" class="btn">Recent Publications</a>
-         <a href="{{ '/cv/' | relative_url }}" class="btn">Curriculum Vitae</a>
+         <a href="{{ '/' | relative_url }}" class="btn {% if page.url == '/' %}btn-active{% endif %}">About Me</a> 
+         <a href="/research-highlights" class="btn {% if page.url == '/research-highlights/' %}btn-active{% endif %}">Research Highlights</a>
+         <a href="{{ '/recent-publications/' | relative_url }}" class="btn {% if page.url == '/recent-publications/' %}btn-active{% endif %}">Recent Publications</a>
+         <a href="{{ '/cv/' | relative_url }}" class="btn {% if page.url == '/cv/' %}btn-active{% endif %}">Curriculum Vitae</a>
       </ul>
    </nav>
 </header>
