@@ -26,7 +26,7 @@ This is a shortened version of my CV. Detailed versions of my CV and my publicat
     dwarf galaxies in the Local Group, photometric/spectroscopic surveys.
 
 ## Education
-**Dr.rer.nat. (PhD) in Astronomy** (2018 - 2022)            (_magna cum laude_)
+**Dr. rer. nat. (PhD) in Astronomy** (2018 - 2022)            (_magna cum laude_)
  - Heidelberg University, Heidelberg, Germany.
     - Thesis: Unveiling the Milky Way’s history using young & old population variable stars
     - Supervisor: Prof. Dr. Eva K. Grebel
