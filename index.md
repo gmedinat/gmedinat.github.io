@@ -20,12 +20,12 @@ ADD:
 
 ## Contact Information
 
-**Full Name:** Gustavo E. Medina Toledo  
-**Address:** 50 St. George Street, Toronto, ON M5S 3H4, Canada  
-**Citizenship:** Chile  
-**Email:** [gustavo.medina@utoronto.ca](mailto:gustavo.medina@utoronto.ca)  
-**ORCID:** [0000-0003-0105-9576](https://orcid.org/0000-0003-0105-9576)
-**Institutional website:** [David A. Dunlap Department of Astronomy & Astrophysics](https://www.astro.utoronto.ca/people/post-docs/name/gustavo-medina/)
+- **Full Name:** Gustavo E. Medina Toledo  
+- **Address:** 50 St. George Street, Toronto, ON M5S 3H4, Canada  
+- **Citizenship:** Chile  
+- **Email:** [gustavo.medina@utoronto.ca](mailto:gustavo.medina@utoronto.ca)  
+- **ORCID:** [0000-0003-0105-9576](https://orcid.org/0000-0003-0105-9576)
+- **Institutional website:** [David A. Dunlap Department of Astronomy & Astrophysics](https://www.astro.utoronto.ca/people/post-docs/name/gustavo-medina/)
 
 ## About Me
 <p style="text-align: justify;">
