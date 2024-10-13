@@ -1,6 +1,6 @@
 ---
 layout: default
-Gustavo E. Medina Toledo (PhD)
+title: Gustavo E. Medina Toledo (PhD)
 permalink: /recent-publications/
 ---
 
