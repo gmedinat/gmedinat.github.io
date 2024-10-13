@@ -47,14 +47,18 @@ Publications in the NASA/ADS website: [Refereed only](https://ui.adsabs.harvard.
 # Galactic archaeology with variable stars
 
 Galactic archaeology uses present-day stellar populations as tools to reconstruct the formation and evolution of our Galaxy, the Milky Way. 
-Pulsating variable stars play a paramount part in gal arch, since they reprresent stellar populations in uniquely identifiable evolutionary phases and can be used as precise standard candles (that is, their distances are known with high precision).
+Pulsating variable stars play a paramount part in gal arch, since they reprresent stellar populations in uniquely identifiable evolutionary phases and can be used as precise standard candles. That is, their distances are known with high precision due to the well-known correlation between their periods of pulsation and their intrinsic brightness.
 Over the last decade, I have conducted studies focusing on RR Lyrae stars and Cepheids to unravel the Milky Way's history from different but complementary perspectives. 
 Here, I summarize my research and its outcomes. 
 
 ## RR Lyrae stars
 
 <p style="text-align: justify;">
-In here, I'm going to put some words so that we can see what it will look like to have long paragraphs in between images! I think you should have a picture of yourself in the about me section. I know it's kinda controversial, so maybe you don't put it on the front page, but hidden in one of the other tabs if I can get those working. It would be perfect if you had a candid shot of you working or presenting or something so that maybe the focus isn't just on showing your face. But a lot of university faculty sites have pictures of the professors! It just adds a little familiarity to remind the people reading it that they are affecting the life of a real person. Also, you are kinda recognizable haha, so maybe there's someone that's seen you, but doesn't know your name!
+RR Lyrae stars are old (> 10 Gyr) low-mass variables that, in terms of stellar evolution, lie in the intersection between the horizontal giant branch (HB) and the instability strip. 
+Thus, they are found in systems that contain old stellar populations. 
+They are typically found to pulsate in the fundamental mode (RRab) or in the first-overtone mode (RRc), but they are also observed to pulsate in both modes simultaneously (RRd). 
+These stars have been considered to be the swiss-army knives of Galactic archaeology, 
+Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and globular clusters, and their multiple useful properties, these stars have been considered to be the swiss-army knives of Galactic archaeology.     
 </p>
 
 ### The Halo Outskirts With Variable Stars (HOWVAST) survey: Exploring the Galactic outskirts with RR Lyrae stars
