@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Recent Publications
+Gustavo E. Medina Toledo (PhD)
 permalink: /recent-publications/
 ---
 
