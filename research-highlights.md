@@ -93,6 +93,9 @@ In here, I'm going to put some words so that we can see what it will look like t
 
 <p style="text-align: justify;">
 In here, I'm going to put some words so that we can see what it will look like to have long paragraphs in between images! I think you should have a picture of yourself in the about me section. I know it's kinda controversial, so maybe you don't put it on the front page, but hidden in one of the other tabs if I can get those working. It would be perfect if you had a 
+
+One of the most .... are classical Cepheids. 
+
 </p>
 
 
@@ -101,8 +104,10 @@ In here, I'm going to put some words so that we can see what it will look like t
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <!-- Image on the left of text -->
     <img src="{{ 'Figures/galacticMap2_dark_bg_transp.png' | relative_url }}" alt="Galactic Map" style="width: 400px; max-width: 100%; margin-right: 15px;">
-    <p style="text-align: justify; flex: 1;">      
-        Here is some information about the galactic map. The text here should be on the right half of the webpage, while the image is on the left. I'm hoping to make this paragraph pretty long to show how it might look if you have a lot to say about it. Of course, you don't have to be talking about the image at all here, you could talk about how cool you are and just have this image because it's pretty and is a kinda nice intro to what your work focuses on.
+    <p style="text-align: justify; flex: 1;">   
+Classical Cepheids occurring in open clusters are key for the study of stellar populations, as both can be used as tracers of recent star formation episodes, and provide valuable tests of stellar evolution models. Such tests include the calibration of the Leavitt law, the period-age relation of Cepheids, the efficiency of cluster dissolution mechanisms, among others. Throughout the last decades, however, dedicated efforts have led to a relatively small number of reported bona fide Galactic cluster Cepheids, suggesting that the vast majority of Cepheids do not reside in clusters.  
+        
+In this [Medina, Lemasle, and Grebel (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.1342M/abstract), we conducted an all-sky search for classical Cepheids in Galactic open clusters taking advantage of the unprecedented astrometric precision and homogeneity of the Gaia space mission (data release 3). We determined the membership of Cepheids to clusters using the most up-to-date catalogues and following a Bayesian approach, taking the spatial and kinematic information of the potential cluster-Cepheid pairs into account. We confirmed several Cepheid-cluster associations considered in previous studies as bona-fide, and questioned the established cluster membership of a handful of other associations. Additionally, we identified a considerable number of new potential cluster Cepheid candidates, mostly in recently discovered clusters. We explored the feasibility of using open clusters hosting Cepheids to empirically test the Cepheid period-age relation through a semi-automated method to derive cluster ages (based on isochrones). 
     </p>
 </div>
 
