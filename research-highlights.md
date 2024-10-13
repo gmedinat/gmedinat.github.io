@@ -48,7 +48,7 @@ Publications in the NASA/ADS website: [Refereed only](https://ui.adsabs.harvard.
 
 Galactic archaeology uses present-day stellar populations as tools to reconstruct the formation and evolution of our Galaxy, the Milky Way. 
 Pulsating variable stars play a paramount part in gal arch, since they reprresent stellar populations in uniquely identifiable evolutionary phases and can be used as precise standard candles (that is, their distances are known with high precision).
-Over the last decade, I have conducted studies focusing on RR Lyrae stars and Cepheids unravel the Milky Way's history from different but complementary perspectives. 
+Over the last decade, I have conducted studies focusing on RR Lyrae stars and Cepheids to unravel the Milky Way's history from different but complementary perspectives. 
 Here, I summarize my research and its outcomes. 
 
 ## RR Lyrae stars
