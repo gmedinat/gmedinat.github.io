@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Gustavo E. Medina Toledo (PhD)
 permalink: /cv/
 ---
 
