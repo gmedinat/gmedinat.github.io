@@ -12,13 +12,6 @@ This is a shortened version of my CV. Detailed versions of my CV and my publicat
 - [Download my Full CV (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/024b38f2fd97e363a8734fe53e2e08b4018339ac/CV_GMT_20241005.pdf)
 - [Download my List of Publications (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/94cc80feec013bbc4358ab5a4196f4a169079500/Publications_GMT_20241005.pdf)
 
-## Contact Information
-
-**Full Name:** Gustavo E. Medina Toledo  
-**Address:** 50 St. George Street, Toronto, ON M5S 3H4, Canada  
-**Citizenship:** Chile  
-**Email:** [gustavo.medina@utoronto.ca](mailto:gustavo.medina@utoronto.ca)  
-**ORCID:** [0000-0003-0105-9576](https://orcid.org/0000-0003-0105-9576)
 
 ## Research Interests
     Galactic archaeology, variable stars, 
