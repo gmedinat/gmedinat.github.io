@@ -4,10 +4,6 @@ layout: default
 
 <!-- This is a comment in a Markdown file. -->
 
-
-ADD:
-- sth to make the page more easily readable
-
 ## Contact Information
 
 - **Full Name:** Gustavo E. Medina Toledo  
