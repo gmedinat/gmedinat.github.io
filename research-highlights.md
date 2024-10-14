@@ -83,7 +83,11 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
 ### Spectroscopic follow-up of outer halo RR Lyrae: a pilot study
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <p style="text-align: justify; flex: 1;">
-        This image shows the halo profile. At least, that's what the title says. I don't really know what the rest of the words in the file name mean, but I bet you do! anyways, here's another block of text so we can see that this time, the image is on the right side and the test is on the left. I hope this all is working. using html here is bringing me back to my Neopets days, when I first figured out coding so I could customize my neopet's profiles haha. I was such a nerd.
+In Medina et al. (2023), we conducted a pilot spectroscopic study of RR Lyrae stars in the distant halo.  
+We targeted 20 halo ab-type RR Lyrae using medium-resolution spectra from the Magellan Inamori Kyocera Echelle (MIKE) spectrograph. 
+Combining Gaia DR3 proper motions with our center-of-mass velocity estimations, we computed the orbital parameters of our stars and confirmed the important role of the infall of the Large Magellanic Cloud in the orbit modelling. 
+Furthremore, we derived chemical abundances ([Fe/H], [alpha/Fe], [Sr/Ba]) for a subsample of our targets, speculating about their formation conditions (including a potential chemically peculiar carbon-enhanced metal-poor RR Lyrae star)
+We confirmed the accreted origin of a significant fraction of our sample, in line with the suggestion that disrupted sub-halos contribute largely to the stellar populations in the Galactic outer halo.      
     </p>
     <!-- Image on the right of text -->
     <img src="{{ '/Figures/haloprof_allsky_mod_All_AllRRL_Rel_sinCorr_Mask_dark.png' | relative_url }}" alt="Halo Profile" style="width: 400px; max-width: 100%; margin-right: 15px;">
