@@ -15,7 +15,6 @@ $body-text-color: #FFFFFF !default;
 $body-link-color: #1e6bb8 !default;
 $blockquote-text-color: #819198 !default;
 
-
 // Code
 $code-bg-color: #f3f6fa !default;
 $code-text-color: #567482 !default;
@@ -24,3 +23,16 @@ $code-text-color: #567482 !default;
 $border-color: #dce6f0 !default;
 $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
+
+// Sidebar
+$sidebar-background-color: #f4f6f8;
+$sidebar-text-color: #555555;
+$sidebar-link-color: $primary-color;
+$sidebar-link-hover-color: $primary-color-dark;
+
+// Highlight Cards
+$card-background-color: #ffffff;
+$card-border-color: #e0e0e0;
+$card-shadow-color: rgba(0, 0, 0, 0.1);
+$card-text-color: #444444;
+
