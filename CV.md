@@ -4,7 +4,7 @@ title: Gustavo E. Medina Toledo (PhD)
 permalink: /cv/
 ---
 
-<div class="summary-cards">
+<div class="card-container">
   <div class="card">
     <h3>Research Interests</h3>
     <p>Galactic archaeology, variable stars, RR Lyrae stars in the halo, kinematics, dwarf galaxies, surveys</p>
