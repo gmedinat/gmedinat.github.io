@@ -4,6 +4,40 @@ title: Gustavo E. Medina Toledo (PhD)
 permalink: /cv/
 ---
 
+<div class="sidebar">
+  <h3>Navigation</h3>
+  <ul>
+    <li><a href="#research-interests">Research Interests</a></li>
+    <li><a href="#education">Education</a></li>
+    <li><a href="#employment-history">Employment History</a></li>
+    <li><a href="#grants-awards">Grants, Awards & Fellowships</a></li>
+    <li><a href="#technical-skills">Technical Skills</a></li>
+    <li><a href="#observing-experience">Observing Experience</a></li>
+    <li><a href="#observing-proposals">Observing Proposals</a></li>
+    <li><a href="#invited-talks">Invited Talks</a></li>
+    <li><a href="#events">Participation in Events</a></li>
+  </ul>
+</div>
+
+<div class="summary-cards">
+  <div class="card">
+    <h3>Research Interests</h3>
+    <p>Galactic archaeology, variable stars, RR Lyrae stars in the halo, kinematics, dwarf galaxies, surveys</p>
+  </div>
+  <div class="card">
+    <h3>Contact Information</h3>
+    <p>Email: gus.medina@example.com</p>
+    <p>University of Toronto, Canada</p>
+  </div>
+  <div class="card">
+    <h3>Download CV</h3>
+    <p><a href="https://github.com/gmedinat/gmedinat.github.io/blob/024b38f2fd97e363a8734fe53e2e08b4018339ac/CV_GMT_20241005.pdf">Full CV (PDF)</a></p>
+    <p><a href="https://github.com/gmedinat/gmedinat.github.io/blob/94cc80feec013bbc4358ab5a4196f4a169079500/Publications_GMT_20241005.pdf">Publications (PDF)</a></p>
+  </div>
+</div>
+
+
+<div class="main-content">
 
 # Under Construction!
 
@@ -288,3 +322,6 @@ Germany. (Sep/2016)
 - Spanish (Native speaker)
 - English (Fluent)
 - German (Intermediate - Goethe-Zertifikat B1 - B2)
+
+</div>
+
