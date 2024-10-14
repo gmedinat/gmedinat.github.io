@@ -67,7 +67,12 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
     <!-- Image on the left of text -->
 <img src="{{ '/Figures/two_plots_shades_95_all_noSex_Rgc_Mask_sinCorr.png' | relative_url }}" alt="Data Plots" style="width: 400px; max-width: 100%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
-        In order to identify the most distant RR Lyrae stars in the Milky Way halo, our team carried out the Halo Outskirts With Variable Stars (HOWVAST). 
+        In order to constrain the formation history of the Milky Way through the identification of the most distant RR Lyrae stars in the Galactic halo, our team designed the Halo Outskirts With Variable Stars (HOWVAST) survey. 
+        Using DECam data, we detected ~500 RR Lyrae stars with distances out to ~300 kpc from the Galactic center. 
+        Of the ~90 newly reported halo RR Lyrae, 9 have distances larger than 100 kpc. 
+        We use our full sample to study the radial density of halo stars, and find a clearly-visible break at around ~18-25 kpc. 
+        This break splits the density profile in two regions: one composed of stars formed in-situ and stars originating from accreted satellites (the inner halo), and one composed predominantly of stars with an accreted origin. 
+        The agreement between these radial distributions with values reported in the literature depends on the regions of the sky surveyed (direction and total area) and the halo tracer used. 
     </p>
 </div>
 
@@ -77,7 +82,7 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
     <p style="text-align: justify; flex: 1;">
         We find that the mere identification of two confidently classified RR Lyrae stars beyond 250 kpc in a survey of 350 sq. deg. rules out extreme values of the stellar density profile.  
     Moreover, when extrapolating our density profile to the entire sky, our results suggest that a population of over 3,000 RR Lyrae stars beyond 100 kpc. 
-        Thus, our results laid the groundwork for upcoming photometric surveys mapping the outer halo (in particular the Rubin Observatory Legacy Survey of Space and Time survey, LSST), to test the compatibility of observations and current Galaxy evolution models (either bridging the gaps or strengthening the discrepancies)
+        Thus, our results laid the groundwork for upcoming photometric surveys mapping the outer halo (in particular the Rubin Observatory Legacy Survey of Space and Time survey, LSST) to test the compatibility of observations and current Galaxy evolution models (either bridging the gaps or strengthening the discrepancies)
     </p>
 </div>
 
