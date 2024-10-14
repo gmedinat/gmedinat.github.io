@@ -80,7 +80,7 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
     <!-- Image on the left of text -->
      <img src="{{ '/Figures/haloprof_allsky_mod_All_AllRRL_Rel_sinCorr_Mask_dark.png' | relative_url }}" alt="Halo Profile" style="width: 400px; max-width: 100%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
-        We find that the mere identification of two confidently classified RR Lyrae stars beyond 250 kpc in a survey of 350 sq. deg. rules out extreme values of the stellar density profile.  
+        We find that the mere identification of two confidently-classified RR Lyrae stars beyond 250 kpc in a survey of 350 sq. deg. rules out extreme values of the stellar density profile.  
     Moreover, when extrapolating our density profile to the entire sky, our results suggest that a population of over 3,000 RR Lyrae stars beyond 100 kpc. 
         Thus, our results laid the groundwork for upcoming photometric surveys mapping the outer halo (in particular the Rubin Observatory Legacy Survey of Space and Time survey, LSST) to test the compatibility of observations and current Galaxy evolution models (either bridging the gaps or strengthening the discrepancies)
     </p>
