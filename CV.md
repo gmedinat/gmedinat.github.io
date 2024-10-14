@@ -4,6 +4,7 @@ title: Gustavo E. Medina Toledo (PhD)
 permalink: /cv/
 ---
 
+<!--
 <div class="sidebar">
   <h3>Navigation</h3>
   <ul>
@@ -18,6 +19,7 @@ permalink: /cv/
     <li><a href="#events">Participation in Events</a></li>
   </ul>
 </div>
+-->
 
 <div class="summary-cards">
   <div class="card">
