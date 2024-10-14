@@ -95,7 +95,19 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
     <!-- Image on the left of text -->
     <img src="{{ '/Figures/two_plots_shades_95_all_noSex_Rgc_Mask_sinCorr.png' | relative_url }}" alt="Data Plots" style="width: 400px; max-width: 100%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
-        The two plots here have shading? I'm trying to decipher these titles but I don't know anything haha. Anyways, you are awesome and are doing so much! I hope this website helps show people all the things you do! It would be really cool for you to have a place to talk about some of the things you've done that don't really have a place anywhere in your applications. If you talk candidly about some of your outreach things in Chile, or side stuff you've done at UT, I bet people would read it and see a bit more of your personality so they could decide if you'd be a good match for their programs or not. 
+        The High candence Transient Survey (HiTS; Forster et al. 2016) is a DECam-based campaign designed to study the early phases of supernova explosions using deep optical time-series. 
+        The cadence and observing strategy of HiTS makes it well-suited for the photometric detection of variable stars. 
+        In Medina et al. 2017, serendipituously detected a remote group of three RR Lyrae stars at around 175 kpc from the Galactic center. 
+        The on-sky position and distance of these stars is consistent with them belonging to the Leo V ultra-faint dwarf galaxy. 
+        This result is a proof-of-concept for the hypothesis that even small groups of realiably identified RR Lyrae stars in the outer halo can be used as tracers of undiscovered dwarf galaxies. As the light of a lighthouse!
+    </p>
+</div>
+
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+    <!-- Image on the left of text -->
+    <img src="{{ '/Figures/two_plots_shades_95_all_noSex_Rgc_Mask_sinCorr.png' | relative_url }}" alt="Data Plots" style="width: 400px; max-width: 100%; margin-right: 15px;">
+    <p style="text-align: justify; flex: 1;">
+        In Medina et al. (2018), we ...
     </p>
 </div>
 
@@ -119,7 +131,7 @@ Because their lifetimes are short (ranging from 10 Myr to a few 100 Myr), these 
     Classical Cepheids occurring in open clusters are key for the study of stellar populations, as both can be used as tracers of recent star formation episodes, and provide valuable tests of stellar evolution models. Such tests include the calibration of the Leavitt law, the period-age relation of Cepheids, the efficiency of cluster dissolution mechanisms, among others. Throughout the last decades, however, dedicated efforts have led to a relatively small number of reported bona fide Galactic cluster Cepheids, suggesting that the vast majority of Cepheids do not reside in clusters.   
 </p>    
 <p style="text-align: justify; flex: 1;">   
-    In <a href="[https://www.astro.utoronto.ca/people/post-docs/name/gustavo-medina/](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.1342M/abstract)" target="_blank">Medina, Lemasle, & Grebel (2021)</a>, we conducted an all-sky search for classical Cepheids in Galactic open clusters taking advantage of the unprecedented astrometric precision and homogeneity of the Gaia space mission (data release 3). We determined the membership of Cepheids to clusters using the most up-to-date catalogues and following a Bayesian approach, taking the spatial and kinematic information of the potential cluster-Cepheid pairs into account. We confirmed several Cepheid-cluster associations considered in previous studies as bona-fide, and questioned the established cluster membership of a handful of other associations. Additionally, we identified a considerable number of new potential cluster Cepheid candidates, mostly in recently discovered clusters. We explored the feasibility of using open clusters hosting Cepheids to empirically test the Cepheid period-age relation through a semi-automated method to derive cluster ages (based on isochrones). 
+    In <a href="[https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.1342M/abstract](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.1342M/abstract)" target="_blank">Medina, Lemasle, & Grebel (2021)</a>, we conducted an all-sky search for classical Cepheids in Galactic open clusters taking advantage of the unprecedented astrometric precision and homogeneity of the Gaia space mission (data release 3). We determined the membership of Cepheids to clusters using the most up-to-date catalogues and following a Bayesian approach, taking the spatial and kinematic information of the potential cluster-Cepheid pairs into account. We confirmed several Cepheid-cluster associations considered in previous studies as bona-fide, and questioned the established cluster membership of a handful of other associations. Additionally, we identified a considerable number of new potential cluster Cepheid candidates, mostly in recently discovered clusters. We explored the feasibility of using open clusters hosting Cepheids to empirically test the Cepheid period-age relation through a semi-automated method to derive cluster ages (based on isochrones). 
     </p>
 
 
