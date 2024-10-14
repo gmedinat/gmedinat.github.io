@@ -107,7 +107,13 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
     <!-- Image on the left of text -->
     <img src="{{ '/Figures/two_plots_shades_95_all_noSex_Rgc_Mask_sinCorr.png' | relative_url }}" alt="Data Plots" style="width: 400px; max-width: 100%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
-        In Medina et al. (2018), we ...
+        In Medina et al. (2018), we performed a full analysis of HiTS' data to search for RR Lyrae stars in the distant halo. 
+        We identified a total of 173 RR Lyrae stars over a ∼120 sq. deg. area, including both known RR Lyrae and
+new detections.
+        We characterized the RR Lyrae samples in Milky Way satellites overlapping with the survey's footprint, namely the Sextans dwarf spheroidal galaxy, and the ultra-faint dwarf galaxies Leo IV and Leo V. 
+        Most notably, we reported the discovery of the most distant halo RR Lyrae stars known at the time, beyond 200 kpc from the Galactic center, and used them to study the radial spatial distribution using number density profiles. 
+        Our results are consistent with the suggestion that the bulk of the outer halo is composed of the remnants of low-mass building blocks of the Galaxy. 
+        The RR Lyrae stars discovered represented a key addition to the few existing tracers of the Milky Way potential at large distances.        
     </p>
 </div>
 
