@@ -21,7 +21,7 @@ permalink: /cv/
 </div>
 
 
-# Under Construction!
+# Curriculum Vitae
 
 This is a shortened version of my CV. Detailed versions of my CV and my publication records (_as of October 5, 2024_) are provided in the following links:
 
