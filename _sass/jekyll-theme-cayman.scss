@@ -393,3 +393,116 @@ a {
   display: block;
   font-weight: bold;
 }
+
+// Sidebar styles
+.sidebar {
+  background-color: $sidebar-bg-color;
+  color: $sidebar-text-color;
+  padding: 1rem;
+  width: 20%;
+  min-height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow-y: auto;
+
+  a {
+    color: $sidebar-link-color;
+    text-decoration: none;
+    display: block;
+    padding: 0.5rem 1rem;
+    border-radius: 0.3rem;
+
+    &:hover {
+      background-color: $sidebar-link-hover-bg;
+      color: $sidebar-link-hover-color;
+    }
+  }
+
+  .sidebar-header {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+
+  .sidebar-item {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+  }
+
+  @include medium {
+    width: 25%;
+  }
+
+  @include small {
+    width: 100%;
+    position: relative;
+    min-height: auto;
+  }
+}
+
+// Card styles
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-left: 22%; // Adjusts for sidebar width
+  padding: 2rem;
+
+  @include medium {
+    margin-left: 27%;
+  }
+
+  @include small {
+    flex-direction: column;
+    margin-left: 0;
+    padding: 1rem;
+  }
+}
+
+.card {
+  background-color: $card-bg-color;
+  color: $card-text-color;
+  border: 1px solid $card-border-color;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  width: calc(33.33% - 1rem); // Three cards per row
+
+  @include medium {
+    width: calc(50% - 1rem); // Two cards per row
+  }
+
+  @include small {
+    width: 100%; // Full-width on small screens
+  }
+
+  .card-header {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+
+  .card-content {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .card-footer {
+    font-size: 0.9rem;
+    color: $card-footer-color;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .card-footer a {
+    color: $card-footer-link-color;
+    text-decoration: none;
+
+    &:hover {
+      color: $card-footer-link-hover;
+      text-decoration: underline;
+    }
+  }
+}
+
