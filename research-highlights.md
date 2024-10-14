@@ -76,6 +76,7 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
      <img src="{{ '/Figures/haloprof_allsky_mod_All_AllRRL_Rel_sinCorr_Mask_dark.png' | relative_url }}" alt="Halo Profile" style="width: 400px; max-width: 100%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
         The two plots here have shading? I'm trying to decipher these titles but I don't know anything haha. Anyways, you are awesome and are doing so much! I hope this website helps show people all the things you do! It would be really cool for you to have a place to talk about some of the things you've done that don't really have a place anywhere in your applications. If you talk candidly about some of your outreach things in Chile, or side stuff you've done at UT, I bet people would read it and see a bit more of your personality so they could decide if you'd be a good match for their programs or not. 
+    Our results indicate that ...  / suggest that...
     </p>
 </div>
 
