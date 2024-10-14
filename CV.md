@@ -39,7 +39,7 @@ permalink: /cv/
 </div>
 
 
-<div class="main-content">
+<!-- <div class="main-content"> -->
 
 # Under Construction!
 
@@ -325,5 +325,5 @@ Germany. (Sep/2016)
 - English (Fluent)
 - German (Intermediate - Goethe-Zertifikat B1 - B2)
 
-</div>
+<!-- </div> -->
 
