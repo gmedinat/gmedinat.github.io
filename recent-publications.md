@@ -4,7 +4,7 @@ title: Gustavo E. Medina Toledo (PhD)
 permalink: /recent-publications/
 ---
 
-# Under Construction!
+# Recent Publications
 
 This is a summarized version of my List of Publications. A detailed version is provided in the material below (_as of October 5, 2024_):
 
