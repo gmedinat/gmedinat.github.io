@@ -4,6 +4,24 @@ title: Gustavo E. Medina Toledo (PhD)
 permalink: /cv/
 ---
 
+<div class="summary-cards">
+  <div class="card">
+    <h3>Research Interests</h3>
+    <p>Galactic archaeology, variable stars, RR Lyrae stars in the halo, kinematics, dwarf galaxies, surveys</p>
+  </div>
+  <div class="card">
+    <h3>Contact Information</h3>
+    <p>Email: gus.medina@example.com</p>
+    <p>University of Toronto, Canada</p>
+  </div>
+  <div class="card">
+    <h3>Download CV</h3>
+    <p><a href="https://github.com/gmedinat/gmedinat.github.io/blob/024b38f2fd97e363a8734fe53e2e08b4018339ac/CV_GMT_20241005.pdf">Full CV (PDF)</a></p>
+    <p><a href="https://github.com/gmedinat/gmedinat.github.io/blob/94cc80feec013bbc4358ab5a4196f4a169079500/Publications_GMT_20241005.pdf">Publications (PDF)</a></p>
+  </div>
+</div>
+
+
 # Under Construction!
 
 This is a shortened version of my CV. Detailed versions of my CV and my publication records (_as of October 5, 2024_) are provided in the following links:
