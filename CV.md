@@ -63,25 +63,25 @@ This is a shortened version of my CV. Detailed versions of my CV and my publicat
   - Departamento de Astronomía, Universidad de Chile, Chile ([Link](http://www.das.uchile.cl/das_int_alumnosM_ex.html))
 
 ## Grants, Awards and Fellowships
-- Arts & Science + Dunlap Postdoctoral Fellowship
+- **Arts & Science + Dunlap Postdoctoral Fellowship**
   - University of Toronto, 2023 - 2026, Canada.
 
-- Hector Fellow Academy Doctoral Fellowship
+- **Hector Fellow Academy Doctoral Fellowship**
   - Hector Fellow Academy, 2018 - 2022, Germany.
 
-- IMPRS-HD Doctoral Fellow
+- **IMPRS-HD Doctoral Fellow**
   - International Max Planck Research School for Astronomy and Cosmic Physics, 2018 - 2022,
 Germany.
 
-- Magíster Nacional Scholarship
+- **Magíster Nacional Scholarship**
   - Comisión Nacional de Investigación Científica y Tecnológica, 2016, Chile.
 
-- Award for Academic Excellence
+- **Award for Academic Excellence**
   - Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile, 2013 and 2014, Chile.
 
    **As co-I**
 
-- Fondecyt Fellowship 2022 (PI: Muñoz, R.)
+- **Fondecyt Fellowship 2022 (PI: Muñoz, R.)**
   - Comisión Nacional de Investigación Científica y Tecnológica, 2022 - 2025, Chile.
 
 
