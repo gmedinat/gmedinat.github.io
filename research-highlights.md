@@ -66,8 +66,8 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
 <img src="{{ '/Figures/two_plots_shades_95_all_noSex_Rgc_Mask_sinCorr_inv.png' | relative_url }}" alt="Data Plots" style="width: 420px; max-width: 100%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
         In order to constrain the formation history of the Milky Way through the identification of the most distant RR Lyrae stars in the Galactic halo, our team designed the Halo Outskirts With Variable Stars (HOWVAST) survey. 
-        Using DECam data, we detected ~500 RR Lyrae stars with distances out to ~300 kpc from the Galactic center. 
-        Of the ~90 newly reported halo RR Lyrae, 9 have distances larger than 100 kpc. 
+        Using DECam data, in <a href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.1342M/abstract" target="_blank">Medina et al. (2024)</a> we detected ~500 RR Lyrae stars with distances out to ~300 kpc from the Galactic center. 
+        Of the ~90 newly detected halo RR Lyrae, 9 have distances larger than 100 kpc. 
         We use our full sample to study the radial density of halo stars, and find a clearly-visible break at around ~18-25 kpc. 
         This break splits the density profile in two regions: one composed of stars formed in-situ and stars originating from accreted satellites (the inner halo), and one composed predominantly of stars with an accreted origin. 
         The agreement between these radial distributions with values reported in the literature depends on the regions of the sky surveyed (direction and total area) and the halo tracer used. 
@@ -87,7 +87,7 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
 ### Spectroscopic follow-up of outer halo RR Lyrae: a pilot study
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <p style="text-align: justify; flex: 1;">
-In Medina et al. (2023), we conducted a pilot spectroscopic study of RR Lyrae stars in the distant halo.  
+In <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.5689M/abstract" target="_blank">Medina et al. (2023)</a>, we conducted a pilot spectroscopic study of RR Lyrae stars in the distant halo.  
 We targeted 20 halo ab-type RR Lyrae using medium-resolution spectra from the Magellan Inamori Kyocera Echelle (MIKE) spectrograph. 
 Combining Gaia DR3 proper motions with our center-of-mass velocity estimations, we computed the orbital parameters of our stars and confirmed the important role of the infall of the Large Magellanic Cloud in the orbit modelling. 
 Furthremore, we derived chemical abundances ([Fe/H], [α/Fe], [Sr/Ba]) for a subsample of our targets, speculating about their formation conditions (including a potential chemically peculiar carbon-enhanced metal-poor RR Lyrae star)
@@ -103,9 +103,9 @@ We confirmed the accreted origin of a significant fraction of our sample, in lin
     <!-- Image on the left of text -->
     <img src="{{ '/Figures/apjlaa821ef1_lr_inv.png' | relative_url }}" alt="Data Plots" style="width: 400px; max-width: 100%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
-        The High candence Transient Survey (HiTS; Forster et al. 2016) is a DECam-based campaign designed to study the early phases of supernova explosions using deep optical time-series. 
+        The High candence Transient Survey (HiTS; <a href="https://ui.adsabs.harvard.edu/#abs/2016ApJ...832..155F/abstract" target="_blank">Förster et al. 2016</a>) is a DECam-based campaign designed to study the early phases of supernova explosions using deep optical time-series. 
         The cadence and observing strategy of HiTS makes it well-suited for the photometric detection of variable stars. 
-        In Medina et al. 2017, serendipituously detected a remote group of three RR Lyrae stars at around 175 kpc from the Galactic center. 
+        In <a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...845L..10M/abstract" target="_blank">Medina et al. (2017)</a>, serendipituously detected a remote group of three RR Lyrae stars at around 175 kpc from the Galactic center. 
         The on-sky position and distance of these stars is consistent with them belonging to the Leo V ultra-faint dwarf galaxy. 
         This result is a proof-of-concept for the hypothesis that even small groups of realiably identified RR Lyrae stars in the outer halo can be used as tracers of undiscovered dwarf galaxies. As the light of a lighthouse!
     </p>
@@ -115,7 +115,7 @@ We confirmed the accreted origin of a significant fraction of our sample, in lin
     <!-- Image on the left of text -->
     <img src="{{ '/Figures/apjaaad02f6_lr_inv.png' | relative_url }}" alt="Data Plots" style="width: 300px; max-width: 100%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
-        In Medina et al. (2018), we performed a full analysis of HiTS' data to search for RR Lyrae stars in the distant halo. 
+        In <a href="https://ui.adsabs.harvard.edu/#abs/2018ApJ...855...43M/abstract" target="_blank">Medina et al. (2018)</a>, we performed a full analysis of HiTS' data to search for RR Lyrae stars in the distant halo. 
         We identified a total of 173 RR Lyrae stars over a ∼120 sq. deg. area, including both known RR Lyrae and
 new detections.
         We characterized the RR Lyrae samples in Milky Way satellites overlapping with the survey's footprint, namely the Sextans dwarf spheroidal galaxy, and the ultra-faint dwarf galaxies Leo IV and Leo V. 
