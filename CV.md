@@ -23,7 +23,11 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-This is a shortened version of my CV. Detailed versions of my CV and my publication records (_as of October 5, 2024_) are provided above.
+This is a shortened version of my CV. Detailed versions of my CV and my publication records (_as of October 5, 2024_) are provided in the following links:
+
+- [Download my Full CV (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/024b38f2fd97e363a8734fe53e2e08b4018339ac/CV_GMT_20241005.pdf)
+- [Download my List of Publications (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/94cc80feec013bbc4358ab5a4196f4a169079500/Publications_GMT_20241005.pdf)
+
 
 ## Research Interests
     Galactic archaeology, variable stars, 
@@ -49,11 +53,11 @@ This is a shortened version of my CV. Detailed versions of my CV and my publicat
 
 ## Employment History
 - Postdoctoral Fellow (2023 - 2026)
-  - David A. Dunlap Department of Astronomy & Astrophysics, University of Toronto, Canada (Link)
+  - David A. Dunlap Department of Astronomy & Astrophysics, University of Toronto, Canada ([Link](https://www.astro.utoronto.ca/people/post-docs/name/gustavo-medina/))
 
 - Graduate Researcher (2015 - 2022)
-  - Astronomisches Rechen-Institut, Heidelberg University, Germany (Link 1, Link 2)
-  - Departamento de Astronomía, Universidad de Chile, Chile (Link)
+  - Astronomisches Rechen-Institut, Heidelberg University, Germany ([Link 1](https://www.imprs-hd.mpg.de/5699/Alumni), [Link 2](https://wwwstaff.ari.uni-heidelberg.de/mitarbeiter/grebel/formermembers.html))
+  - Departamento de Astronomía, Universidad de Chile, Chile ([Link](http://www.das.uchile.cl/das_int_alumnosM_ex.html))
 
 ## Grants, Awards and Fellowships
 - Arts & Science + Dunlap Postdoctoral Fellowship
@@ -85,13 +89,13 @@ Germany.
 DS9, IRAF, iSpec, BASE-9, MESA
 
 ## Observing Experience
-- 42.5 nights: DECam@Blanco 4 m telescope, Cerro Tololo Inter-American Observatory (2015 - 2024)
-- 6 nights: DESI@Mayall 4 m telescope, Kitt Peak National Observatory (2024)
-- 2 nights: IMACS@Baade 6.5 m (Magellan) telescope, Las Campanas Observatory (2022)
-- 5 nights: MIKE@Clay 6.5 m (Magellan) telescope, Las Campanas Observatory (2019 - 2024)
-- 5 nights: HTS@SOAR 4.1 m telescope, Cerro Tololo Inter-American Observatory (2019)
-- 3 nights: CCD Imager@Du Pont 2.5 m telescope, Las Campanas Observatory (2017)
-- 2 nights: CCD Imager@SMARTS 0.9 m telescope, Cerro Tololo Inter-American Observatory (2013)
+- **42.5 nights**: DECam@Blanco 4 m telescope, Cerro Tololo Inter-American Observatory (2015 - 2024)
+- **6 nights**: DESI@Mayall 4 m telescope, Kitt Peak National Observatory (2024)
+- **2 nights**: IMACS@Baade 6.5 m (Magellan) telescope, Las Campanas Observatory (2022)
+- **5 nights**: MIKE@Clay 6.5 m (Magellan) telescope, Las Campanas Observatory (2019 - 2024)
+- **5 nights**: HTS@SOAR 4.1 m telescope, Cerro Tololo Inter-American Observatory (2019)
+- **3 nights**: CCD Imager@Du Pont 2.5 m telescope, Las Campanas Observatory (2017)
+- **2 nights**: CCD Imager@SMARTS 0.9 m telescope, Cerro Tololo Inter-American Observatory (2013)
 
 This list includes in-person and remote observations for the following surveys: DELVE, DESI, S5 , HOWVAST, SMASH, Merian, HiTS, MADCASH, DECAT.
 
@@ -200,23 +204,23 @@ Germany. (Sep/2016)
 
 
 ## Collaborations, Memberships, and Leadership Roles
-- Principal investigator of the Halo Outskirts with Variable STars (HOWVAST) survey (2017-)
-- Active participation in the Ultraviolet Near Infrared Northern Survey (UNIONS) collaboration (2024-)
-- Active participation in the Dark Energy Spectroscopic Instrument (DESI) Milky Way Survey collaboration (2023-)
-- Active participation in the DECam Local Volume Exploration Survey (DELVE) collaboration (2022-)
-- Active participation in the Southern Stellar Stream Spectroscopic Survey (S5 ) collaboration (2022-)
-- Participation in the Merian Survey (2022-)
-- Active participation in the High cadence Transient Survey (HiTS) collaboration (2014-2018) 
+- Principal investigator of the Halo Outskirts with Variable STars ([HOWVAST](https://ui.adsabs.harvard.edu/abs/2021ASPC..529..222M/abstract)) survey (2017-)
+- Active participation in the Ultraviolet Near Infrared Northern Survey ([UNIONS](https://www.skysurvey.cc/)) collaboration (2024-)
+- Active participation in the Dark Energy Spectroscopic Instrument ([DESI](https://www.desi.lbl.gov/the-desi-survey/)) Milky Way Survey collaboration (2023-)
+- Active participation in the DECam Local Volume Exploration Survey ([DELVE](https://delve-survey.github.io/)) collaboration (2022-)
+- Active participation in the Southern Stellar Stream Spectroscopic Survey ([S5](https://s5collab.github.io/)) collaboration (2022-)
+- Participation in the [Merian](https://merian.sites.ucsc.edu/) Survey (2022-)
+- Active participation in the High cadence Transient Survey ([HiTS](http://alerce.science/high-cadence-transient-survey-hits/)) collaboration (2014-2018) 
 
 - DELVE WIDE Collaboration Coordinator (2023-)
 - Chair of the Local Organizing Committee (LOC) and member of the Scientific Organizing Committee (SOC) of the DESI-Milky Way Survey workshop 2024, held in Toronto, Canada
-- Member of the organizing committee of the Summer Undergraduate Research Program (SURP), University of Toronto (2023, 2024)
+- Member of the organizing committee of the Summer Undergraduate Research Program ([SURP](http://www.astro.utoronto.ca/academics/undergraduate-studies/surp-2/)), University of Toronto (2023, 2024)
 
 
 
-- Member of the Canadian Astronomical Society (CASCA) (2024-)
-- Member of the American Astronomical Society (AAS) and the Division on Dynamical Astronomy (DDA) (2024-)
-- Member of the German Astronomical Sociey (Astronomische Gesellschaft, AG) (2022-)
+- Member of the Canadian Astronomical Society ([CASCA](https://casca.ca/)) (2024-)
+- Member of the American Astronomical Society ([AAS](https://aas.org/)) and the Division on Dynamical Astronomy ([DDA](https://dda.aas.org/)) (2024-)
+- Member of the German Astronomical Sociey (Astronomische Gesellschaft, [AG](https://www.astronomische-gesellschaft.de/de)) (2022-)
 
 
 ## Astronomical Service
