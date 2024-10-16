@@ -76,7 +76,7 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <!-- Image on the left of text -->
-     <img src="{{ '/Figures/haloprof_allsky_mod_All_AllRRL_Rel_sinCorr_Mask_dark.png' | relative_url }}" alt="Halo Profile" style="width: 400px; max-width: 100%; margin-right: 15px;">
+     <img src="{{ '/Figures/haloprof_allsky_mod_All_AllRRL_Rel_sinCorr_Mask_dark.png' | relative_url }}" alt="Halo Profile" style="width: 450px; max-width: 100%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
         We find that the mere identification of two confidently-classified RR Lyrae stars beyond 250 kpc in a survey of 350 sq. deg. rules out extreme values of the stellar density profile.  
     Moreover, when extrapolating our density profile to the entire sky, our results suggest that a population of over 3,000 RR Lyrae stars beyond 100 kpc. 
@@ -94,7 +94,7 @@ Furthremore, we derived chemical abundances ([Fe/H], [α/Fe], [Sr/Ba]) for a sub
 We confirmed the accreted origin of a significant fraction of our sample, in line with the suggestion that disrupted sub-halos contribute largely to the stellar populations in the Galactic outer halo.      
     </p>
     <!-- Image on the right of text -->
-    <img src="{{ '/Figures/haloprof_allsky_mod_All_AllRRL_Rel_sinCorr_Mask_dark.png' | relative_url }}" alt="Halo Profile" style="width: 500px; max-width: 100%; margin-right: 15px;">
+    <img src="{{ '/Figures/stac3800fig6_inv.png' | relative_url }}" alt="Halo Profile" style="width: 500px; max-width: 100%; margin-right: 15px;">
 </div>
 
 ### RR Lyrae stars in the High candence Transient Survey (HiTS)
@@ -113,7 +113,7 @@ We confirmed the accreted origin of a significant fraction of our sample, in lin
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <!-- Image on the left of text -->
-    <img src="{{ '/Figures/apjaaad02f6_lr_inv.png' | relative_url }}" alt="Data Plots" style="width: 200px; max-width: 100%; margin-right: 15px;">
+    <img src="{{ '/Figures/apjaaad02f6_lr_inv.png' | relative_url }}" alt="Data Plots" style="width: 300px; max-width: 100%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
         In Medina et al. (2018), we performed a full analysis of HiTS' data to search for RR Lyrae stars in the distant halo. 
         We identified a total of 173 RR Lyrae stars over a ∼120 sq. deg. area, including both known RR Lyrae and
