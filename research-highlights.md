@@ -73,7 +73,7 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
 </div>
 
 <p style="text-align: justify;">
-        This break splits the density profile in two regions: one composed of stars formed in-situ and stars originating from accreted satellites (the inner halo), and one composed predominantly of stars with an accreted origin. 
+        This break splits the density profile into two regions: one composed of stars formed in-situ and stars originating from accreted satellites (the inner halo), and one composed predominantly of stars with an accreted origin. 
         The agreement between these radial distributions with values reported in the literature depends on the regions of the sky surveyed (direction and total area) and the halo tracer used.    
 </p>
 
