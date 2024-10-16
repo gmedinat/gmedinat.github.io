@@ -69,10 +69,15 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
         Using DECam data, in <a href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.1342M/abstract" target="_blank">Medina et al. (2024)</a> we detected ~500 RR Lyrae stars with distances out to ~300 kpc from the Galactic center. 
         Of the ~90 newly detected halo RR Lyrae, 9 have distances larger than 100 kpc. 
         We use our full sample to study the radial density of halo stars, and find a clearly-visible break at around ~18-25 kpc. 
-        This break splits the density profile in two regions: one composed of stars formed in-situ and stars originating from accreted satellites (the inner halo), and one composed predominantly of stars with an accreted origin. 
-        The agreement between these radial distributions with values reported in the literature depends on the regions of the sky surveyed (direction and total area) and the halo tracer used. 
     </p>
 </div>
+
+<p style="text-align: justify;">
+        This break splits the density profile in two regions: one composed of stars formed in-situ and stars originating from accreted satellites (the inner halo), and one composed predominantly of stars with an accreted origin. 
+        The agreement between these radial distributions with values reported in the literature depends on the regions of the sky surveyed (direction and total area) and the halo tracer used.    
+</p>
+
+
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <!-- Image on the left of text -->
