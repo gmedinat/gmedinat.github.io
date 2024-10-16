@@ -8,7 +8,7 @@ permalink: /cv/
 <div class="card-container">
   <div class="card">
     <h3>Institutions</h3>
-    <p><h8 style="color:#474747);"Masters:</h8> U of Chile,<br> <h8>PhD:</h8> U of Heidelberg,<br> <h8>PostDoc:</h8> U of Toronto</p>
+    <p><h8 style="color:#474747;">Masters:</h8> U of Chile,<br> <h8>PhD:</h8> U of Heidelberg,<br> <h8>PostDoc:</h8> U of Toronto</p>
   </div>
   <div class="card">
     <h3>Downloads</h3>
