@@ -94,7 +94,7 @@ Furthremore, we derived chemical abundances ([Fe/H], [α/Fe], [Sr/Ba]) for a sub
 We confirmed the accreted origin of a significant fraction of our sample, in line with the suggestion that disrupted sub-halos contribute largely to the stellar populations in the Galactic outer halo.      
     </p>
     <!-- Image on the right of text -->
-    <img src="{{ '/Figures/stac3800fig6_inv.png' | relative_url }}" alt="Halo Profile" style="width: 500px; max-width: 100%; margin-right: 15px;">
+    <img src="{{ '/Figures/stac3800fig6_inv.png' | relative_url }}" alt="Halo Profile" style="width: 350px; max-width: 100%; margin-right: 15px;">
 </div>
 
 ### RR Lyrae stars in the High candence Transient Survey (HiTS)
