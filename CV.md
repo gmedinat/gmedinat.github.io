@@ -17,7 +17,7 @@ permalink: /cv/
   </div>
   <div class="card">
     <h3>Surveys</h3>
-    <p>DESI, DELVE. S5</p>
+    <p>DESI<br> DELVE<br> S5</p>
   </div>
 </div> 
 
