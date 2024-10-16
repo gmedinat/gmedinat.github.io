@@ -63,7 +63,7 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <!-- Image on the left of text -->
-<img src="{{ '/Figures/two_plots_shades_95_all_noSex_Rgc_Mask_sinCorr_inv.png' | relative_url }}" alt="Data Plots" style="width: 400px; max-width: 100%; margin-right: 15px;">
+<img src="{{ '/Figures/two_plots_shades_95_all_noSex_Rgc_Mask_sinCorr_inv.png' | relative_url }}" alt="Data Plots" style="width: 450px; max-width: 100%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
         In order to constrain the formation history of the Milky Way through the identification of the most distant RR Lyrae stars in the Galactic halo, our team designed the Halo Outskirts With Variable Stars (HOWVAST) survey. 
         Using DECam data, we detected ~500 RR Lyrae stars with distances out to ~300 kpc from the Galactic center. 
@@ -76,7 +76,7 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <!-- Image on the left of text -->
-     <img src="{{ '/Figures/haloprof_allsky_mod_All_AllRRL_Rel_sinCorr_Mask_dark.png' | relative_url }}" alt="Halo Profile" style="width: 450px; max-width: 100%; margin-right: 15px;">
+     <img src="{{ '/Figures/haloprof_allsky_mod_All_AllRRL_Rel_sinCorr_Mask_dark.png' | relative_url }}" alt="Halo Profile" style="width: 400px; max-width: 100%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
         We find that the mere identification of two confidently-classified RR Lyrae stars beyond 250 kpc in a survey of 350 sq. deg. rules out extreme values of the stellar density profile.  
     Moreover, when extrapolating our density profile to the entire sky, our results suggest that a population of over 3,000 RR Lyrae stars beyond 100 kpc. 
