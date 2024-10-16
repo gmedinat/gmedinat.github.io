@@ -8,7 +8,7 @@ permalink: /cv/
 <div class="card-container">
   <div class="card">
     <h3>Institutions</h3>
-    <p><h8 style="color:#818182;">Masters:</h8> U of Chile, Dr. Ricardo Muñoz<br> <h8 style="color:#818182;">PhD:</h8> U of Heidelberg, Dr. Eva  Grebel<br> <h8 style="color:#818182;">PostDoc:</h8> U of Toronto, Dr. Ting Li</p>
+    <p><h8 style="color:#818182;">Masters:</h8> U of Chile,<br> Dr. Ricardo Muñoz<br> <h8 style="color:#818182;">PhD:</h8> U of Heidelberg,<br> Dr. Eva  Grebel<br> <h8 style="color:#818182;">PostDoc:</h8> U of Toronto,<br> Dr. Ting Li</p>
   </div>
   <div class="card">
     <h3>Downloads</h3>
