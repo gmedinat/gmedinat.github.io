@@ -63,7 +63,7 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <!-- Image on the left of text -->
-<img src="{{ '/Figures/two_plots_shades_95_all_noSex_Rgc_Mask_sinCorr.png' | relative_url }}" alt="Data Plots" style="width: 400px; max-width: 100%; margin-right: 15px;">
+<img src="{{ '/Figures/two_plots_shades_95_all_noSex_Rgc_Mask_sinCorr_inv.png' | relative_url }}" alt="Data Plots" style="width: 400px; max-width: 100%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
         In order to constrain the formation history of the Milky Way through the identification of the most distant RR Lyrae stars in the Galactic halo, our team designed the Halo Outskirts With Variable Stars (HOWVAST) survey. 
         Using DECam data, we detected ~500 RR Lyrae stars with distances out to ~300 kpc from the Galactic center. 
@@ -101,7 +101,7 @@ We confirmed the accreted origin of a significant fraction of our sample, in lin
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <!-- Image on the left of text -->
-    <img src="{{ '/Figures/two_plots_shades_95_all_noSex_Rgc_Mask_sinCorr.png' | relative_url }}" alt="Data Plots" style="width: 400px; max-width: 100%; margin-right: 15px;">
+    <img src="{{ '/Figures/apjlaa821ef1_lr_inv.png' | relative_url }}" alt="Data Plots" style="width: 400px; max-width: 100%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
         The High candence Transient Survey (HiTS; Forster et al. 2016) is a DECam-based campaign designed to study the early phases of supernova explosions using deep optical time-series. 
         The cadence and observing strategy of HiTS makes it well-suited for the photometric detection of variable stars. 
@@ -113,7 +113,7 @@ We confirmed the accreted origin of a significant fraction of our sample, in lin
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <!-- Image on the left of text -->
-    <img src="{{ '/Figures/two_plots_shades_95_all_noSex_Rgc_Mask_sinCorr.png' | relative_url }}" alt="Data Plots" style="width: 400px; max-width: 100%; margin-right: 15px;">
+    <img src="{{ '/Figures/apjaaad02f6_lr_inv.png' | relative_url }}" alt="Data Plots" style="width: 400px; max-width: 100%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
         In Medina et al. (2018), we performed a full analysis of HiTS' data to search for RR Lyrae stars in the distant halo. 
         We identified a total of 173 RR Lyrae stars over a ∼120 sq. deg. area, including both known RR Lyrae and
