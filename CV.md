@@ -16,8 +16,8 @@ permalink: /cv/
     <p><a href="https://github.com/gmedinat/gmedinat.github.io/blob/94cc80feec013bbc4358ab5a4196f4a169079500/Publications_GMT_20241005.pdf">Publications (PDF)</a></p>
   </div>
   <div class="card">
-    <h3>Something Else</h3>
-    <p>Cool thing to feature</p>
+    <h3>Groups</h3>
+    <p>DESI, DELVE</p>
   </div>
 </div> 
 
