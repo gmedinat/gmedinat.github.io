@@ -63,11 +63,11 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <!-- Image on the left of text -->
-<img src="{{ '/Figures/two_plots_shades_95_all_noSex_Rgc_Mask_sinCorr_inv.png' | relative_url }}" alt="Data Plots" style="width: 420px; max-width: 100%; margin-right: 15px;">
+<img src="{{ '/Figures/two_plots_shades_95_all_noSex_Rgc_Mask_sinCorr_inv.png' | relative_url }}" alt="Data Plots" style="width: 415px; max-width: 100%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
         In order to constrain the formation history of the Milky Way through the identification of the most distant RR Lyrae stars in the Galactic halo, our team designed the Halo Outskirts With Variable Stars (HOWVAST) survey. 
-        Using DECam data, in <a href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.1342M/abstract" target="_blank">Medina et al. (2024)</a> we detected ~500 RR Lyrae stars with distances out to ~300 kpc from the Galactic center. 
-        Of the ~90 newly detected halo RR Lyrae, 9 have distances larger than 100 kpc. 
+        Using DECam data, we detected ~500 RR Lyrae stars with distances out to ~300 kpc from the Galactic center. 
+        Of the ~90 newly detected halo RR Lyrae, 9 have distances larger than 100 kpc (<a href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.1342M/abstract" target="_blank">Medina et al. 2024</a>). 
         We use our full sample to study the radial density of halo stars, and find a clearly-visible break at around ~18-25 kpc. 
     </p>
 </div>
