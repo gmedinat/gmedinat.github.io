@@ -4,7 +4,7 @@ title: Gustavo E. Medina Toledo (PhD)
 permalink: /cv/
 ---
 
-<!--
+
 <div class="card-container">
   <div class="card">
     <h3>Research Interests</h3>
@@ -19,7 +19,7 @@ permalink: /cv/
     <h3>Something Else</h3>
     <p>Cool thing to feature</p>
   </div>
-</div> -->
+</div> 
 
 # Curriculum Vitae
 
