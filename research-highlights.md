@@ -4,8 +4,6 @@ title: Gustavo E. Medina Toledo (PhD)
 permalink: /research-highlights/
 ---
 
-# Under Construction!
-
 # Research highlights
 
 ## Summary
@@ -142,7 +140,7 @@ Because their lifetimes are short (ranging from 10 Myr to a few 100 Myr), these 
 ### Studying classical Cepheids in open clusters
 
 
-<img src="{{ 'Figures/galacticMap2_dark_bg_transp.png' | relative_url }}" alt="Galactic Map" style="width: 400px; max-width: 100%"> 
+<img src="{{ 'Figures/galacticMap2_dark_bg_transp.png' | relative_url }}" alt="Galactic Map" style="width: 800px; max-width: 100%; text-align:center"> 
 <p style="text-align: justify; flex: 1;">   
     Classical Cepheids occurring in open clusters are key for the study of stellar populations, as both can be used as tracers of recent star formation episodes, and provide valuable tests of stellar evolution models. Such tests include the calibration of the Leavitt law, the period-age relation of Cepheids, the efficiency of cluster dissolution mechanisms, among others. Throughout the last decades, however, dedicated efforts have led to a relatively small number of reported bona fide Galactic cluster Cepheids, suggesting that the vast majority of Cepheids do not reside in clusters.   
 </p>    
