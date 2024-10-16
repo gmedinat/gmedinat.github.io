@@ -4,11 +4,10 @@ title: Gustavo E. Medina Toledo (PhD)
 permalink: /cv/
 ---
 
-
+<!--
 <div class="card-container">
   <div class="card">
     <h3>Institutions</h3>
-    <!--<p><h8 style="color:#818182;">Masters:</h8> U of Chile,<br> Dr. Ricardo Muñoz<br> <h8 style="color:#818182;">PhD:</h8> U of Heidelberg,<br> Dr. Eva  Grebel<br> <h8 style="color:#818182;">PostDoc:</h8> U of Toronto,<br> Dr. Ting Li</p> -->
     <p><h8 style="color:#818182;">Postdoc:</h8> University of Toronto<h8 style="color:#818182;">PhD:</h8> Universität Heidelberg<h8 style="color:#818182;">MSc:</h8>Universidad de Chile</p> 
   </div>
   <div class="card">
@@ -21,6 +20,9 @@ permalink: /cv/
     <p>DESI<br> DELVE<br> S5</p>
   </div>
 </div> 
+-->
+
+<!--<p><h8 style="color:#818182;">Masters:</h8> U of Chile,<br> Dr. Ricardo Muñoz<br> <h8 style="color:#818182;">PhD:</h8> U of Heidelberg,<br> Dr. Eva  Grebel<br> <h8 style="color:#818182;">PostDoc:</h8> U of Toronto,<br> Dr. Ting Li</p> -->
 
 # Curriculum Vitae
 
