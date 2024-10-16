@@ -171,7 +171,7 @@ Morocco (Nov/2024) **T**
 - RRL/Cep 2019 - Frontiers of Classical Pulsators, Cloudcroft, USA (Oct/2019) **T, P**
 - Hector Fellow Academy Symposium 2019, Heidelberg, Germany (Jul/2019) **P**
 - Astroinformatics 2019, Pasadena, USA (Jun/2019)
-- IV workshop Millennium Institute of Astrophysics MAS, Machalí, Chile (Jan/2017) **T**
+<!--- IV workshop Millennium Institute of Astrophysics MAS, Machalí, Chile (Jan/2017) **T**
 - The RR Lyrae 2017 conference - Revival of the Classical Pulsators, Niepolomice, Poland (Sep/2017) **T**
 - 5th CMM Pucón Symposium, Puerto Varas, Chile (Aug/2017)
 - SOCHIAS 2017 - Annual Meeting, Maitencillo, Chile (Jan/2017) **T**
@@ -184,10 +184,11 @@ Morocco (Nov/2024) **T**
 - Pucón Symposium 2015: Advanced Tools Applied to Frontier Astronomy, BioMedicine and Massive Data-driven Sciences, Puerto Varas, Chile (Aug/2015)
 - Astroinformatics 2014, Los Andes, Chile (Nov/2014) **P**
 - I workshop Millennium Institute of Astrophysics MAS (Aug/2014) **P**
+-->
 
 
-
-### Workshops and Schools (recent only!)
+### Workshops and Schools 
+<!--(recent only!)-->
 -  47th Heidelberg Physics Graduate Days: “Bayesian inference on Milky Way datasets”, and
 “Geometric Deep Learning”, Heidelberg, Germany. (Oct/2021)
 -  10th Modules for Experiments in Stellar Astrophysics (MESA) summer school 2021, On-
