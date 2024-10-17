@@ -171,7 +171,7 @@ Morocco (Nov/2024) **T**
 - RRL/Cep 2019 - Frontiers of Classical Pulsators, Cloudcroft, USA (Oct/2019) **T, P**
 - Hector Fellow Academy Symposium 2019, Heidelberg, Germany (Jul/2019) **P**
 - Astroinformatics 2019, Pasadena, USA (Jun/2019)
-<!--- IV workshop Millennium Institute of Astrophysics MAS, Machalí, Chile (Jan/2017) **T**
+<!-- - IV workshop Millennium Institute of Astrophysics MAS, Machalí, Chile (Jan/2017) **T**
 - The RR Lyrae 2017 conference - Revival of the Classical Pulsators, Niepolomice, Poland (Sep/2017) **T**
 - 5th CMM Pucón Symposium, Puerto Varas, Chile (Aug/2017)
 - SOCHIAS 2017 - Annual Meeting, Maitencillo, Chile (Jan/2017) **T**
