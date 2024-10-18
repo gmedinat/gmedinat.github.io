@@ -13,7 +13,7 @@ layout: default
 - **ORCID:** [0000-0003-0105-9576](https://orcid.org/0000-0003-0105-9576)
 - **Institutional website:** [David A. Dunlap Department of Astronomy & Astrophysics](https://www.astro.utoronto.ca/people/post-docs/name/gustavo-medina/)
 
-<img src="{{ 'Figures/Andromeda_Galaxy_full' | relative_url }}" alt="Andromeda" style="width: 800px; max-width: 100%; text-align:center"> 
+<img src="{{ 'Figures/Andromeda_Galaxy_full.jpg' | relative_url }}" alt="Andromeda" style="width: 800px; max-width: 100%; text-align:center"> 
 
 ## About Me
 <p style="text-align: justify;">
