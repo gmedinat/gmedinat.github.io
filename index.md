@@ -13,7 +13,8 @@ layout: default
 - **ORCID:** [0000-0003-0105-9576](https://orcid.org/0000-0003-0105-9576)
 - **Institutional website:** [David A. Dunlap Department of Astronomy & Astrophysics](https://www.astro.utoronto.ca/people/post-docs/name/gustavo-medina/)
 
-<img src="{{ 'Figures/Andromeda_Galaxy_full.jpg' | relative_url }}" alt="Andromeda" style="width: 800px; max-width: 100%; text-align:center"> 
+<img src="{{ 'Figures/Andromeda_Galaxy_full.jpg' | relative_url }}" alt="Andromeda" style="width: 800px; max-width: 80%; text-align:center"> 
+The Andromeda galaxy, the nearest large galaxy to the Milky Way. Image credit: [Adam Evans](https://www.flickr.com/photos/astroporn/4999978603/) ([CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en)).
 
 ## About Me
 <p style="text-align: justify;">
