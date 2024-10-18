@@ -49,6 +49,7 @@ h-index: 14 <!-- / 5 (total,as first author) -->
 <!-- - Li, A., Li, T., Medina, G. E., et al., “The simultaneous dwarf galaxy and globular cluster origins of the Jhelum and Indus streams”, Estimated submission date: December 2024. -->
 <!-- - Byström, A., Koposov, S., Lilleengen, S., et al., “Exploring the interaction between the MW and LMC with a large sample of blue horizontal branch stars from the DESI survey”, Estimated submission date: October 2024. -->
 - Kim, B., Koposov, S., Li, Ti., et al., “Nearby stellar substructures in the Galactic halo from DESI Milky Way Survey Year 1 Data Release”, 2024, submitted to MNRAS (MN-24-2205-MJ). <!-- - [Obs], [DA]. -->
+- Byström, A., Koposov, S., Lilleengen, S., et al., ``Exploring the interaction between the MW and LMC with a large sample of blue horizontal branch stars from the DESI survey'', [2024, arXiv:2410.09149](https://ui.adsabs.harvard.edu/abs/2024arXiv241009149B/abstract). <!-- -  [Obs], [DA].-->
 - Danieli, S., Kado-Fong, E., Huang, S., et al., “Merian: A Wide-Field Imaging Survey of Dwarf
 Galaxies at z 0.06-0.10”, [2024, arXiv:2410.01884](https://ui.adsabs.harvard.edu/abs/2024arXiv241001884D/abstract). <!-- - [Obs]. -->
 - Cerny, W., Chiti, A., Geha, M., et al., “Discovery and Spectroscopic Confirmation of Aquarius III: A Low-Mass Milky Way Satellite Galaxy”, [2024, arXiv:2410.00981](https://ui.adsabs.harvard.edu/abs/2024arXiv241000981C/abstract). <!-- - [Obs], [DA]. -->
