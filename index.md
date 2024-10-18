@@ -15,7 +15,8 @@ layout: default
 
 <img src="{{ 'Figures/Andromeda_Galaxy_full.jpg' | relative_url }}" alt="Andromeda" style="width: 800px; max-width: 80%; text-align:center"> 
 
-The Andromeda galaxy, the nearest large neighbor to the Milky Way. Image credit: [Adam Evans](https://www.flickr.com/photos/astroporn/4999978603/) ([CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en)).
+The Andromeda (M31) galaxy, the nearest large neighbor to the Milky Way. Astronomers have found that Andromeda's structure resembles that of our own Galaxy. 
+Image credit: [Adam Evans](https://www.flickr.com/photos/astroporn/4999978603/) ([CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en)).
 
 ## About Me
 <p style="text-align: justify;">
