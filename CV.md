@@ -55,10 +55,10 @@ This is a shortened version of my CV. Detailed versions of my CV and my publicat
 
 
 ## Employment History
-- Postdoctoral Fellow (2023 - 2026)
+- **Postdoctoral Fellow** (2023 - 2026)
   - David A. Dunlap Department of Astronomy & Astrophysics, University of Toronto, Canada ([Link](https://www.astro.utoronto.ca/people/post-docs/name/gustavo-medina/))
 
-- Graduate Researcher (2015 - 2022)
+- **Graduate Researcher** (2015 - 2022)
   - Astronomisches Rechen-Institut, Heidelberg University, Germany ([Link 1](https://www.imprs-hd.mpg.de/5699/Alumni), [Link 2](https://wwwstaff.ari.uni-heidelberg.de/mitarbeiter/grebel/formermembers.html))
   - Departamento de Astronomía, Universidad de Chile, Chile ([Link](http://www.das.uchile.cl/das_int_alumnosM_ex.html))
 
@@ -194,8 +194,7 @@ Morocco (Nov/2024) **T**
 -  10th Modules for Experiments in Stellar Astrophysics (MESA) summer school 2021, On-
 line. (Aug/2021)
 -  Bayesian Analysis for Stellar Evolution with nine variables (BASE-9) Workshop, Online. (Jun/2021)
--  45th Heidelberg Physics Graduate Days: “Modern Galactic dynamics in the era of plenti-
-ful data”, and “An introduction to gravitational-wave astrophysics”Heidelberg, Germany. (Oct/2020)
+-  45th Heidelberg Physics Graduate Days: “Modern Galactic dynamics in the era of plentiful data”, and “An introduction to gravitational-wave astrophysics”, Heidelberg, Germany. (Oct/2020)
 -  LSST/Rubin Observatory Project & Community Workshop 2020, Online. (Aug/2020)
 -  13th IMPRS-HD Heidelberg Summer School: Gaia Data & Science, Heidelberg, Germany. (Sep/2018)
 -  Workshop on using TOPCAT, STILTS, and ADQL on Astronomical databases, Santiago,
