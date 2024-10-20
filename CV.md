@@ -124,7 +124,7 @@ This list includes in-person and remote observations for the following surveys: 
 
 
 ## Selected Invited Talks and Seminars (recent only!)
-- “Tales from a dark matter halo: the outer Milky Way as a cosmic laboratory, Milky Way and Andromeda: the odd couple!” **invited talk** at conference, Sexten, Italy (Feb/2025) 
+- “Tales from a dark matter halo: the outer Milky Way as a cosmic laboratory, Milky Way and Andromeda: the odd couple!”, **Invited talk** at conference, Sexten, Italy (Feb/2025) 
 - “Dynamical modeling and orbit integration of distant Milky Way stars”, **Invited lecturer** at workshop on stellar chemistry and kinematics, Goethe Universität Frankfurt, Frankfurt, Germany (July/2024)
 - “The structure and accretion history of the Milky Way using halo RR Lyrae stars in photometric and spectroscopic surveys”, AIP Colloquium, Leibniz-Instituts für Astrophysik Potsdam, Potsdam, Germany (July/2024) 
 - “The structure and accretion history of the Milky Way from the combination of photometry
