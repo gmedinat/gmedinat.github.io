@@ -285,12 +285,12 @@ Germany. (Sep/2016)
   - Grace Yu (co-supervised with Prof. Ting Li) - University of Toronto (ON, Canada)
 
     “Tracing the Milky Way Density Profile with Blue Horizontal Branch stars in the Dark Energy Survey ” (Jan/2023–Jan/2024)
-    Results: Classification of BHB stars in the DES survey using a Bayesian mixture model and mapping the stellar density profile < 70 kpc. Results published in the A&A journal (link).
+    Results: Classification of BHB stars in the DES survey using a Bayesian mixture model and mapping the stellar density profile < 70 kpc. Results published in the A&A journal ([link](https://ui.adsabs.harvard.edu/abs/2024ApJ...975...81Y/abstract)).
 
   - Jiaxun Yang (co-supervised with Prof. Ting Li) - University of Toronto (ON, Canada)
 
-    “Constraining the morphology and orbital history of Bootes~III with S5'' (Jan/2023--May/2023)
-    Results: Obtained improved estimations of the systemic velocity and metallicity of the ultra-faint dwarf galaxy Bootes~III using S5 data. Confirmed its potential association with the Typhon stream. Publication in preparation.
+    “Constraining the morphology and orbital history of Bootes III with S5'' (Jan/2023--May/2023)
+    Results: Obtained improved estimations of the systemic velocity and metallicity of the ultra-faint dwarf galaxy Bootes III using S5 data. Confirmed its potential association with the Typhon stream. Publication in preparation.
 
 **High school students** (as part of the Visions of Science program)
 
