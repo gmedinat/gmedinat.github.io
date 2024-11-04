@@ -256,47 +256,49 @@ Germany. (Sep/2016)
 
     “Comparing the dynamical properties of DESI stellar streams with cold and warm dark matter simulations” (May/2024–)
 
-    Results: Quantification of the dependence of the velocity dispersion of streams on dark matter models.
+    **Results:** Quantification of the dependence of the velocity dispersion of streams on dark matter models.
 
   - Harlin Toor - University of Toronto (ON, Canada)
     
     “Tracing the stellar halo of the Milky Way with blue horizontal-branch stars in the deep wide-field DELVE survey” (May/2024–)
 
-    Results: Catalog of BHB stars in the DELVE survey using Bayesian mixture models. Measurement of the halo shape out to ∼ 100 kpc with BHB stars.
+    **Results:** Catalog of BHB stars in the DELVE survey using Bayesian mixture models. Measurement of the halo shape out to ∼ 100 kpc with BHB stars.
 
   - Maia Wertheim - University of Toronto (ON, Canada)
 
     “Hunting for faint stellar streams in the distant Milky Way halo using DECaLS, DELVE, and UNIONS” (May/2023–)
 
-    Results: Identification of several stream candidates using the matched filter technique. 
+    **Results:** Identification of several stream candidates using the matched filter technique. 
 
   - Phebe T-Giorgis - Simon Fraser University (BC, Canada)
 
     “Searching for RR Lyrae stars in the Aquarius II ultra-faint dwarf galaxies” (May/2023–Sep/2023)
 
-    Results: Several RR Lyrae candidates detected in Aquarius II using multi-epoch photometry.
+    **Results:** Several RR Lyrae candidates detected in Aquarius II using multi-epoch photometry.
 
   - Andrew Li (co-supervised with Prof. Ting Li) - University of Toronto (ON, Canada)
 
     “Detection and characterization of stellar streams using S5 ” (Jan/2023–)
     
-    Results: Membership lists of streams in S5 using Gaussian Mixture Modelling and characterization of two streams with multiple components: Jhelum and Indus. Publication in preparation.
+    **Results:** Membership lists of streams in S5 using Gaussian Mixture Modelling and characterization of two streams with multiple components: Jhelum and Indus. Publication in preparation.
 
   - Grace Yu (co-supervised with Prof. Ting Li) - University of Toronto (ON, Canada)
 
     “Tracing the Milky Way Density Profile with Blue Horizontal Branch stars in the Dark Energy Survey ” (Jan/2023–Jan/2024)
-    Results: Classification of BHB stars in the DES survey using a Bayesian mixture model and mapping the stellar density profile < 70 kpc. Results published in the A&A journal ([link](https://ui.adsabs.harvard.edu/abs/2024ApJ...975...81Y/abstract)).
+    **Results:** Classification of BHB stars in the DES survey using a Bayesian mixture model and mapping the stellar density profile < 70 kpc. Results published in the A&A journal ([link](https://ui.adsabs.harvard.edu/abs/2024ApJ...975...81Y/abstract)).
 
   - Jiaxun Yang (co-supervised with Prof. Ting Li) - University of Toronto (ON, Canada)
 
     “Constraining the morphology and orbital history of Bootes III with S5'' (Jan/2023--May/2023)
-    Results: Obtained improved estimations of the systemic velocity and metallicity of the ultra-faint dwarf galaxy Bootes III using S5 data. Confirmed its potential association with the Typhon stream. Publication in preparation.
+    **Results:** Obtained improved estimations of the systemic velocity and metallicity of the ultra-faint dwarf galaxy Bootes III using S5 data. Confirmed its potential association with the Typhon stream. Publication in preparation.
 
 **High school students** (as part of the Visions of Science program)
 
   - Adheena Fatimah and Heruye Gared - University of Toronto (ON, Canada)
 
     "Hunting for Milky Way hypervelocity stars with spectroscopy" (July-August 2024)
+
+    **Results:** Several hypervelocity stars identified in the DESI survey (Y3 database). Spectroscopic follow-up in preparation.
 
 ## Public Outreach
 - Talk “La Vía Láctea y las distancias a escala Galáctica” offered remotely and in person for several rural schools in Chile (2021-)
