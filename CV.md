@@ -26,7 +26,7 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-This is a shortened version of my CV. Detailed versions of my CV and my publication records (_as of October 5, 2024_) are provided in the following links:
+This is a shortened version of my CV. Detailed versions of my CV and my publication records (_as of November 14, 2024_) are provided in the following links:
 
 - [Download my Full CV (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/024b38f2fd97e363a8734fe53e2e08b4018339ac/CV_GMT_20241005.pdf)
 - [Download my List of Publications (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/94cc80feec013bbc4358ab5a4196f4a169079500/Publications_GMT_20241005.pdf)
@@ -92,7 +92,7 @@ Germany.
 DS9, IRAF, iSpec, BASE-9, MESA
 
 ## Observing Experience
-- **44 nights**: DECam@Blanco 4 m telescope, Cerro Tololo Inter-American Observatory (2015 - 2024)
+- **44.5 nights**: DECam@Blanco 4 m telescope, Cerro Tololo Inter-American Observatory (2015 - 2024)
 - **6 nights**: DESI@Mayall 4 m telescope, Kitt Peak National Observatory (2024)
 - **2 nights**: IMACS@Baade 6.5 m (Magellan) telescope, Las Campanas Observatory (2022)
 - **5 nights**: MIKE@Clay 6.5 m (Magellan) telescope, Las Campanas Observatory (2019 - 2024)
