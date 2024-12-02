@@ -124,7 +124,8 @@ This list includes in-person and remote observations for the following surveys: 
 
 
 ## Selected Invited Talks and Seminars (recent only!)
-- “Tales from a dark matter halo: the outer Milky Way as a cosmic laboratory, Milky Way and Andromeda: the odd couple!”, **Invited talk** at conference, Sexten, Italy (Feb/2025) 
+- “Tales from a dark matter halo: the outer Milky Way as a cosmic laboratory, Milky Way and Andromeda: the odd couple!”, **Invited talk** at conference, Sexten, Italy (Feb/2025)
+- “The DESI catalog of RR Lyrae stars: tracing the Milky Way potential out to 100 kpc”, **Invited plenary talk** at DESI collaboration meeting, Cancun, Mexico (Dec/2024) 
 - “Dynamical modeling and orbit integration of distant Milky Way stars”, **Invited lecturer** at workshop on stellar chemistry and kinematics, Goethe Universität Frankfurt, Frankfurt, Germany (July/2024)
 - “The structure and accretion history of the Milky Way using halo RR Lyrae stars in photometric and spectroscopic surveys”, AIP Colloquium, Leibniz-Instituts für Astrophysik Potsdam, Potsdam, Germany (July/2024) 
 - “The structure and accretion history of the Milky Way from the combination of photometry
@@ -140,7 +141,7 @@ and spectroscopy of halo RR Lyrae stars”, NOIRLab Colloquium, NOIRLab, La Sere
 ### Conferences with contributions (recent only!) 
 (**[T]**: Contributed Talk, **[P]**: Poster Presentation)
 
-- DESI annual collaboration meeting, Cancún, Mexico (Dec/2024) **T**
+- DESI annual collaboration meeting, Cancún, Mexico (Dec/2024) **T** (2 talks: contributed & invited)
 - The RR Lyrae and Cepheid meeting 2024 Frontiers of Classical Pulsators, Marrakesh,
 Morocco (Nov/2024) **T**
 - Resolved stellar populations from photographic plates to large surveys, Florence, Italy (Oct/2024) **T**
