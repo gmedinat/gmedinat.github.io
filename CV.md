@@ -63,10 +63,10 @@ This is a shortened version of my CV. Detailed versions of my CV and my publicat
   - Departamento de Astronomía, Universidad de Chile, Chile ([Link](http://www.das.uchile.cl/das_int_alumnosM_ex.html))
 
 - **Summer Term Researcher** (Jan-Mar 2014)
-Departamento de Astronomía, Universidad de Chile, Chile
+  - Departamento de Astronomía, Universidad de Chile, Chile
 
 - **Research Intern** (Jan-Mar 2013)
-Departamento de Astronomía, Universidad de Chile, Chile
+  - Departamento de Astronomía, Universidad de Chile, Chile
 
 ## Grants, Awards and Fellowships
 - **Arts & Science + Dunlap Postdoctoral Fellowship**
