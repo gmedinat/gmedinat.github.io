@@ -62,6 +62,12 @@ This is a shortened version of my CV. Detailed versions of my CV and my publicat
   - Astronomisches Rechen-Institut, Heidelberg University, Germany ([Link 1](https://www.imprs-hd.mpg.de/5699/Alumni), [Link 2](https://wwwstaff.ari.uni-heidelberg.de/mitarbeiter/grebel/formermembers.html))
   - Departamento de Astronomía, Universidad de Chile, Chile ([Link](http://www.das.uchile.cl/das_int_alumnosM_ex.html))
 
+- **Summer Term Researcher** (Jan-Mar 2014)
+Departamento de Astronomía, Universidad de Chile, Chile
+
+- **Research Intern** (Jan-Mar 2013)
+Departamento de Astronomía, Universidad de Chile, Chile
+
 ## Grants, Awards and Fellowships
 - **Arts & Science + Dunlap Postdoctoral Fellowship**
   - University of Toronto, 2023 - 2026, Canada.
