@@ -59,8 +59,8 @@ This is a shortened version of my CV. Detailed versions of my CV and my publicat
   - David A. Dunlap Department of Astronomy & Astrophysics, University of Toronto, Canada ([Link](https://www.astro.utoronto.ca/people/post-docs/name/gustavo-medina/))
 
 - **Graduate Researcher** (2015 - 2022)
-  - Astronomisches Rechen-Institut, Heidelberg University, Germany ([Link 1](https://www.imprs-hd.mpg.de/5699/Alumni), [Link 2](https://wwwstaff.ari.uni-heidelberg.de/mitarbeiter/grebel/formermembers.html))
-  - Departamento de Astronomía, Universidad de Chile, Chile ([Link](http://www.das.uchile.cl/das_int_alumnosM_ex.html))
+  - Astronomisches Rechen-Institut, Heidelberg University, Germany (2018-2022; [Link 1](https://www.imprs-hd.mpg.de/5699/Alumni), [Link 2](https://wwwstaff.ari.uni-heidelberg.de/mitarbeiter/grebel/formermembers.html))
+  - Departamento de Astronomía, Universidad de Chile, Chile (2015-2017; [Link](http://www.das.uchile.cl/das_int_alumnosM_ex.html))
 
 - **Summer Term Researcher** (Jan-Mar 2014)
   - Departamento de Astronomía, Universidad de Chile, Chile
