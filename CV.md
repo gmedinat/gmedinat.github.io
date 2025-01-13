@@ -98,7 +98,7 @@ Germany.
 DS9, IRAF, iSpec, BASE-9, MESA
 
 ## Observing Experience
-- **44.5 nights**: DECam@Blanco 4 m telescope, Cerro Tololo Inter-American Observatory (2015 - 2024)
+- **45 nights**: DECam@Blanco 4 m telescope, Cerro Tololo Inter-American Observatory (2015 - 2024)
 - **6 nights**: DESI@Mayall 4 m telescope, Kitt Peak National Observatory (2024)
 - **2 nights**: IMACS@Baade 6.5 m (Magellan) telescope, Las Campanas Observatory (2022)
 - **5 nights**: MIKE@Clay 6.5 m (Magellan) telescope, Las Campanas Observatory (2019 - 2024)
