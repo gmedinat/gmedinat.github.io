@@ -130,6 +130,7 @@ This list includes in-person and remote observations for the following surveys: 
 
 
 ## Selected Invited Talks and Seminars (recent only!)
+- “RR Lyrae stars in the DESI Milky Way Survey: Insights on the structure, accretion history, and mass of the Milky Way”, TASTY Seminar, University of Toronto, Toronto, Canada (Feb/2025) 
 - “Tales from a dark matter halo: the outer Milky Way as a cosmic laboratory, Milky Way and Andromeda: the odd couple!”, **Invited talk** at conference, Sexten, Italy (Feb/2025)
 - “The DESI catalog of RR Lyrae stars: tracing the Milky Way potential out to 100 kpc”, **Invited plenary talk** at DESI collaboration meeting, Cancun, Mexico (Dec/2024) 
 - “Dynamical modeling and orbit integration of distant Milky Way stars”, **Invited lecturer** at workshop on stellar chemistry and kinematics, Goethe Universität Frankfurt, Frankfurt, Germany (July/2024)
