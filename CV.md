@@ -130,11 +130,12 @@ This list includes in-person and remote observations for the following surveys: 
 
 
 ## Selected Invited Talks and Seminars (recent only!)
+- “Data products of the DESI Milky Way Survey DR1: value added catalogs and scientific applications”, CITA Seminar, Canadian Institute for Theoretical Astrophysics, Toronto, Canada (Mar/2025) 
 - “RR Lyrae stars in the DESI Milky Way Survey: Insights on the structure, accretion history, and mass of the Milky Way”, TASTY Seminar, University of Toronto, Toronto, Canada (Feb/2025) 
 - “Tales from a dark matter halo: the outer Milky Way as a cosmic laboratory, Milky Way and Andromeda: the odd couple!”, **Invited talk** at conference, Sexten, Italy (Feb/2025)
 - “The DESI catalog of RR Lyrae stars: tracing the Milky Way potential out to 100 kpc”, **Invited plenary talk** at DESI collaboration meeting, Cancun, Mexico (Dec/2024) 
-- “Dynamical modeling and orbit integration of distant Milky Way stars”, **Invited lecturer** at workshop on stellar chemistry and kinematics, Goethe Universität Frankfurt, Frankfurt, Germany (July/2024)
-- “The structure and accretion history of the Milky Way using halo RR Lyrae stars in photometric and spectroscopic surveys”, AIP Colloquium, Leibniz-Instituts für Astrophysik Potsdam, Potsdam, Germany (July/2024) 
+- “Dynamical modeling and orbit integration of distant Milky Way stars”, **Invited lecturer** at workshop on stellar chemistry and kinematics, Goethe Universität Frankfurt, Frankfurt, Germany (Jul/2024)
+- “The structure and accretion history of the Milky Way using halo RR Lyrae stars in photometric and spectroscopic surveys”, AIP Colloquium, Leibniz-Instituts für Astrophysik Potsdam, Potsdam, Germany (Jul/2024) 
 - “The structure and accretion history of the Milky Way from the combination of photometry
 and spectroscopy of halo RR Lyrae stars”, NOIRLab Colloquium, NOIRLab, La Serena, Chile (Apr/2024)
 - “The Halo Outskirts With Variable Stars (HOWVAST) survey: exploring the outer Milky Way with RR Lyrae stars”, TASTY Seminar, University of Toronto, Toronto, Canada (Dec/2023)
