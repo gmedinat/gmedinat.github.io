@@ -48,6 +48,7 @@ h-index: 14 <!-- / 5 (total,as first author) -->
 <!-- - Wertheim, M., Medina, G. E., Li, T. S., et al., “Discovery of distant halo stellar streams using DELVE DR3”, Estimated submission date: 2025. -->
 <!-- - Li, A., Li, T., Medina, G. E., et al., “The simultaneous dwarf galaxy and globular cluster origins of the Jhelum and Indus streams”, Estimated submission date: December 2024. -->
 <!-- - Byström, A., Koposov, S., Lilleengen, S., et al., “Exploring the interaction between the MW and LMC with a large sample of blue horizontal branch stars from the DESI survey”, Estimated submission date: October 2024. -->
+- DESI Collaboration, Karim, M. A., Adame, A. G., et al., “Data Release 1 of the Dark Energy Spectroscopic Instrument”, [2025, arXiv:2503.14745](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract). <!-- - [Obs],[DA]. -->
 - Gwyn, S., McConnachie, A. W., Cuillandre, J-C., et al., “UNIONS: The Ultraviolet Near-Infrared Optical Northern Survey”, [2025, arXiv:2503.13783](https://arxiv.org/pdf/2503.13783). <!-- - [DA]. -->
 - Anbajagane, D., Chang, C., Drlica-Wagner, A., et al., “The DECADE cosmic shear project IV: cosmological constraints from 107 million galaxies across 5,400 deg2 of the sky”, [2025, arXiv:2502.17677](https://arxiv.org/abs/2502.17677). <!-- - [Obs]. -->
 - Anbajagane, D., Chang, C., Chicoine, N., et al., “The DECADE cosmic shear project III: validation of analysis pipeline using spatially inhomogeneous data”, [2025, arXiv:2502.17676](https://arxiv.org/abs/2502.17676). <!-- - [Obs]. -->
