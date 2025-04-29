@@ -69,8 +69,11 @@ This is a shortened version of my CV. Detailed versions of my CV and my publicat
   - Departamento de Astronomía, Universidad de Chile, Chile
 
 ## Grants, Awards and Fellowships
-- **Arts & Science + Dunlap Postdoctoral Fellowship**
-  - University of Toronto, 2023 - 2026, Canada.
+- **Dunlap Postdoctoral Fellowship**
+  - University of Toronto, 2025 - 2026, Canada.
+
+- **Arts & Science Postdoctoral Fellowship**
+  - University of Toronto, 2023 - 2025, Canada.
 
 - **Hector Fellow Academy Doctoral Fellowship**
   - Hector Fellow Academy, 2018 - 2022, Germany.
