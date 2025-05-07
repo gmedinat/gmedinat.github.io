@@ -21,7 +21,7 @@ This is a summarized version of my List of Publications. A detailed version is p
 
 
 
-Number of publications: 35  <!-- / 6    (total / as first author) plus 3 first-author papers soon to be submitted. --> 
+Number of publications: 41  <!-- / 6    (total / as first author) plus 3 first-author papers soon to be submitted. --> 
 
 Number of citations: 5,340 <!-- / 81 (total, as first author) -->
 
