@@ -264,53 +264,66 @@ Germany. (Sep/2016)
 
 ## Students Supervised
 **Undergraduate students**
-  - Wesley Luo - University of Toronto (ON, Canada)
 
-    “Comparing the dynamical properties of DESI stellar streams with cold and warm dark matter simulations” (May/2024–)
+  - Aishani Chaudhuri - University of Toronto (May/2025–)
+
+    “Radial velocity and orbit analysis of binary systems in the DESI survey” 
+
+    **Results:** In progress.
+
+  - Winnie (Mingzhi) Jiang - University of Toronto (May/2025–)
+
+    “A photometric analysis of RR Lyrae stars in the Orphan-Chenab stream” 
+
+    **Results:** In progress.
+
+  - Wesley Luo - University of Toronto (May/2024–)
+
+    “Comparing the dynamical properties of DESI stellar streams with cold and warm dark matter simulations” 
 
     **Results:** Quantification of the dependence of the velocity dispersion of streams on dark matter models.
 
-  - Harlin Toor - University of Toronto (ON, Canada)
+  - Harlin Toor - University of Toronto (May/2024–)
     
-    “Tracing the stellar halo of the Milky Way with blue horizontal-branch stars in the deep wide-field DELVE survey” (May/2024–)
+    “Tracing the stellar halo of the Milky Way with blue horizontal-branch stars in the deep wide-field DELVE survey” 
 
     **Results:** Catalog of BHB stars in the DELVE survey using Bayesian mixture models. Measurement of the halo shape out to ∼ 100 kpc with BHB stars.
 
-  - Maia Wertheim - University of Toronto (ON, Canada)
+  - Maia Wertheim - University of Toronto (May/2023–)
 
-    “Hunting for faint stellar streams in the distant Milky Way halo using DECaLS, DELVE, and UNIONS” (May/2023–)
+    “Hunting for faint stellar streams in the distant Milky Way halo using DECaLS, DELVE, and UNIONS” 
 
     **Results:** Identification of several stream candidates using the matched filter technique. 
 
-  - Phebe T-Giorgis - Simon Fraser University (BC, Canada)
+  - Phebe T-Giorgis - Simon Fraser University (May/2023–Sep/2023)
 
-    “Searching for RR Lyrae stars in the Aquarius II ultra-faint dwarf galaxies” (May/2023–Sep/2023)
+    “Searching for RR Lyrae stars in the Aquarius II ultra-faint dwarf galaxies” 
 
     **Results:** Several RR Lyrae candidates detected in Aquarius II using multi-epoch photometry.
 
-  - Andrew Li (co-supervised with Prof. Ting Li) - University of Toronto (ON, Canada)
+  - Andrew Li (co-supervised with Prof. Ting Li) - University of Toronto (Jan/2023–)
 
-    “Detection and characterization of stellar streams using S5 ” (Jan/2023–)
+    “Detection and characterization of stellar streams using S5 ” 
     
     **Results:** Membership lists of streams in S5 using Gaussian Mixture Modelling and characterization of two streams with multiple components: Jhelum and Indus. Publication in preparation.
 
-  - Grace Yu (co-supervised with Prof. Ting Li) - University of Toronto (ON, Canada)
+  - Grace Yu (co-supervised with Prof. Ting Li) - University of Toronto (Jan/2023–Jan/2024)
 
-    “Tracing the Milky Way Density Profile with Blue Horizontal Branch stars in the Dark Energy Survey ” (Jan/2023–Jan/2024)
+    “Tracing the Milky Way Density Profile with Blue Horizontal Branch stars in the Dark Energy Survey ” 
     
     **Results:** Classification of BHB stars in the DES survey using a Bayesian mixture model and mapping the stellar density profile < 70 kpc. Results published in the A&A journal ([link](https://ui.adsabs.harvard.edu/abs/2024ApJ...975...81Y/abstract)).
 
-  - Jiaxun Yang (co-supervised with Prof. Ting Li) - University of Toronto (ON, Canada)
+  - Jiaxun Yang (co-supervised with Prof. Ting Li) - University of Toronto (Jan/2023--May/2023)
 
-    “Constraining the morphology and orbital history of Bootes III with S5'' (Jan/2023--May/2023)
+    “Constraining the morphology and orbital history of Bootes III with S5'' 
     
     **Results:** Obtained improved estimations of the systemic velocity and metallicity of the ultra-faint dwarf galaxy Bootes III using S5 data. Confirmed its potential association with the Typhon stream. Publication in preparation.
 
 **High school students** (as part of the Visions of Science program)
 
-  - Adheena Fatimah and Heruye Gared - University of Toronto (ON, Canada)
+  - Adheena Fatimah and Heruye Gared - University of Toronto (July-August 2024)
 
-    "Hunting for Milky Way hypervelocity stars with spectroscopy" (July-August 2024)
+    "Hunting for Milky Way hypervelocity stars with spectroscopy" 
 
     **Results:** Several hypervelocity stars identified in the DESI survey (Y3 database). Spectroscopic follow-up in preparation.
 
