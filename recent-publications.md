@@ -14,16 +14,16 @@ This is a summarized version of my List of Publications. A detailed version is p
     - [Full list](https://ui.adsabs.harvard.edu/public-libraries/Wfv16gZaRPuwbDI3G4b6wA)
     - [First author only](https://ui.adsabs.harvard.edu/public-libraries/qb_gXE9HRw6Dpo7-M8BilQ)
   
-- [Download my Full CV](https://github.com/gmedinat/gmedinat.github.io/blob/024b38f2fd97e363a8734fe53e2e08b4018339ac/CV_GMT_20241005.pdf) (in pdf)
+- [Download my Full CV](https://github.com/gmedinat/gmedinat.github.io/blob/2f127631962e28dd8964a57769f70f073d44b2d4/CV_GMT_20250525.pdf) (in pdf)
   
-- [Download my List of Publications](https://github.com/gmedinat/gmedinat.github.io/blob/94cc80feec013bbc4358ab5a4196f4a169079500/Publications_GMT_20241005.pdf) (in pdf)
+- [Download my List of Publications](https://github.com/gmedinat/gmedinat.github.io/blob/2f127631962e28dd8964a57769f70f073d44b2d4/Publications_GMT_20250525.pdf) (in pdf)
 
 
 
 
-Number of publications: 41  <!-- / 6    (total / as first author) plus 3 first-author papers soon to be submitted. --> 
+Number of publications: 44  <!-- / 6    (total / as first author) plus 3 first-author papers soon to be submitted. --> 
 
-Number of citations: 5,340 <!-- / 81 (total, as first author) -->
+Number of citations: 5,441 <!-- / 81 (total, as first author) -->
 
 h-index: 18 <!-- / 5 (total,as first author) -->
 
