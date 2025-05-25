@@ -25,33 +25,35 @@ Number of publications: 41  <!-- / 6    (total / as first author) plus 3 first-a
 
 Number of citations: 5,340 <!-- / 81 (total, as first author) -->
 
-h-index: 17 <!-- / 5 (total,as first author) -->
+h-index: 18 <!-- / 5 (total,as first author) -->
 
 
 ## Recent Publications
 
 **As first author** <!-- (5 papers)   + 3 in prep.) -->
 <!-- - **Medina, G. E.**, Li, T. S., Eadie, G., and the DESI collaboration, “A distribution function-based estimation of the Milky Way mass using DESI Y1 RR Lyrae and horizontal branch stars”, A&A. Estimated submission date: January 2025. -->
-<!-- - **Medina, G. E.**, Li, T. S., and the DESI collaboration, “The DESI Y1 RR Lyrae catalog II: Metallicity dependencies in the Bailey diagram and the shape RR Lyrae instability strip”, A&A. Draft available. Estimated submission date: December 2024. -->
-- **Medina, G. E.**, Li, T. S., Koposov, S., et al., “The DESI Y1 RR Lyrae catalog I: Empirical modeling of the cyclic variation of spectroscopic properties and a chemodynamical analysis of the outer halo”, [2025, arXiv:2504.02924](https://arxiv.org/abs/2504.02924). <!-- - [Obs],[DA]. -->
+- **Medina, G. E.**, Li, T. S., Allende Prieto, C., et al., “The DESI Y1 RR Lyrae catalog II: The metallicity dependency of pulsational properties, the shape of the RR Lyrae instability strip, and metal rich RR Lyrae”, [2025, arXiv:2505.10614](https://ui.adsabs.harvard.edu/abs/2025arXiv250510614M/abstract). <!-- - [Obs],[DA]. -->
+- **Medina, G. E.**, Li, T. S., Koposov, S., et al., “The DESI Y1 RR Lyrae catalog I: Empirical modeling of the cyclic variation of spectroscopic properties and a chemodynamical analysis of the outer halo”, [2025, arXiv:2504.02924](https://ui.adsabs.harvard.edu/abs/2025arXiv250402924M/abstract). <!-- - [Obs],[DA]. -->
 - **Medina, G. E.**, Muñoz R. R., Carlin, J. L., Vivas, A. K., Grebel, E. K., Martínez-Vázquez, C. E., Hansen, C. J., “Taking the pulse of the outer Milky Way with HOWVAST: an RR Lyrae density profile out to >200 kpc”, [2024, MNRAS, 531, 4762](https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.4762M/abstract).
 - **Medina, G. E**., Hansen, C. J., Muñoz, R. R., Grebel E. K., Vivas, A. K., Carlin, J. L., Martínez- Vazquez C., “RR Lyrae stars as probes of the outer Galactic halo: Chemical and kinematic analysis of a pilot sample”, [2023, MNRAS 519, 5689](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.5689M/abstract).
 - **Medina, G. E.**, Lemasle, B., Grebel, E. K., “A revisited study of Cepheids in open clusters in the Gaia era”, [2021, MNRAS 505, 1342](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.1342M/abstract).
 - **Medina, G. E.**, Muñoz, R. R., Vivas, A. K., Carlin, J. L., Förster, F., Martinez, J., Galbany, L., González-Gaitán, S., Hamuy, M., de Jaeger, Th., Maureira, J. C., San Martín, J., “Discovery of distant RR Lyrae stars in the Milky Way using DECam”, [2018, ApJ, 855, 43](https://ui.adsabs.harvard.edu/#abs/2018ApJ...855...43M/abstract).
 - **Medina, G. E.**, Muñoz, R. R., Vivas, A. K., Förster, F., Carlin, J. L., Martinez, J., Galbany, L., González-Gaitán, S., Hamuy, M., de Jaeger, Th., Maureira, J. C., San Martín, J., “Serendipitous Discovery of RR Lyrae Stars in the Leo V Ultra-faint Galaxy”, [2017, ApJ, 845, L10](https://ui.adsabs.harvard.edu/abs/2017ApJ...845L..10M/abstract).
   
-**As co-author** (showing only recent papers) <!-- (23 papers)   + 4 in prep.) -->
+**As co-author** (showing only recent papers) <!-- (37 papers)   + 4 in prep.) -->
 
 <!-- (Contribution - [Obs]: Observations, [DA]: Data analysis) -->
 
 <!-- - Wertheim, M., Medina, G. E., Li, T. S., et al., “Discovery of distant halo stellar streams using DELVE DR3”, Estimated submission date: 2025. -->
 <!-- - Li, A., Li, T., Medina, G. E., et al., “The simultaneous dwarf galaxy and globular cluster origins of the Jhelum and Indus streams”, Estimated submission date: December 2024. -->
 <!-- - Byström, A., Koposov, S., Lilleengen, S., et al., “Exploring the interaction between the MW and LMC with a large sample of blue horizontal branch stars from the DESI survey”, Estimated submission date: October 2024. -->
+- Koposov, S., Li, T. S., Allende Prieto, C., et al., “DESI Data Release 1: Stellar Catalogue”, [2025, arXiv:2505.14787](https://ui.adsabs.harvard.edu/abs/2025arXiv250514787K/abstract)). <!-- - [Obs], [DA]. -->
+- Kim, B., Koposov, S., Li, Ti., et al., “Nearby stellar substructures in the Galactic halo from DESI Milky Way Survey Year 1 Data Release”, ([2025, MNRAS, 540, 264](https://ui.adsabs.harvard.edu/abs/2025MNRAS.540..264K/abstract)). <!-- - [Obs], [DA]. -->
+- Casey, Q. O., Mutlu-Pakdil, B., Sand, D. J., et al., “Deep Photometric Observations of Ultra-Faint Milky Way Satellites Centaurus I and Eridanus IV”, [2025, ApJ, 984, 148](https://ui.adsabs.harvard.edu/abs/2025ApJ...984..148C/abstract).   <!-- - [Obs], [DA]. -->
 - Doliva-Dolinsky, A., Mutlu-Pakdil, B., Crnojević, D., et al., “The NGC3109 Satellite System: The First Systematic Resolved Search for Dwarf Galaxies Around a SMC-mass Host”, [2025, arXiv:2505.05570](https://ui.adsabs.harvard.edu/abs/2025arXiv250505570D/abstract)). <!-- - [Obs], [DA]. -->
 - Medoff, J., Mutlu-Pakdil, B., Carlin, J. L., et al., “DELVE-DEEP Survey: The Faint Satellite System of NGC 55”, [2025, arXiv:2504.18645](https://ui.adsabs.harvard.edu/abs/2025arXiv250418645M/abstract)). <!-- - [Obs], [DA]. -->
 - Aganze, C., Chandra, V., Wechsler, R. H., et al., “The Cocytos Stream: A Disrupted Globular Cluster from our Last Major Merger?”, [2025, arXiv:2504.11687](https://ui.adsabs.harvard.edu/abs/2025arXiv250411687A/abstract)). <!-- - [Obs], [DA]. -->
 - Barbosa, F. O., Chiti, A., Limberg, G., et al., “The DECam MAGIC Survey: A Wide-field Photometric Metallicity Study of the Sculptor Dwarf Spheroidal Galaxy”, [2025, arXiv:2504.03593](https://ui.adsabs.harvard.edu/abs/2025arXiv250403593B/abstract)). <!-- - [Obs], [DA]. -->
-- Kim, B., Koposov, S., Li, Ti., et al., “Nearby stellar substructures in the Galactic halo from DESI Milky Way Survey Year 1 Data Release”, 2025, accepted for publication, MNRAS ([MN-24-2205-MJ](https://ui.adsabs.harvard.edu/abs/2025MNRAS.tmp..685K/abstract)). <!-- - [Obs], [DA]. -->
 - DESI Collaboration, Karim, M. A., Adame, A. G., et al., “Data Release 1 of the Dark Energy Spectroscopic Instrument”, [2025, arXiv:2503.14745](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract). <!-- - [Obs],[DA]. -->
 - Gwyn, S., McConnachie, A. W., Cuillandre, J-C., et al., “UNIONS: The Ultraviolet Near-Infrared Optical Northern Survey”, [2025, arXiv:2503.13783](https://arxiv.org/pdf/2503.13783). <!-- - [DA]. -->
 - Anbajagane, D., Chang, C., Drlica-Wagner, A., et al., “The DECADE cosmic shear project IV: cosmological constraints from 107 million galaxies across 5,400 deg2 of the sky”, [2025, arXiv:2502.17677](https://arxiv.org/abs/2502.17677). <!-- - [Obs]. -->
@@ -59,7 +61,6 @@ h-index: 17 <!-- / 5 (total,as first author) -->
 - Anbajagane, D., Alarcon, A., Teixeira, R., et al., “The DECADE cosmic shear project II: photometric redshift calibration of the source galaxy sample”, [2025, arXiv:2502.17675](https://arxiv.org/abs/2502.17675). <!-- - [Obs]. -->
 - Anbajagane, D., Chang, C., Zhang, Z., et al., “The DECADE cosmic shear project I: A new weak lensing shape catalog of 107 million galaxies”, [2025, arXiv:2502.17674](https://arxiv.org/abs/2502.17674). <!-- - [Obs]. -->
 - Bayer, M., Starkenburg, E., Thomas G.~F., et al., “A Pristine-UNIONS view on the Galaxy: Kinematics of the distant spur feature of the Sagittarius stream traced by Blue Horizontal Branch stars”, [2025, arXiv:2502.17319](https://arxiv.org/abs/2502.17319). <!-- - [DA]. -->
-- Casey, Q. O., Mutlu-Pakdil, B., Sand, D. J., et al., “Deep Photometric Observations of Ultra-Faint Milky Way Satellites Centaurus I and Eridanus IV”, [2025, arXiv:2501.04772](https://ui.adsabs.harvard.edu/abs/2025arXiv250104772C/abstract).   <!-- - [Obs], [DA]. --> 
 - Byström, A., Koposov, S., Lilleengen, S., et al., ``Exploring the interaction between the MW and LMC with a large sample of blue horizontal branch stars from the DESI survey'', [2024, arXiv:2410.09149](https://ui.adsabs.harvard.edu/abs/2024arXiv241009149B/abstract). <!-- -  [Obs], [DA].-->
 - Danieli, S., Kado-Fong, E., Huang, S., et al., “Merian: A Wide-Field Imaging Survey of Dwarf
 Galaxies at z 0.06-0.10”, [2024, arXiv:2410.01884](https://ui.adsabs.harvard.edu/abs/2024arXiv241001884D/abstract). <!-- - [Obs]. -->
