@@ -88,7 +88,7 @@ Germany.
 - **Award for Academic Excellence**
   - Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile, 2013 and 2014, Chile.
 
-   **As co-I**
+   **As second author**
 
 - **Fondecyt Fellowship 2022 (PI: Muñoz, R.)**
   - Comisión Nacional de Investigación Científica y Tecnológica, 2022 - 2025, Chile.
