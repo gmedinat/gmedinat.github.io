@@ -6,7 +6,7 @@ permalink: /recent-publications/
 
 # Overview
 
-This is a summarized version of my List of Publications. A detailed version is provided in the material below (_as of October 5, 2024_):
+This is a summarized version of my List of Publications. A detailed version is provided in the material below (_as of May 25, 2025_):
 
 - ORCID: [0000-0003-0105-9576](https://orcid.org/0000-0003-0105-9576)
 
