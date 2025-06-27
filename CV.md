@@ -133,6 +133,7 @@ This list includes in-person and remote observations for the following surveys: 
 
 
 ## Selected Invited Talks and Seminars (recent only!)
+- “Summary of activities of the DELVE WIDE working group”, DELVE Collaboration Meeting, Dartmouth, Hanover, USA (Online talk; June/2025) 
 - “Data products of the DESI Milky Way Survey DR1: value added catalogs and scientific applications”, CITA Seminar, Canadian Institute for Theoretical Astrophysics, Toronto, Canada (Mar/2025) 
 - “RR Lyrae stars in the DESI Milky Way Survey: Insights on the structure, accretion history, and mass of the Milky Way”, TASTY Seminar, University of Toronto, Toronto, Canada (Feb/2025) 
 - “Tales from a dark matter halo: the outer Milky Way as a cosmic laboratory, Milky Way and Andromeda: the odd couple!”, **Invited talk** at conference, Sexten, Italy (Feb/2025)
