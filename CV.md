@@ -133,6 +133,11 @@ This list includes in-person and remote observations for the following surveys: 
 
 
 ## Selected Invited Talks and Seminars (recent only!)
+
+- “Inferring the mass of the Milky Way mass with distant RR Lyrae and blue horizontal-branch stars”, remote talk at DESI collaboration meeting, Berkeley, CA, USA (Jul/2025)
+- “Spectroscopic characterization and chemodynamical analysis of RR Lyrae stars in the DESI survey”, Côte d’Azur Observatory, Nice, France (Jul/2025)
+- “Exploring the outer halo with DESI: characterization of spectroscopic variations of RR Lyrae stars and insights on the Galactic accretion history”, Monday Seminar, Kapteyn Astronomical Institute, University of Groningen, Groningen, Netherlands (Jul/2025)
+- “Analysis of the spectroscopic variations of RR Lyrae stars in DESI: Tracing the structure, accretion history, and mass of the Milky Way”, ESO Garching, Garching, Germany (Jul/2025)
 - “Summary of activities of the DELVE WIDE working group”, DELVE Collaboration Meeting, Dartmouth, Hanover, USA (Online talk; June/2025) 
 - “Data products of the DESI Milky Way Survey DR1: value added catalogs and scientific applications”, CITA Seminar, Canadian Institute for Theoretical Astrophysics, Toronto, Canada (Mar/2025) 
 - “RR Lyrae stars in the DESI Milky Way Survey: Insights on the structure, accretion history, and mass of the Milky Way”, TASTY Seminar, University of Toronto, Toronto, Canada (Feb/2025) 
