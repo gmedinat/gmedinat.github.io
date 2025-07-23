@@ -153,6 +153,8 @@ and spectroscopy of halo RR Lyrae stars”, NOIRLab Colloquium, NOIRLab, La Sere
 ### Conferences with contributions (recent only!) 
 (**[T]**: Contributed Talk, **[P]**: Poster Presentation)
 
+- Stellar Variability: Taking the Pulse of the Universe, Pune, India (Nov/2025) **T**
+- IAU 403: The hidden beauty of the Galactic outskirts, Cordoba, Spain (Oct/2025) **T**
 - DESI annual collaboration meeting, Cancún, Mexico (Dec/2024) **T** (2 talks: contributed & invited)
 - The RR Lyrae and Cepheid meeting 2024 Frontiers of Classical Pulsators, Marrakesh,
 Morocco (Nov/2024) **T**
