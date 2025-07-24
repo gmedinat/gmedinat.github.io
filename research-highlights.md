@@ -53,9 +53,8 @@ Here, I summarize my research and its outcomes.
 
 <p style="text-align: justify;">
 RR Lyrae stars are old (> 10 Gyr) low-mass variables that, in terms of stellar evolution, lie in the intersection between the horizontal giant branch (HB) and the instability strip. 
-Thus, they are found in systems that contain old stellar populations. 
-They are typically found to pulsate in the fundamental mode (RRab) or in the first-overtone mode (RRc), but they are also observed to pulsate in both modes simultaneously (RRd). 
-These stars have been considered to be the swiss-army knives of Galactic archaeology, 
+These stars are typically present in old and metal-poor systems. 
+RR Lyrae variables are most commonly found pulsating in the fundamental mode (RRab) or in the first-overtone mode (RRc), but they are also observed to pulsate in both modes simultaneously (RRd). 
 Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and globular clusters, and their multiple useful properties, these stars have been considered to be the swiss-army knives of Galactic archaeology.     
 </p>
 
