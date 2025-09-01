@@ -21,7 +21,7 @@ This is a summarized version of my List of Publications. A detailed version is p
 
 
 
-Number of publications: 44  <!-- / 6    (total / as first author) plus 3 first-author papers soon to be submitted. --> 
+Number of publications: 52  <!-- / 6    (total / as first author) plus 3 first-author papers soon to be submitted. --> 
 
 Number of citations: 5,441 <!-- / 81 (total, as first author) -->
 
@@ -31,7 +31,7 @@ h-index: 18 <!-- / 5 (total,as first author) -->
 ## Recent Publications
 
 **As first author** <!-- (5 papers)   + 3 in prep.) -->
-<!-- - **Medina, G. E.**, Li, T. S., Eadie, G., and the DESI collaboration, “A distribution function-based estimation of the Milky Way mass using DESI Y1 RR Lyrae and horizontal branch stars”, A&A. Estimated submission date: January 2025. -->
+- **Medina, G. E.**, Li, T. S., Eadie, G. M., et al., “The mass of the Milky Way from outer halo stars measured by DESI DR1”, [2025, arXiv:2508.19351](https://ui.adsabs.harvard.edu/abs/2025arXiv250819351M/abstract). <!-- - [Obs],[DA]. -->
 - **Medina, G. E.**, Li, T. S., Allende Prieto, C., et al., “The DESI Y1 RR Lyrae catalog II: The metallicity dependency of pulsational properties, the shape of the RR Lyrae instability strip, and metal rich RR Lyrae”, [2025, arXiv:2505.10614](https://ui.adsabs.harvard.edu/abs/2025arXiv250510614M/abstract). <!-- - [Obs],[DA]. -->
 - **Medina, G. E.**, Li, T. S., Koposov, S., et al., “The DESI Y1 RR Lyrae catalog I: Empirical modeling of the cyclic variation of spectroscopic properties and a chemodynamical analysis of the outer halo”, [2025, arXiv:2504.02924](https://ui.adsabs.harvard.edu/abs/2025arXiv250402924M/abstract). <!-- - [Obs],[DA]. -->
 - **Medina, G. E.**, Muñoz R. R., Carlin, J. L., Vivas, A. K., Grebel, E. K., Martínez-Vázquez, C. E., Hansen, C. J., “Taking the pulse of the outer Milky Way with HOWVAST: an RR Lyrae density profile out to >200 kpc”, [2024, MNRAS, 531, 4762](https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.4762M/abstract).
