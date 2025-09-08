@@ -21,11 +21,11 @@ This is a summarized version of my List of Publications. A detailed version is p
 
 
 
-Number of publications: 52  <!-- / 6    (total / as first author) plus 3 first-author papers soon to be submitted. --> 
+Number of publications: 55  <!-- / 47 papers as coI + 8 as PI;     (total / as first author) plus 3 first-author papers soon to be submitted. --> 
 
-Number of citations: 5,441 <!-- / 81 (total, as first author) -->
+Number of citations: 5,785 <!-- /       81 (total, as first author) -->
 
-h-index: 18 <!-- / 5 (total,as first author) -->
+h-index: 19 <!-- / 5 (total,as first author) -->
 
 
 ## Recent Publications
@@ -47,6 +47,10 @@ h-index: 18 <!-- / 5 (total,as first author) -->
 <!-- - Wertheim, M., Medina, G. E., Li, T. S., et al., “Discovery of distant halo stellar streams using DELVE DR3”, Estimated submission date: 2025. -->
 <!-- - Li, A., Li, T., Medina, G. E., et al., “The simultaneous dwarf galaxy and globular cluster origins of the Jhelum and Indus streams”, Estimated submission date: December 2024. -->
 <!-- - Byström, A., Koposov, S., Lilleengen, S., et al., “Exploring the interaction between the MW and LMC with a large sample of blue horizontal branch stars from the DESI survey”, Estimated submission date: October 2024. -->
+- Gatti, M., Anbajagane, D., Chang, C., et al., “DECADE+DES Y3 Weak Lensing Mass Map: A 13,000 deg2 View of Cosmic Structure from 270 Million Galaxies”, [2025, arXiv:2509.03798](https://ui.adsabs.harvard.edu/abs/2025arXiv250903798G/abstract). <!-- - [Obs], [DA]. -->
+- Anbajagane, D., Chang, C., Drlica-Wagner, A., et al., “The Dark Energy Camera All Data Everywhere cosmic shear project V: Constraints on cosmology and astrophysics from 270 million galaxies across 13,000 deg2 of the sky”, [2025, arXiv:2509.03582](https://ui.adsabs.harvard.edu/abs/2025arXiv250903582A/abstract). <!-- - [Obs], [DA]. -->
+- Sandford, N.~R., Li, T.~S., Koposov, S.~E., et al., “Chemodynamics of BoötesI with S5: Revised Velocity Gradient, Dark Matter Density, and Galactic Chemical Evolution Constraints”, [2025, arXiv:2509.02546](https://ui.adsabs.harvard.edu/abs/2025arXiv250902546S/abstract). <!-- - [Obs], [DA]. -->
+- Byström, A., Koposov, S., Lilleengen, S., et al., ``Exploring the interaction between the MW and LMC with a large sample of blue horizontal branch stars from the DESI survey'', [2025, 542, 560](https://ui.adsabs.harvard.edu/abs/2025MNRAS.542..560B/abstract). <!-- -  [Obs], [DA].-->
 - Heiger, M. E., Ji, A. P., Li, T. S., et al., “Not-so-heavy metal(s): Chemical Abundances in the Ultra-faint Dwarf Galaxies Eridanus IV and Centaurus I”, [2025, arXiv:2508.11012](https://ui.adsabs.harvard.edu/abs/2025arXiv250811012H/abstract). <!-- - [Obs], [DA]. -->
 - Chiti, A., Placco, V., Pace, A., et al., “A second-generation star in a relic dwarf galaxy”, [2025, arXiv:2508.05053](https://ui.adsabs.harvard.edu/abs/2025arXiv250811012H/abstract). <!-- - [Obs], [DA]. -->
 - Yang, H., Wang, W., Zhu, L., et al., “The dark matter content of Milky Way dwarf spheroidal galaxies: Draco, Sextans and Ursa Minor”, [2025, arXiv:2507.02284](https://ui.adsabs.harvard.edu/abs/2025arXiv250702284Y/abstract). <!-- - [Obs], [DA]. -->
@@ -67,7 +71,6 @@ h-index: 18 <!-- / 5 (total,as first author) -->
 - Anbajagane, D., Alarcon, A., Teixeira, R., et al., “The DECADE cosmic shear project II: photometric redshift calibration of the source galaxy sample”, [2025, arXiv:2502.17675](https://arxiv.org/abs/2502.17675). <!-- - [Obs]. -->
 - Anbajagane, D., Chang, C., Zhang, Z., et al., “The DECADE cosmic shear project I: A new weak lensing shape catalog of 107 million galaxies”, [2025, arXiv:2502.17674](https://arxiv.org/abs/2502.17674). <!-- - [Obs]. -->
 - Bayer, M., Starkenburg, E., Thomas G.~F., et al., “A Pristine-UNIONS view on the Galaxy: Kinematics of the distant spur feature of the Sagittarius stream traced by Blue Horizontal Branch stars”, [2025, arXiv:2502.17319](https://arxiv.org/abs/2502.17319). <!-- - [DA]. -->
-- Byström, A., Koposov, S., Lilleengen, S., et al., ``Exploring the interaction between the MW and LMC with a large sample of blue horizontal branch stars from the DESI survey'', [2024, arXiv:2410.09149](https://ui.adsabs.harvard.edu/abs/2024arXiv241009149B/abstract). <!-- -  [Obs], [DA].-->
 - Danieli, S., Kado-Fong, E., Huang, S., et al., “Merian: A Wide-Field Imaging Survey of Dwarf
 Galaxies at z 0.06-0.10”, [2024, arXiv:2410.01884](https://ui.adsabs.harvard.edu/abs/2024arXiv241001884D/abstract). <!-- - [Obs]. -->
 - Cerny, W., Chiti, A., Geha, M., et al., “Discovery and Spectroscopic Confirmation of Aquarius III: A Low-Mass Milky Way Satellite Galaxy”, [2024, arXiv:2410.00981](https://ui.adsabs.harvard.edu/abs/2024arXiv241000981C/abstract). <!-- - [Obs], [DA]. -->
