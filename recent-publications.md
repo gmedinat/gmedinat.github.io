@@ -21,11 +21,11 @@ This is a summarized version of my List of Publications. A detailed version is p
 
 
 
-Number of publications: 55  <!-- / 47 papers as coI + 8 as PI;     (total / as first author) plus 3 first-author papers soon to be submitted. --> 
+Number of publications: 58  <!-- / 47 papers as coI + 8 as PI;     (total / as first author) plus 3 first-author papers soon to be submitted. --> 
 
-Number of citations: 5,785 <!-- /       81 (total, as first author) -->
+Number of citations: 5,875 <!-- /       81 (total, as first author) -->
 
-h-index: 19 <!-- / 5 (total,as first author) -->
+h-index: 20 <!-- / 5 (total,as first author) -->
 
 
 ## Recent Publications
@@ -47,6 +47,9 @@ h-index: 19 <!-- / 5 (total,as first author) -->
 <!-- - Wertheim, M., Medina, G. E., Li, T. S., et al., “Discovery of distant halo stellar streams using DELVE DR3”, Estimated submission date: 2025. -->
 <!-- - Li, A., Li, T., Medina, G. E., et al., “The simultaneous dwarf galaxy and globular cluster origins of the Jhelum and Indus streams”, Estimated submission date: December 2024. -->
 <!-- - Byström, A., Koposov, S., Lilleengen, S., et al., “Exploring the interaction between the MW and LMC with a large sample of blue horizontal branch stars from the DESI survey”, Estimated submission date: October 2024. -->
+- Ding, J., Rockosi, C., Li, T. S., et al., “The Draco Dwarf Spheroidal Galaxy in the First Year of DESI Data”, [2025, arXiv:2509.21822](https://ui.adsabs.harvard.edu/abs/2025arXiv250921822D/abstract). <!-- - [Obs], [DA]. -->
+- To, C.-H., Chang, C., Anbajagane, D., et al., “A DECADE of dwarfs: first detection of weak lensing around spectroscopically confirmed low-mass galaxies”, [2025, arXiv:2509.20458](https://ui.adsabs.harvard.edu/abs/2025arXiv250920458T/abstract). <!-- - [Obs], [DA]. -->
+- Tan, C. Y., Drlica-Wagner, A., Pace, A. B., et al., “DELVE Milky Way Satellite Census I: Satellite Population and Survey Selection Function”, [2025, arXiv:2509.12313](https://ui.adsabs.harvard.edu/abs/2025arXiv250912313T/abstract). <!-- - [Obs], [DA]. -->
 - Gatti, M., Anbajagane, D., Chang, C., et al., “DECADE+DES Y3 Weak Lensing Mass Map: A 13,000 deg2 View of Cosmic Structure from 270 Million Galaxies”, [2025, arXiv:2509.03798](https://ui.adsabs.harvard.edu/abs/2025arXiv250903798G/abstract). <!-- - [Obs], [DA]. -->
 - Anbajagane, D., Chang, C., Drlica-Wagner, A., et al., “The Dark Energy Camera All Data Everywhere cosmic shear project V: Constraints on cosmology and astrophysics from 270 million galaxies across 13,000 deg2 of the sky”, [2025, arXiv:2509.03582](https://ui.adsabs.harvard.edu/abs/2025arXiv250903582A/abstract). <!-- - [Obs], [DA]. -->
 - Sandford, N.~R., Li, T.~S., Koposov, S.~E., et al., “Chemodynamics of BoötesI with S5: Revised Velocity Gradient, Dark Matter Density, and Galactic Chemical Evolution Constraints”, [2025, arXiv:2509.02546](https://ui.adsabs.harvard.edu/abs/2025arXiv250902546S/abstract). <!-- - [Obs], [DA]. -->
