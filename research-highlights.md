@@ -68,7 +68,7 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <!-- Image on the left of text -->
-<img src="{{ '/Figures/RVCs_derivedRRab_varcoeff_wRes_dark.png' | relative_url }}" alt="Data Plots" style="width: 410px; max-width: 10%; margin-right: 15px;">
+<img src="{{ '/Figures/RVCs_derivedRRab_varcoeff_wRes_dark.png' | relative_url }}" alt="Data Plots" style="width: 410px; max-width: 85%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
         In <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250402924M/abstract" target="_blank">Medina et al. (2025a)</a>, we assembled the DESI Y1 RR Lyrae catalog, which contains ~6,000 RR Lyrae stars and a total of ~12,000 epochs. The paper presents a novel methodology to characterize the periodic variation of line-of-sight velocities (vlos) and effective temperature (Teff) of these stars, which enables the computation of their systemic vlos and Teff even if the stars have only been observed once. To show the robustness of the data, we inspect the chemodynamical distribution of RR Lyrae stars in the halo and connect them with the accretion history of the Milky Way.  
     </p>
@@ -78,7 +78,7 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <!-- Image on the right of text -->
-     <img src="{{ '/Figures/Bailey_met_tvhist2d_RdYlBu_r_FEH_hor_dark.png' | relative_url }}" alt="Halo Profile" style="width: 400px; max-width: 100%; margin-right: 15px;">
+     <img src="{{ '/Figures/Bailey_met_tvhist2d_RdYlBu_r_FEH_hor_dark.png' | relative_url }}" alt="DESI2" style="width: 400px; max-width: 100%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
         In <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250510614M/abstract" target="_blank">Medina et al. (2025b)</a>, we explored the role of iron abundance ([Fe/H]) on various aspects of the pulsation properties and formation conditions of RR Lyrae stars. The paper presents, e.g., a study of the metallicity distribution of short-period and double-mode RR Lyrae stars, the first empirical analysis of the shape of the instability strip and its dependence on [Fe/H] from a catalog of homogeneously-derived spectroscopic properties, and an orbital analysis of metal-rich RR Lyrae candidates. 
     </p>
