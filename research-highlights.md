@@ -70,7 +70,7 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
     <!-- Image on the left of text -->
 <img src="{{ '/Figures/RVCs_derivedRRab_varcoeff_wRes_dark.png' | relative_url }}" alt="Data Plots" style="width: 410px; max-width: 60%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
-        In <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250402924M/abstract" target="_blank">Medina et al. (2025a)</a>, we assembled the DESI Y1 RR Lyrae catalog, which contains ~6,000 RR Lyrae stars and a total of ~12,000 epochs. The paper presents a novel methodology to characterize the periodic variation of line-of-sight velocities (vlos) and effective temperature (Teff) of these stars, which enables the computation of their systemic vlos and Teff even if the stars have only been observed once. To show the robustness of the data, we inspect the chemodynamical distribution of RR Lyrae stars in the halo and connect them with the accretion history of the Milky Way.  
+        In <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250402924M/abstract" target="_blank">Medina et al. (2025a)</a>, we assembled the DESI Y1 RR Lyrae catalog, which contains ~6,000 RR Lyrae stars and a total of ~12,000 epochs. The paper presents a novel methodology to characterize the periodic variation of line-of-sight velocities (vlos) and effective temperature (Teff) of these stars, which enables the computation of their systemic vlos and Teff even if the stars have only been observed once. To show the robustness of the data, we inspected the chemodynamical distribution of RR Lyrae stars in the halo and connected them with the accretion history of the Milky Way.  
     </p>
 </div>
 
@@ -89,7 +89,7 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
     <!-- Image on the left of text -->
 <img src="{{ '/Figures/CMP_comparison_h3p-fixed_desirrl_h3p-fixed_newdesibhb_wLit_diffmark_dark.png' | relative_url }}" alt="Data Plots" style="width: 410px; max-width: 100%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
-        In <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250819351M/abstract" target="_blank">Medina et al. (2025c)</a>, we employ the blue horizontal-branch and RR Lyrae samples in DESI Y1 to measure the mass of the Milky Way within 100 kpc from its center following a distribution function-based methodology. We test our method using AuriDESI mock catalogs, compare our results with the literature (other methods and tracers), and explore sources of biases for the derived masses. 
+        In <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250819351M/abstract" target="_blank">Medina et al. (2025c)</a>, we employed the blue horizontal-branch and RR Lyrae samples in DESI Y1 to measure the mass of the Milky Way within 100 kpc from its center following a distribution function-based methodology. We tested our method using AuriDESI mock catalogs, compared our results with the literature (other methods and tracers), and explored sources of biases for the derived masses. 
     </p>
 </div>
 
