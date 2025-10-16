@@ -68,7 +68,7 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <!-- Image on the left of text -->
-<img src="{{ '/Figures/RVCs_derivedRRab_varcoeff_wRes_dark.png' | relative_url }}" alt="Data Plots" style="width: 410px; max-width: 85%; margin-right: 15px;">
+<img src="{{ '/Figures/RVCs_derivedRRab_varcoeff_wRes_dark.png' | relative_url }}" alt="Data Plots" style="width: 410px; max-width: 60%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
         In <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250402924M/abstract" target="_blank">Medina et al. (2025a)</a>, we assembled the DESI Y1 RR Lyrae catalog, which contains ~6,000 RR Lyrae stars and a total of ~12,000 epochs. The paper presents a novel methodology to characterize the periodic variation of line-of-sight velocities (vlos) and effective temperature (Teff) of these stars, which enables the computation of their systemic vlos and Teff even if the stars have only been observed once. To show the robustness of the data, we inspect the chemodynamical distribution of RR Lyrae stars in the halo and connect them with the accretion history of the Milky Way.  
     </p>
