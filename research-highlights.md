@@ -80,14 +80,14 @@ Owing to their relative abundance in the Milky Way halo, dwarf galaxies, and glo
     <!-- Image on the right of text -->
      <img src="{{ '/Figures/Bailey_met_tvhist2d_RdYlBu_r_FEH_hor_dark.png' | relative_url }}" alt="DESI2" style="width: 400px; max-width: 100%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
-        In <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250510614M/abstract" target="_blank">Medina et al. (2025b)</a>, we explored the role of iron abundance ([Fe/H]) on various aspects of the pulsation properties and formation conditions of RR Lyrae stars. The paper presents, e.g., a study of the metallicity distribution of short-period and double-mode RR Lyrae stars, the first empirical analysis of the shape of the instability strip and its dependence on [Fe/H] from a catalog of homogeneously-derived spectroscopic properties, and an orbital analysis of metal-rich RR Lyrae candidates. 
+        In <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250510614M/abstract" target="_blank">Medina et al. (2025b)</a>, we explored the role of iron abundance [Fe/H] on various aspects of the pulsation properties and formation conditions of RR Lyrae stars. The paper presents, e.g., a study of the metallicity distribution of short-period and double-mode RR Lyrae stars, the first empirical analysis of the shape of the instability strip and its dependence on [Fe/H] from a catalog of homogeneously-derived spectroscopic properties, and an orbital analysis of metal-rich RR Lyrae candidates. 
     </p>
 </div>
 
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <!-- Image on the left of text -->
-<img src="{{ '/Figures/RVCs_derivedRRab_varcoeff_wRes_dark.png' | relative_url }}" alt="Data Plots" style="width: 410px; max-width: 100%; margin-right: 15px;">
+<img src="{{ '/Figures/CMP_comparison_h3p-fixed_desirrl_h3p-fixed_newdesibhb_wLit_diffmark_dark.png' | relative_url }}" alt="Data Plots" style="width: 410px; max-width: 100%; margin-right: 15px;">
     <p style="text-align: justify; flex: 1;">
         In <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250819351M/abstract" target="_blank">Medina et al. (2025c)</a>, we employ the blue horizontal-branch and RR Lyrae samples in DESI Y1 to measure the mass of the Milky Way within 100 kpc from its center following a distribution function-based methodology. We test our method using AuriDESI mock catalogs, compare our results with the literature (other methods and tracers), and explore sources of biases for the derived masses. 
     </p>
