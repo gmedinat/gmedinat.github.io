@@ -28,8 +28,8 @@ permalink: /cv/
 
 This is a shortened version of my CV. Detailed versions of my CV and my publication records (_as of May 25, 2025_) are provided in the following links:
 
-- [Download my Full CV (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/2f127631962e28dd8964a57769f70f073d44b2d4/CV_GMT_20250525.pdf)
-- [Download my List of Publications (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/2f127631962e28dd8964a57769f70f073d44b2d4/Publications_GMT_20250525.pdf)
+- [Download my Full CV (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/357461f3e9222a3fa058332b2ad3858e193c4090/CV_GMT_20251024.pdf)
+- [Download my List of Publications (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/357461f3e9222a3fa058332b2ad3858e193c4090/CV_GMT_20251024.pdf)
 
 
 ## Research Interests
