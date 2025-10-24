@@ -26,7 +26,7 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-This is a shortened version of my CV. Detailed versions of my CV and my publication records (_as of May 25, 2025_) are provided in the following links:
+This is a shortened version of my CV. Detailed versions of my CV and my publication records (_as of October 24, 2025_) are provided in the following links:
 
 - [Download my Full CV (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/357461f3e9222a3fa058332b2ad3858e193c4090/CV_GMT_20251024.pdf)
 - [Download my List of Publications (in pdf)](https://github.com/gmedinat/gmedinat.github.io/blob/357461f3e9222a3fa058332b2ad3858e193c4090/CV_GMT_20251024.pdf)
