@@ -272,7 +272,15 @@ Germany. (Sep/2016)
 
 
 ## Students Supervised
-**Undergraduate students**
+**Master (MSc) students**
+
+  - Matthias Gerlach - Pontificia Universidad Católica (Nov/2025–)
+
+    “Searching for halo substructures using RR Lyrae and blue horizontal-branch stars” 
+
+    **Results:** In progress.
+
+**Undergraduate (BSc) students**
 
   - Aishani Chaudhuri - University of Toronto (May/2025–)
 
