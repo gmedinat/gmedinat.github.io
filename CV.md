@@ -274,7 +274,7 @@ Germany. (Sep/2016)
 ## Students Supervised
 **Master (MSc) students**
 
-  - Matthias Gerlach - Pontificia Universidad Católica (Nov/2025–)
+  - Matthias Gerlach (as external co-supervisor) - Pontificia Universidad Católica (Nov/2025–)
 
     “Searching for halo substructures using RR Lyrae and blue horizontal-branch stars” 
 
