@@ -134,6 +134,7 @@ This list includes in-person and remote observations for the following surveys: 
 
 ## Selected Invited Talks and Seminars (recent only!)
 
+- “Stellar Variability: Taking the Pulse of the Universe”, **Invited talk** at conference, Pune, India (Nov/2025)
 - “The structure and accretion history of the Milky Way using halo RR Lyrae stars in large surveys”, Herzberg Astronomy and Astrophysics Research Centre Colloquium, Victoria, BC, Canada (September/2025)
 - “Inferring the mass of the Milky Way mass with distant RR Lyrae and blue horizontal-branch stars”, remote talk at DESI collaboration meeting, Berkeley, CA, USA (Jul/2025)
 - “Spectroscopic characterization and chemodynamical analysis of RR Lyrae stars in the DESI survey”, Côte d’Azur Observatory, Nice, France (Jul/2025)
@@ -159,7 +160,6 @@ and spectroscopy of halo RR Lyrae stars”, NOIRLab Colloquium, NOIRLab, La Sere
 ### Conferences with contributions (recent only!) 
 (**[T]**: Contributed Talk, **[P]**: Poster Presentation)
 
-- Stellar Variability: Taking the Pulse of the Universe, Pune, India (Nov/2025) **T**
 - IAU 403: The hidden beauty of the Galactic outskirts, Cordoba, Spain (Oct/2025) **T**
 - DESI annual collaboration meeting, Cancún, Mexico (Dec/2024) **T** (2 talks: contributed & invited)
 - The RR Lyrae and Cepheid meeting 2024 Frontiers of Classical Pulsators, Marrakesh,
