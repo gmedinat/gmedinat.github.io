@@ -101,7 +101,7 @@ Germany.
 DS9, IRAF, iSpec, BASE-9, MESA
 
 ## Observing Experience
-- **45 nights**: DECam@Blanco 4 m telescope, Cerro Tololo Inter-American Observatory (2015 - 2024)
+- **49 nights**: DECam@Blanco 4 m telescope, Cerro Tololo Inter-American Observatory (2015 - 2024)
 - **6 nights**: DESI@Mayall 4 m telescope, Kitt Peak National Observatory (2024)
 - **2 nights**: IMACS@Baade 6.5 m (Magellan) telescope, Las Campanas Observatory (2022)
 - **5 nights**: MIKE@Clay 6.5 m (Magellan) telescope, Las Campanas Observatory (2019 - 2024)
@@ -109,11 +109,13 @@ DS9, IRAF, iSpec, BASE-9, MESA
 - **3 nights**: CCD Imager@Du Pont 2.5 m telescope, Las Campanas Observatory (2017)
 - **2 nights**: CCD Imager@SMARTS 0.9 m telescope, Cerro Tololo Inter-American Observatory (2013)
 
-This list includes in-person and remote observations for the following surveys: DELVE, DESI, S5 , HOWVAST, SMASH, Merian, HiTS, MADCASH, DECAT.
+This list includes in-person and remote observations for the following surveys: DELVE, DESI, S5 , HOWVAST, SMASH, Merian, HiTS, MADCASH, DECAT, and IBIS.
 
 ## Successful Observing Proposals
 
 **As PI**
+- “Tracing the origin of outer halo high-amplitude short-period RR Lyrae stars using high-resolution spectroscopy”, 2026A, Gemini-GHOST **(12 hr)**.
+- “The CEMP-r Puzzle: Mapping Sites and Timescales of Early r-Process Enrichment”, 2026A, Gemini-GHOST **(12 hr)**.
 - “Improving the velocity estimation of the best distance tracers in the Milky Way outer halo observed by DESI”, 2024B, Spare fiber program for the Dark Energy Spectroscopic Instrument survey, KPNO-Mayall, DESI (**∼4000 outer halo RR Lyrae stars with DESI**).
 - “Constraining the 3-D morphology and extension of the Orphan-Chenab kink with RR Lyrae stars”, 2024B, CTIO-Blanco, DECam **(4 nights)**.
 - “Searching for evidence of the Orphan-Chenab stream progenitor with RR Lyrae stars”, 2024A, CTIO-Blanco, DECam **(4 nights)**.
@@ -260,16 +262,19 @@ Germany. (Sep/2016)
   - Intercultural Training (Jul/2020)
   - Human Resources Management (Jan/2019)
 
-## Teaching Experience (as teaching assistant)
-- **Winter 2020**: Astronomical Techniques (Block), Heidelberg University
-- **Winter 2020**: Astronomy Laboratory, Heidelberg University
-- **Summer 2019**: Introduction to Astronomy and Astrophysics II, Heidelberg University
-- **Winter 2019**: Astronomical Techniques (Block), Heidelberg University
-- **Spring 2016**: Experimental Astronomy, Universidad de Chile
-- **Autumn 2016**: Experimental Astronomy, Universidad de Chile
-- **Spring 2015**: General Astronomy, Universidad de Chile
-- **Autumn 2015**: General Astronomy, Universidad de Chile
+## Teaching Experience 
+**As teaching assistant**
+  - Winter 2020: Astronomical Techniques (Block), Heidelberg University
+  - Winter 2020: Astronomy Laboratory, Heidelberg University
+  - Summer 2019: Introduction to Astronomy and Astrophysics II, Heidelberg University
+  - Winter 2019: Astronomical Techniques (Block), Heidelberg University
+  - Spring 2016: Experimental Astronomy, Universidad de Chile
+  - Autumn 2016: Experimental Astronomy, Universidad de Chile
+  - Spring 2015: General Astronomy, Universidad de Chile
+  - Autumn 2015: General Astronomy, Universidad de Chile
 
+**Additional teaching experience**
+  - Winter 2025: External tutor in the EXPLORE VI international research school, Goethe University Frankfurt, York University
 
 ## Students Supervised
 **Master (MSc) students**
