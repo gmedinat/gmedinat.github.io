@@ -21,11 +21,11 @@ This is a summarized version of my List of Publications. A detailed version is p
 
 
 
-Number of publications: 58  <!-- / 47 papers as coI + 8 as PI;     (total / as first author) plus 3 first-author papers soon to be submitted. --> 
+Number of publications: 68  <!-- / 47 papers as coI + 8 as PI;     (total / as first author) plus 3 first-author papers soon to be submitted. --> 
 
-Number of citations: 5,875 <!-- /       81 (total, as first author) -->
+Number of citations: 6,402 <!-- /       81 (total, as first author) -->
 
-h-index: 20 <!-- / 5 (total,as first author) -->
+h-index: 22 <!-- / 5 (total,as first author) -->
 
 
 ## Recent Publications
@@ -47,6 +47,10 @@ h-index: 20 <!-- / 5 (total,as first author) -->
 <!-- - Wertheim, M., Medina, G. E., Li, T. S., et al., “Discovery of distant halo stellar streams using DELVE DR3”, Estimated submission date: 2025. -->
 <!-- - Li, A., Li, T., Medina, G. E., et al., “The simultaneous dwarf galaxy and globular cluster origins of the Jhelum and Indus streams”, Estimated submission date: December 2024. -->
 <!-- - Byström, A., Koposov, S., Lilleengen, S., et al., “Exploring the interaction between the MW and LMC with a large sample of blue horizontal branch stars from the DESI survey”, Estimated submission date: October 2024. -->
+- Lambert, M., Rockosi, C. M., Koposov, S. E., et al., “Signatures of a Tidally Induced Spiral Arm at the Anticenter of the Milky Way and a Kinematically Extended Anticenter Stream Using DESI DR2”, [2025, arXiv:2601.14562](https://ui.adsabs.harvard.edu/abs/2026arXiv260114562L/abstract). <!-- - [Obs], [DA]. -->
+- Webber, K. B., Hansen, T. T., Marshall, J. L., et al., “Detailed Chemical Abundance Analysis of the Brightest Stars in the Turranburra and Willka Yaku Stellar Streams”, [2025, arXiv:2512.10003](https://ui.adsabs.harvard.edu/abs/2025arXiv251210003W/abstract). <!-- - [Obs], [DA]. -->
+- Oden, S. J., Nidever, D. L., Povick, J., et al., “Warped & Hooked: Mapping the Magellanic Clouds in 3D using Red Clump stars”, [2025, arXiv:2512.04200](https://ui.adsabs.harvard.edu/abs/2025arXiv251204200O). <!-- - [Obs], [DA]. -->
+- Li, S., Wang, W., Koposov, S. E., et al., “The Milky Way stellar halo is twisted and doubly broken: insights from DESI DR2 Milky Way Survey observation”, [2025, arXiv:2512.01350](https://ui.adsabs.harvard.edu/abs/2025arXiv251201350L/abstract). <!-- - [Obs], [DA]. -->
 - Ding, J., Rockosi, C., Li, T. S., et al., “The Draco Dwarf Spheroidal Galaxy in the First Year of DESI Data”, [2025, arXiv:2509.21822](https://ui.adsabs.harvard.edu/abs/2025arXiv250921822D/abstract). <!-- - [Obs], [DA]. -->
 - To, C.-H., Chang, C., Anbajagane, D., et al., “A DECADE of dwarfs: first detection of weak lensing around spectroscopically confirmed low-mass galaxies”, [2025, arXiv:2509.20458](https://ui.adsabs.harvard.edu/abs/2025arXiv250920458T/abstract). <!-- - [Obs], [DA]. -->
 - Tan, C. Y., Drlica-Wagner, A., Pace, A. B., et al., “DELVE Milky Way Satellite Census I: Satellite Population and Survey Selection Function”, [2025, arXiv:2509.12313](https://ui.adsabs.harvard.edu/abs/2025arXiv250912313T/abstract). <!-- - [Obs], [DA]. -->
