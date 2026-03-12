@@ -21,11 +21,11 @@ This is a summarized version of my List of Publications. A detailed version is p
 
 
 
-Number of publications: 68  <!-- / 47 papers as coI + 8 as PI;     (total / as first author) plus 3 first-author papers soon to be submitted. --> 
+Number of publications in peer-reviewed journals: 65  <!-- / 47 papers as coI + 8 as PI;     (total / as first author) plus 3 first-author papers soon to be submitted. --> 
 
-Number of citations: 6,402 <!-- /       81 (total, as first author) -->
+Number of citations: 6,569 <!-- /       81 (total, as first author) -->
 
-h-index: 22 <!-- / 5 (total,as first author) -->
+h-index: 23 <!-- / 5 (total,as first author) -->
 
 
 ## Recent Publications
@@ -47,10 +47,11 @@ h-index: 22 <!-- / 5 (total,as first author) -->
 <!-- - Wertheim, M., Medina, G. E., Li, T. S., et al., “Discovery of distant halo stellar streams using DELVE DR3”, Estimated submission date: 2025. -->
 <!-- - Li, A., Li, T., Medina, G. E., et al., “The simultaneous dwarf galaxy and globular cluster origins of the Jhelum and Indus streams”, Estimated submission date: December 2024. -->
 <!-- - Byström, A., Koposov, S., Lilleengen, S., et al., “Exploring the interaction between the MW and LMC with a large sample of blue horizontal branch stars from the DESI survey”, Estimated submission date: October 2024. -->
-- Lambert, M., Rockosi, C. M., Koposov, S. E., et al., “Signatures of a Tidally Induced Spiral Arm at the Anticenter of the Milky Way and a Kinematically Extended Anticenter Stream Using DESI DR2”, [2025, arXiv:2601.14562](https://ui.adsabs.harvard.edu/abs/2026arXiv260114562L/abstract). <!-- - [Obs], [DA]. -->
+- Yang, Y., Lewis, G. F., Li, T. S., et al., “Epicyclic Density Variations in the Indus Stellar Stream”, [2026, arXiv:2603.09305](https://ui.adsabs.harvard.edu/abs/2026arXiv260309305Y/abstract). <!-- - [Obs], [DA]. -->
+- Lambert, M., Rockosi, C. M., Koposov, S. E., et al., “Signatures of a Tidally Induced Spiral Arm at the Anticenter of the Milky Way and a Kinematically Extended Anticenter Stream Using DESI DR2”, [2026, arXiv:2601.14562](https://ui.adsabs.harvard.edu/abs/2026arXiv260114562L/abstract). <!-- - [Obs], [DA]. -->
 - Webber, K. B., Hansen, T. T., Marshall, J. L., et al., “Detailed Chemical Abundance Analysis of the Brightest Stars in the Turranburra and Willka Yaku Stellar Streams”, [2025, arXiv:2512.10003](https://ui.adsabs.harvard.edu/abs/2025arXiv251210003W/abstract). <!-- - [Obs], [DA]. -->
 - Oden, S. J., Nidever, D. L., Povick, J., et al., “Warped & Hooked: Mapping the Magellanic Clouds in 3D using Red Clump stars”, [2025, arXiv:2512.04200](https://ui.adsabs.harvard.edu/abs/2025arXiv251204200O). <!-- - [Obs], [DA]. -->
-- Li, S., Wang, W., Koposov, S. E., et al., “The Milky Way stellar halo is twisted and doubly broken: insights from DESI DR2 Milky Way Survey observation”, [2025, arXiv:2512.01350](https://ui.adsabs.harvard.edu/abs/2025arXiv251201350L/abstract). <!-- - [Obs], [DA]. -->
+- Li, S., Wang, W., Koposov, S. E., et al., “The Milky Way stellar halo is twisted and doubly broken: insights from DESI DR2 Milky Way Survey observation”, [2026, ApJ, 999, 108](https://ui.adsabs.harvard.edu/abs/2026ApJ...999..108L/abstract). <!-- - [Obs], [DA]. -->
 - Ding, J., Rockosi, C., Li, T. S., et al., “The Draco Dwarf Spheroidal Galaxy in the First Year of DESI Data”, [2025, arXiv:2509.21822](https://ui.adsabs.harvard.edu/abs/2025arXiv250921822D/abstract). <!-- - [Obs], [DA]. -->
 - To, C.-H., Chang, C., Anbajagane, D., et al., “A DECADE of dwarfs: first detection of weak lensing around spectroscopically confirmed low-mass galaxies”, [2025, arXiv:2509.20458](https://ui.adsabs.harvard.edu/abs/2025arXiv250920458T/abstract). <!-- - [Obs], [DA]. -->
 - Tan, C. Y., Drlica-Wagner, A., Pace, A. B., et al., “DELVE Milky Way Satellite Census I: Satellite Population and Survey Selection Function”, [2025, arXiv:2509.12313](https://ui.adsabs.harvard.edu/abs/2025arXiv250912313T/abstract). <!-- - [Obs], [DA]. -->
@@ -64,7 +65,7 @@ h-index: 22 <!-- / 5 (total,as first author) -->
 - Chiti, A., Tavangar, K., Ferguson, P. S., et al., “DELVE-ing into the Milky Way's Globular Clusters: Assessing extra-tidal features in NGC 5897, NGC 7492, and testing detectability with deeper photometry”, [2025, AJ, 170, 294](https://ui.adsabs.harvard.edu/abs/2025AJ....170..294C/abstract). <!-- - [Obs], [DA]. -->
 - Placco, V.~M, Limberg, G., Chiti, A., et al., “The DECam MAGIC Survey: Spectroscopic Follow-up of the Most Metal-Poor Stars in the Distant Milky Way Halo”, [2025, ApJ, 991, 101](https://ui.adsabs.harvard.edu/abs/2025ApJ...991..101P/abstract). <!-- - [Obs], [DA]. -->
 - Pace, A., Li, T.~S., Ji, A.~P., et al., “Spectroscopic Analysis of Pictor II: a very low metallicity ultra-faint dwarf galaxy bound to the Large Magellanic Cloud”, [2025, OJAp, 8, 112](https://ui.adsabs.harvard.edu/abs/2025OJAp....8E.112P/abstract). <!-- - [Obs], [DA]. -->
-- Koposov, S., Li, T. S., Allende Prieto, C., et al., “DESI Data Release 1: Stellar Catalogue”, [2025, arXiv:2505.14787](https://ui.adsabs.harvard.edu/abs/2025arXiv250514787K/abstract). <!-- - [Obs], [DA]. -->
+- Koposov, S., Li, T. S., Allende Prieto, C., et al., “DESI Data Release 1: Stellar Catalogue”, [2026, OJAp, 9, 555260](https://ui.adsabs.harvard.edu/abs/2026OJAp....955260K/abstract). <!-- - [Obs], [DA]. -->
 - Kim, B., Koposov, S., Li, Ti., et al., “Nearby stellar substructures in the Galactic halo from DESI Milky Way Survey Year 1 Data Release”, [2025, MNRAS, 540, 264](https://ui.adsabs.harvard.edu/abs/2025MNRAS.540..264K/abstract). <!-- - [Obs], [DA]. -->
 - Casey, Q. O., Mutlu-Pakdil, B., Sand, D. J., et al., “Deep Photometric Observations of Ultra-Faint Milky Way Satellites Centaurus I and Eridanus IV”, [2025, ApJ, 984, 148](https://ui.adsabs.harvard.edu/abs/2025ApJ...984..148C/abstract).   <!-- - [Obs], [DA]. -->
 - Doliva-Dolinsky, A., Mutlu-Pakdil, B., Crnojević, D., et al., “The NGC3109 Satellite System: The First Systematic Resolved Search for Dwarf Galaxies Around a SMC-mass Host”, [2025, ApJ, 989, 21](https://ui.adsabs.harvard.edu/abs/2025ApJ...989...21D/abstract). <!-- - [Obs], [DA]. -->
