@@ -136,6 +136,9 @@ This list includes in-person and remote observations for the following surveys: 
 
 ## Selected Invited Talks and Seminars (recent only!)
 
+- “RR Lyrae and Cepheid Stars 2026: The Rubin Era”, **Invited talk** at conference, La Serena, Chile (Dec/2026)
+- “Inferring the Milky Way's history with outer halo variable stars”, UNAB Seminar, Universidad Andrés Bello, Chile (Jan/2026)
+- “The mass of the Milky Way from RR Lyrae and blue horizontal-branch star dynamics in DESI DR2”, remote talk at DESI collaboration meeting, Tucson, AZ, USA (Dec/2025)
 - “Stellar Variability: Taking the Pulse of the Universe”, **Invited talk** at conference, Pune, India (Nov/2025)
 - “The structure and accretion history of the Milky Way using halo RR Lyrae stars in large surveys”, Herzberg Astronomy and Astrophysics Research Centre Colloquium, Victoria, BC, Canada (September/2025)
 - “Inferring the mass of the Milky Way mass with distant RR Lyrae and blue horizontal-branch stars”, remote talk at DESI collaboration meeting, Berkeley, CA, USA (Jul/2025)
