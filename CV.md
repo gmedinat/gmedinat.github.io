@@ -353,14 +353,22 @@ Germany. (Sep/2016)
     **Results:** Several hypervelocity stars identified in the DESI survey (Y3 database). Spectroscopic follow-up in preparation.
 
 ## Public Outreach
-- Talk “La Vía Láctea y las distancias a escala Galáctica” offered remotely and in person for several rural schools in Chile (2021-)
+
+- Talk “Rulers in space: Measuring distances in the Universe”, North York Central Library, Toronto, Canada (Jun, 2026)
+- Talk “Exploring the Milky Way and the distant Universe”, Barbara Frum Public Library, Toronto, Canada (Apr, 2026)
+- Talk “Taking the pulse of the Universe with variable stars”, Astronomy on TAP, Toronto, Canada (Mar/2026)
+- Talk “The Milky Way and the exploration of the distant Universe”, Marshall McLuhan Catholic Secondary School, Toronto, Canada (Dec/2024)
+- Talk “Explorando los confines de la V\'ia L\'actea y el universo a gran escala”, Teatro municipal de Longaví, Longaví, Chile (Apr/2024)
 - Talk “The Milky Way: Our Home in the Universe” offered for the Astronomy in Action Space Rangers Summer Camp (Aug/2023)
 - Talk “Astronomy in the 21st century” offered remotely for diverse schools in Canada and the US (2023-)
 - Volunteer at the “Astronomy on TAP” outreach events at the University of Toronto (2023-)
 - Volunteer at the “Universe” outreach program of the University of Toronto (2023-)
 - Panelist at the 2023 Visions of Science Empower Leadership Program career event at the University of Toronto (July/2023)
-- Guide on high-school visits to the Department of Astronomy and Astrophysics, University of Toronto, Canada (2023-)
+- Talk “La Vía Láctea y las distancias a escala Galáctica”, Liceo Rural Municipal Atenea Cunco, Cunco, Chile (Jul/2021)
 - Guide on the national heritage day at the National Astronomical Observatory, Chile (May/2017)
+
+<!-- - Guide on high-school visits to the Department of Astronomy and Astrophysics, University of Toronto, Canada (2023-)
+ -->
 
 ## Languages
 - Spanish (Native speaker)
