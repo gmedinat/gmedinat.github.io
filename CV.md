@@ -138,6 +138,8 @@ This list includes in-person and remote observations for the following surveys: 
 ## Selected Invited Talks and Seminars (recent only!)
 
 - “RR Lyrae and Cepheid Stars 2026: The Rubin Era”, **Invited talk** at conference, La Serena, Chile (Dec/2026)
+- “The Milky Way halo – signatures of accretion” conference, **Invited talk** at conference, Paris, France (Oct/2026)
+- “The structure and accretion history of the Milky Way unveiled by halo RR Lyrae stars”, Instituto de Astrofisica Seminar, Pontificia Universidad Catolica, Chile (Oct/2026)
 - “Reconstructing the history of the Milky Way with variable stars”, RBI Seminar, Ruđer Bošković Institute, Croatia (May/2026)
 - “Inferring the Milky Way's history with outer halo variable stars”, UNAB Seminar, Universidad Andrés Bello, Chile (Jan/2026)
 - “The mass of the Milky Way from RR Lyrae and blue horizontal-branch star dynamics in DESI DR2”, remote talk at DESI collaboration meeting, Tucson, AZ, USA (Dec/2025)
@@ -167,6 +169,7 @@ and spectroscopy of halo RR Lyrae stars”, NOIRLab Colloquium, NOIRLab, La Sere
 ### Conferences with contributions (recent only!) 
 (**[T]**: Contributed Talk, **[P]**: Poster Presentation)
 
+- LSST@Europe8, Budapest, Hungary (Sep/2026; remote) **T**
 - Near Field Cosmology in the Era of Big Data: Local Group and Beyond, Toronto, Canada (July/2026) **T**
 - IAU 403: The hidden beauty of the Galactic outskirts, Cordoba, Spain (Oct/2025) **T**
 - DESI annual collaboration meeting, Cancún, Mexico (Dec/2024) **T** (2 talks: contributed & invited)
