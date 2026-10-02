@@ -138,7 +138,7 @@ This list includes in-person and remote observations for the following surveys: 
 ## Selected Invited Talks and Seminars (recent only!)
 
 - “RR Lyrae and Cepheid Stars 2026: The Rubin Era”, **Invited talk** at conference, La Serena, Chile (Dec/2026)
-- “The Milky Way halo – signatures of accretion” conference, **Invited talk** at conference, Paris, France (Oct/2026)
+- “The Milky Way halo – signatures of accretion”, **Invited talk** at conference, Paris, France (Oct/2026)
 - “The structure and accretion history of the Milky Way unveiled by halo RR Lyrae stars”, Instituto de Astrofisica Seminar, Pontificia Universidad Catolica, Chile (Oct/2026)
 - “Reconstructing the history of the Milky Way with variable stars”, RBI Seminar, Ruđer Bošković Institute, Croatia (May/2026)
 - “Inferring the Milky Way's history with outer halo variable stars”, UNAB Seminar, Universidad Andrés Bello, Chile (Jan/2026)
